@@ -1,0 +1,51 @@
+# The five counts as pleaded in the complaint.
+# status_color: green (PI granted on theory) | amber (likelihood found / contested) | gray (not reached)
+
+- count: I
+  short: APA — 10 U.S.C. § 3252 Supply Chain Designation
+  full: APA challenge to the 10 U.S.C. § 3252 Supply Chain Designation as in excess
+    of statutory authority, contrary to law, and arbitrary and capricious.
+  defendants: [Hegseth, Department of War]
+  status_at_pi: Likelihood of success found on all three subsections of § 706(2).
+  status: Cross-MSJ briefing through July 2026; PI in force.
+  status_color: green
+
+- count: II
+  short: APA — Hegseth Directive
+  full: APA challenge to the contractor-blacklist language of the February 27 Hegseth
+    Directive as in excess of statutory authority.
+  defendants: [Hegseth, Department of War]
+  status_at_pi: Found ultra vires after government conceded no statutory authority and
+    "absolutely no legal effect."
+  status: PI in force; final disposition pending MSJ.
+  status_color: green
+
+- count: III
+  short: Fifth Amendment procedural due process
+  full: Procedural due process challenge to all three Challenged Actions — depriving
+    Anthropic of a protected liberty interest in federal-contracting eligibility and
+    reputation without pre-deprivation notice or opportunity to respond.
+  defendants: [All Defendants]
+  status_at_pi: Likelihood of success found under Mathews v. Eldridge; "reputation plus"
+    test (Trifax, Old Dominion Dairy) satisfied.
+  status: PI in force.
+  status_color: green
+
+- count: IV
+  short: First Amendment retaliation (alt. viewpoint discrimination)
+  full: First Amendment retaliation under Arizona Students' Ass'n / Hartman v. Moore;
+    alternative theory of viewpoint discrimination.
+  defendants: [All Defendants]
+  status_at_pi: Likelihood of success found on retaliation theory; alternative viewpoint
+    theory not reached.
+  status: PI in force; viewpoint theory remains open for MSJ.
+  status_color: green
+
+- count: V
+  short: Ultra vires — Presidential Directive
+  full: Ultra vires challenge to the February 27 Presidential Directive as in excess of
+    statutory and constitutional authority.
+  defendants: [Trump, Executive Office of the President]
+  status_at_pi: Not reached. Three independent merits problems already supported the PI.
+  status: Remains open for summary judgment.
+  status_color: gray

@@ -1,0 +1,142 @@
+# Timeline of the dispute. Edit to add/refine entries.
+# kind: background | dispute | government-action | litigation | ruling | commentary
+
+- date: 2023-01-01
+  kind: background
+  title: Anthropic's Usage Policy bars two specific use cases
+  detail: Since 2023, Anthropic's Usage Policy for Claude has prohibited (a) mass
+    surveillance of Americans and (b) lethal autonomous warfare, regardless of customer.
+
+- date: 2025-03-01
+  kind: background
+  title: "\"Claude Gov\" deployed inside DoD"
+  detail: Claude Gov enters DoD use under the Usage Policy restrictions, eventually
+    holding Top Secret FCL, FedRAMP High / DoD IL 4-5.
+
+- date: 2025-07-01
+  kind: background
+  title: $200M CDAO contract
+  detail: Anthropic signs a $200M Chief Digital and AI Office contract with the Department of Defense.
+
+- date: 2025-08-01
+  kind: background
+  title: GSA government-wide deal
+  detail: Anthropic secures a GSA government-wide acquisition vehicle.
+
+- date: 2025-09-05
+  kind: background
+  title: DoD renamed Department of War
+  detail: Executive Order 14347 renames the Department of Defense to the Department of War.
+  citation: 90 Fed. Reg. 43893
+
+- date: 2026-01-15
+  kind: dispute
+  title: Amodei essay on the contracting impasse
+  detail: Anthropic CEO Dario Amodei publishes a January 2026 essay discussing the impasse
+    with DoW over Usage Policy carve-outs.
+
+- date: 2026-02-24
+  kind: dispute
+  title: Hegseth gives 5pm Feb. 27 deadline
+  detail: At a meeting with Amodei and Sarah Heck, Secretary Hegseth threatens both a
+    supply-chain risk designation and Defense Production Act invocation if Anthropic does
+    not accept "any lawful use" language.
+
+- date: 2026-02-26
+  kind: dispute
+  title: Anthropic public statement
+  detail: Anthropic issues a public statement explaining its position on the contracting impasse.
+
+- date: 2026-02-27
+  kind: government-action
+  title: Presidential Directive (Trump, Truth Social)
+  detail: At 3:47 p.m. ET, President Trump posts on Truth Social directing every federal
+    agency to "IMMEDIATELY CEASE all use of Anthropic's technology." Cites no statutory authority.
+  source_url: https://truthsocial.com/@realDonaldTrump
+
+- date: 2026-02-27
+  kind: government-action
+  title: Hegseth Directive (X post)
+  detail: About an hour later, Secretary Hegseth posts on X (a) designating Anthropic a
+    "Supply-Chain Risk to National Security" and (b) declaring that "no contractor, supplier,
+    or partner that does business with the United States military may conduct any commercial
+    activity with Anthropic."
+
+- date: 2026-02-28
+  kind: background
+  title: OpenAI announces parallel DoW deal
+  detail: OpenAI announces a Pentagon deployment contract with substantively similar
+    restrictions (no mass surveillance, no autonomous weapons, no high-stakes automated
+    decisions) — raising disparate-treatment questions.
+
+- date: 2026-03-03
+  kind: government-action
+  title: Formal § 3252 Supply Chain Designation
+  detail: Secretary Hegseth issues a formal determination designating Anthropic a supply-chain
+    risk under 10 U.S.C. § 3252; a separate March 3 letter invokes FASCSA (41 U.S.C. § 4713).
+
+- date: 2026-03-09
+  kind: litigation
+  title: Anthropic files in N.D. Cal. and D.C. Cir.
+  detail: Plenary APA + constitutional action filed in the Northern District of California
+    (Judge Rita F. Lin); separate petition for review filed in the D.C. Circuit challenging
+    the FASCSA letter.
+
+- date: 2026-03-09
+  kind: litigation
+  title: Anthropic moves for TRO, PI, and § 705 stay (N.D. Cal.)
+  detail: Combined emergency motion filed the same day as the complaint.
+
+- date: 2026-03-11
+  kind: litigation
+  title: Anthropic moves for emergency stay (D.C. Cir.)
+  detail: 5,188-word emergency motion to stay the FASCSA designation pending review.
+
+- date: 2026-03-24
+  kind: litigation
+  title: Oral argument on PI (N.D. Cal.)
+  detail: 'Government counsel concedes that no statute authorizes Hegseth''s contractor
+    blacklist language and that it has "absolutely no legal effect at all."'
+
+- date: 2026-03-26
+  kind: ruling
+  title: Preliminary injunction GRANTED (N.D. Cal.)
+  detail: Judge Lin grants Anthropic's motion in a 43-page opinion (Dkt. 134/135) and stays
+    the Hegseth Directive and Supply Chain Designation under 5 U.S.C. § 705. Bond set at $100.
+  source_url: https://www.courtlistener.com/docket/72379655/anthropic-pbc-v-us-department-of-war/
+
+- date: 2026-04-02
+  kind: litigation
+  title: Government files notice of appeal (9th Cir.)
+  detail: 9th Cir. assigns case number 26-2011.
+
+- date: 2026-04-20
+  kind: ruling
+  title: D.C. Cir. denies emergency stay
+  detail: Per curiam denial (Wilkins, Katsas, Rao). Commentary reads the denial as procedurally
+    driven, not a merits signal.
+
+- date: 2026-04-23
+  kind: litigation
+  title: Cross-MSJ schedule set (N.D. Cal.)
+  detail: Joint stipulation entered (Dkt. 150). Government Answer due 6/8; Anthropic MSJ
+    due 6/10; cross-briefing through 7/15; hearing 7/30/2026.
+
+- date: 2026-04-27
+  kind: ruling
+  title: 9th Cir. stays government's appeal
+  detail: Stay granted unopposed pending resolution of the D.C. Cir. petition; government
+    must move for relief within 21 days of D.C. Cir. decision.
+
+- date: 2026-05-19
+  kind: litigation
+  title: D.C. Cir. oral argument
+  detail: Argument held before Henderson, Katsas, and Rao on three pre-ordered issues
+    (§ 1327 jurisdiction; "covered procurement action"; whether Anthropic can affect Claude's
+    functioning after delivery).
+
+- date: 2026-05-21
+  kind: litigation
+  title: D.C. Cir. orders supplemental briefs
+  detail: Panel orders supplemental briefs (originally due 5/28, extended to 6/4) — suggests
+    the panel is wrestling with at least one of the briefed issues.

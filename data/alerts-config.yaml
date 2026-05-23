@@ -1,0 +1,54 @@
+# Configuration for the monitor cron jobs.
+# Email sending is disabled until RESEND_API_KEY or POSTMARK_TOKEN is set.
+
+recipients:
+  - mark.j.williams@vanderbilt.edu
+
+# Email format chosen by the maintainer: plain text only.
+email_format: plain
+
+# Sources for the news/commentary monitor.
+sources:
+  rss:
+    - https://www.lawfaremedia.org/feed
+    - https://www.justsecurity.org/feed/
+    - https://reason.com/volokh/feed/
+    - https://news.google.com/rss/search?q=%22Anthropic%22+%22Department+of+War%22&hl=en-US&gl=US&ceid=US:en
+    - https://news.google.com/rss/search?q=%22Anthropic%22+%22Hegseth%22+%22supply+chain%22&hl=en-US&gl=US&ceid=US:en
+    - https://www.scotusblog.com/feed/
+
+# A news item is added to data/news.yaml (with approved: false) when both:
+#   - it mentions "Anthropic" (case-insensitive), AND
+#   - it mentions at least one of these terms.
+relevance_terms:
+  - Department of War
+  - Hegseth
+  - supply chain
+  - FASCSA
+  - Judge Lin
+  - 3252
+  - 4713
+  - "26-1049"
+  - "26-2011"
+
+# Docket entry descriptions matching any of these regexes open a GitHub issue
+# tagged `new-filing` and are highlighted in the daily digest.
+high_signal_descriptions:
+  - regex: '(?i)\b(opinion|order|judgment|decision)\b'
+  - regex: '(?i)preliminary injunction'
+  - regex: '(?i)temporary restraining order'
+  - regex: '(?i)motion for summary judgment'
+  - regex: '(?i)cross[- ]motion'
+  - regex: '(?i)petition for'
+  - regex: '(?i)notice of appeal'
+  - regex: '(?i)mandamus'
+  - regex: '(?i)stay pending'
+  - regex: '(?i)cert(iorari)?'
+  - regex: '(?i)supplemental brief'
+  - regex: '(?i)oral argument'
+
+# Words that should NOT auto-flag (lots of administrative chaff matches "order").
+high_signal_exclude:
+  - regex: '(?i)order on motion for pro hac vice'
+  - regex: '(?i)order setting'
+  - regex: '(?i)clerk.s notice'

@@ -1,0 +1,67 @@
+# Upcoming dates rendered on the / overview "What's next" rail.
+# Order by date ascending. Past entries can be left here or removed.
+#
+# Each entry may carry an optional `source` block:
+#   source:
+#     label: "short label shown next to the link arrow"
+#     url:   "https://… (CourtListener entry, opinion, order, etc.)"
+#     local: "source-docs/foo.pdf"  (optional mirror)
+
+- date: 2026-05-29
+  court: ndcal
+  title: Certified Administrative Record due (DHS extension)
+  detail: Rolling production starting 5/22; DHS extension to 5/29.
+  source:
+    label: Dkt. 150 (joint stipulation)
+    url: https://www.courtlistener.com/docket/72379655/150/anthropic-pbc-v-us-department-of-war/
+
+- date: 2026-06-04
+  court: dccir
+  title: Supplemental briefs due
+  detail: Both parties; not to exceed 2,500 words. Originally due 5/28, extended on joint motion.
+  source:
+    label: D.C. Cir. supp. briefing order (May 21, 2026)
+    url: https://www.courtlistener.com/docket/72380208/01208852327/anthropic-pbc-v-united-states-department-of-war/
+    local: source-docs/dccir-01208852327.pdf
+
+- date: 2026-06-08
+  court: ndcal
+  title: Government's Answer due
+  source:
+    label: Dkt. 150 (joint stipulation)
+    url: https://www.courtlistener.com/docket/72379655/150/anthropic-pbc-v-us-department-of-war/
+
+- date: 2026-06-10
+  court: ndcal
+  title: Anthropic's MSJ due
+  source:
+    label: Dkt. 150 (joint stipulation)
+    url: https://www.courtlistener.com/docket/72379655/150/anthropic-pbc-v-us-department-of-war/
+
+- date: 2026-06-24
+  court: ndcal
+  title: Government's opposition & cross-MSJ due
+  source:
+    label: Dkt. 150 (joint stipulation)
+    url: https://www.courtlistener.com/docket/72379655/150/anthropic-pbc-v-us-department-of-war/
+
+- date: 2026-07-08
+  court: ndcal
+  title: Anthropic's reply & opposition due
+  source:
+    label: Dkt. 150 (joint stipulation)
+    url: https://www.courtlistener.com/docket/72379655/150/anthropic-pbc-v-us-department-of-war/
+
+- date: 2026-07-15
+  court: ndcal
+  title: Government's reply due
+  source:
+    label: Dkt. 150 (joint stipulation)
+    url: https://www.courtlistener.com/docket/72379655/150/anthropic-pbc-v-us-department-of-war/
+
+- date: 2026-07-30
+  court: ndcal
+  title: MSJ hearing — 10:00 a.m. (Courtroom 15)
+  source:
+    label: N.D. Cal. docket
+    url: https://www.courtlistener.com/docket/72379655/anthropic-pbc-v-us-department-of-war/

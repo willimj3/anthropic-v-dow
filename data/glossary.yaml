@@ -1,0 +1,465 @@
+# Plain-language definitions of the terms used elsewhere on the site.
+# Each entry has: term, slug (URL anchor), category, definition (paragraph),
+# optional aliases (other phrasings that should link here),
+# optional see_also (slugs).
+
+- term: FASCSA
+  slug: fascsa
+  category: statute
+  aliases: ["Federal Acquisition Supply Chain Security Act", "41 U.S.C. § 4713"]
+  definition: |
+    The Federal Acquisition Supply Chain Security Act, codified at
+    41 U.S.C. § 4713. It authorizes federal agencies to bar (or "exclude")
+    contractors from federal procurement when they pose a supply-chain risk
+    to national security. Compared with the parallel DoD authority at
+    10 U.S.C. § 3252, FASCSA is procedurally more protective: it requires
+    30 days' notice, an opportunity to respond, interagency review by the
+    Federal Acquisition Security Council, and direct judicial review in the
+    D.C. Circuit under [§ 1327](#section-1327).
+  see_also: [section-3252, section-1327, fascsa-petition, covered-procurement-action]
+
+- term: FASCSA petition
+  slug: fascsa-petition
+  category: procedural
+  definition: |
+    A petition for direct review filed in the D.C. Circuit under
+    41 U.S.C. § 1327 challenging a FASCSA exclusion or covered procurement
+    action. It bypasses the district court — the statute channels review
+    straight to the D.C. Circuit. In this case, Anthropic's D.C. Circuit
+    petition (No. 26-1049) is a FASCSA petition challenging the March 3
+    FASCSA designation letter, even as the parallel § 3252 designation
+    is being litigated in N.D. Cal.
+  see_also: [fascsa, section-1327, covered-procurement-action]
+
+- term: § 3252
+  slug: section-3252
+  category: statute
+  aliases: ["10 U.S.C. § 3252", "Section 3252", "supply chain risk authority"]
+  definition: |
+    The Department of Defense's supply-chain risk authority, codified at
+    10 U.S.C. § 3252 (originally enacted in NDAA 2011 § 806). It allows the
+    Secretary to designate a source as a "supply chain risk" — defined as
+    the risk that "an adversary may sabotage, maliciously introduce unwanted
+    function, or otherwise subvert" a national security system. Legislative
+    history and DoD implementing instructions show the statute was aimed at
+    foreign intelligence services, terrorists, and hostile actors, not
+    domestic vendors. Unlike [FASCSA](#fascsa), § 3252 has no built-in notice,
+    response, or judicial-review procedure.
+  see_also: [fascsa, supply-chain-designation]
+
+- term: § 1327
+  slug: section-1327
+  category: statute
+  aliases: ["41 U.S.C. § 1327"]
+  definition: |
+    The judicial-review provision of FASCSA. Grants the D.C. Circuit
+    exclusive jurisdiction over petitions challenging "covered procurement
+    actions" taken under 41 U.S.C. § 4713. Whether Anthropic's challenge
+    falls within § 1327's reach is one of the three issues the D.C. Circuit
+    panel pre-ordered for argument.
+  see_also: [fascsa, fascsa-petition, covered-procurement-action]
+
+- term: covered procurement action
+  slug: covered-procurement-action
+  category: procedural
+  definition: |
+    The term used in 41 U.S.C. § 4713 for the kinds of agency decisions that
+    can result in a FASCSA exclusion — for example, an exclusion order, a
+    notice removing a source from a covered procurement, or a no-rebid
+    determination. The D.C. Circuit can review only "covered procurement
+    actions"; whether the March 3 FASCSA letter to Anthropic constitutes or
+    directs such an action is one of the three issues the panel pre-ordered
+    for argument.
+  see_also: [fascsa, fascsa-petition, section-1327]
+
+- term: APA
+  slug: apa
+  category: statute
+  aliases: ["Administrative Procedure Act", "5 U.S.C. § 706"]
+  definition: |
+    The Administrative Procedure Act, codified at 5 U.S.C. §§ 551–706. The
+    framework statute for federal-court review of agency action. The two
+    operative provisions in this case are § 706(2)(A) (set aside action that
+    is "arbitrary, capricious, an abuse of discretion, or otherwise not in
+    accordance with law"), § 706(2)(C) (action "in excess of statutory
+    jurisdiction, authority, or limitations"), and § 706(2)(D) (action
+    "without observance of procedure required by law"). Anthropic invokes
+    all three on Counts I and II.
+  see_also: [section-705, arbitrary-and-capricious, ultra-vires]
+
+- term: § 705 stay
+  slug: section-705
+  category: procedural
+  aliases: ["5 U.S.C. § 705"]
+  definition: |
+    The APA provision authorizing a reviewing court (or, in some cases, the
+    agency itself) to "postpone the effective date of an agency action" to
+    "prevent irreparable injury" pending judicial review. Anthropic sought a
+    § 705 stay alongside its TRO/PI motion; Judge Lin granted it as to the
+    Hegseth Directive and the Supply Chain Designation.
+  see_also: [pi, apa]
+
+- term: PI (preliminary injunction)
+  slug: pi
+  category: procedural
+  aliases: ["preliminary injunction"]
+  definition: |
+    A court order entered early in a lawsuit that preserves the status quo
+    while the merits are litigated. The standard requires likelihood of
+    success on the merits, irreparable harm, a favorable balance of equities,
+    and that the order be in the public interest. Judge Lin's PI in this
+    case enjoins the three Challenged Actions while the cross-MSJ briefing
+    runs.
+  see_also: [msj, challenged-actions]
+
+- term: MSJ (motion for summary judgment)
+  slug: msj
+  category: procedural
+  aliases: ["motion for summary judgment", "cross-MSJ"]
+  definition: |
+    A motion seeking final judgment on the existing record, without trial,
+    on the ground that there is "no genuine dispute as to any material fact."
+    "Cross-MSJ" is when both sides move simultaneously — common in APA cases
+    where review is on the administrative record. The N.D. Cal. cross-MSJ
+    hearing is set for July 30, 2026.
+  see_also: [pi, apa]
+
+- term: ultra vires
+  slug: ultra-vires
+  category: doctrine
+  definition: |
+    Latin for "beyond the powers." An equitable cause of action available
+    against an executive official who acts beyond the bounds of statutory or
+    constitutional authority. Distinct from APA review and not subject to
+    APA preclusion provisions. Anthropic's Count V is an ultra vires
+    challenge to the Presidential Directive; Judge Lin held the Hegseth
+    Directive's contractor-blacklist language ultra vires (on the
+    government's own concession at argument).
+  see_also: [presidential-directive, hegseth-directive]
+
+- term: arbitrary and capricious
+  slug: arbitrary-and-capricious
+  category: doctrine
+  definition: |
+    The APA's most-used standard for setting aside agency action
+    (5 U.S.C. § 706(2)(A)). Under *Motor Vehicle Mfrs. Ass'n v. State Farm*,
+    463 U.S. 29 (1983), action is arbitrary and capricious if the agency
+    relied on factors Congress did not intend it to consider, failed to
+    consider an important aspect of the problem, offered an explanation that
+    runs counter to the evidence, or gave an explanation so implausible it
+    could not be ascribed to a difference in view or to agency expertise.
+  see_also: [apa, pretext]
+
+- term: pretext doctrine
+  slug: pretext
+  category: doctrine
+  aliases: ["pretextual", "Department of Commerce v. New York"]
+  definition: |
+    Under *Department of Commerce v. New York*, 588 U.S. 752 (2019), even
+    where an agency has statutory authority, courts must reject agency
+    action whose stated rationale is a "contrived" pretext for the actual
+    motive. Courts are "not required to exhibit a naiveté from which
+    ordinary citizens are free." Judge Lin applied this to the
+    Supply Chain Designation, finding the timing, the inconsistencies
+    (Michael's cordial emails; Hegseth's DPA threat), and the post-hoc nature
+    of the record showed the rationale was pretextual.
+  see_also: [apa, arbitrary-and-capricious]
+
+- term: Mathews balancing
+  slug: mathews-balancing
+  category: doctrine
+  aliases: ["Mathews v. Eldridge", "Mathews"]
+  definition: |
+    The procedural-due-process test from *Mathews v. Eldridge*, 424 U.S. 319
+    (1976). Courts balance (1) the private interest affected; (2) the risk
+    of erroneous deprivation through the procedures used and the value of
+    additional safeguards; (3) the government's interest and the burdens of
+    additional procedures. Judge Lin applied it to find a procedural-due-
+    process violation in the absence of pre-deprivation notice.
+  see_also: [reputation-plus]
+
+- term: reputation plus
+  slug: reputation-plus
+  category: doctrine
+  definition: |
+    The D.C. Circuit's test for when government action that damages a
+    company's reputation rises to a deprivation of a protected liberty
+    interest. Under *Trifax Corp. v. District of Columbia* and *Old Dominion
+    Dairy Prods. v. Sec'y of Defense*, a "broad preclusion" that "seriously
+    affect[s], if not destroy[s]" a company's ability to obtain contracts is
+    enough — a complete prohibition is not required. Judge Lin held the
+    three Challenged Actions satisfy this test.
+  see_also: [mathews-balancing, due-process]
+
+- term: Webster v. Doe carveout
+  slug: webster-doe
+  category: doctrine
+  aliases: ["Webster v. Doe"]
+  definition: |
+    Under *Webster v. Doe*, 486 U.S. 592 (1988), broad statutory
+    preclusion-of-review provisions are read NOT to preclude constitutional
+    claims unless Congress clearly intends to do so. Acts as a backstop: even
+    where a statute like § 3252 may bar APA review, constitutional claims
+    (First Amendment, due process) survive.
+  see_also: [apa]
+
+- term: NRA v. Vullo framework
+  slug: nra-v-vullo
+  category: doctrine
+  aliases: ["NRA v. Vullo"]
+  definition: |
+    From *National Rifle Association of America v. Vullo*, 602 U.S. 175
+    (2024). When the government uses its leverage over a contracting partner
+    to punish or suppress disfavored speech by a third party, it can violate
+    the First Amendment even without a direct regulatory action. Most
+    relevant in this case to the contracting/procurement context — whether
+    the doctrine reshapes First Amendment retaliation analysis when the
+    government acts as procurer.
+  see_also: [first-amendment-retaliation, pickering]
+
+- term: Pickering balancing
+  slug: pickering
+  category: doctrine
+  definition: |
+    The framework from *Pickering v. Board of Education*, 391 U.S. 563
+    (1968), for First Amendment claims arising in the government-as-employer
+    or government-as-contractor context. Balances the speaker's interest in
+    speaking against the government's interest as employer/contractor. The
+    Ninth Circuit's *Arizona Students' Ass'n* test (which Judge Lin applied)
+    is functionally similar; Lin noted in a footnote that the result here
+    would be the same under *Pickering*.
+  see_also: [first-amendment-retaliation, nra-v-vullo]
+
+- term: first amendment retaliation
+  slug: first-amendment-retaliation
+  category: doctrine
+  aliases: ["retaliation claim"]
+  definition: |
+    A First Amendment claim that government action was taken in retaliation
+    for protected speech. Under the Ninth Circuit's *Arizona Students' Ass'n
+    v. Arizona Bd. of Regents*, 824 F.3d 858 (9th Cir. 2016), test: (1)
+    plaintiff engaged in protected activity; (2) the action would chill a
+    person of ordinary firmness; (3) the protected activity was a substantial
+    motivating factor. Under *Hartman v. Moore*, 547 U.S. 250 (2006), the
+    burden then shifts to the defendant to show it would have taken the
+    action regardless.
+  see_also: [pickering, nra-v-vullo]
+
+- term: Hartman burden-shifting
+  slug: hartman
+  category: doctrine
+  aliases: ["Hartman v. Moore"]
+  definition: |
+    Under *Hartman v. Moore*, 547 U.S. 250 (2006), once the plaintiff makes
+    a prima facie showing of retaliation, the burden shifts to the defendant
+    to show it would have taken the action absent the protected speech.
+    Defendants here pointed to the contracting impasse, but Anthropic's
+    Usage Policy had been in place for over a year and had never been treated
+    as risky before Anthropic went public.
+  see_also: [first-amendment-retaliation]
+
+- term: bill of attainder
+  slug: bill-of-attainder
+  category: doctrine
+  definition: |
+    A legislative or executive act that singles out an identifiable person
+    and imposes punishment without judicial process. Prohibited by
+    U.S. Const. art. I, §§ 9 cl. 3 (federal) and 10 cl. 1 (states). The
+    modern test (*Selective Service System v. Minnesota PIRG*, 468 U.S. 841
+    (1984); *Nixon v. Administrator*, 433 U.S. 425 (1977)) requires
+    specificity and punishment. Raised by Koh and co-authors on Just
+    Security but not pleaded in Anthropic's complaint.
+  see_also: []
+
+- term: major questions doctrine
+  slug: major-questions
+  category: doctrine
+  definition: |
+    The Supreme Court's recent administrative-law doctrine requiring "clear
+    congressional authorization" before an agency can decide a question of
+    "vast economic and political significance." Lawfare commentary argues
+    that under the IEEPA tariffs decision earlier in 2026, the doctrine
+    extends to supply-chain risk designations — which lack any historical
+    precedent for use against domestic AI vendors.
+  see_also: [apa]
+
+- term: DoW
+  slug: dow
+  category: entity
+  aliases: ["Department of War"]
+  definition: |
+    The U.S. Department of War, formerly the Department of Defense, renamed
+    by Executive Order 14347 on September 5, 2025 (90 Fed. Reg. 43893). The
+    principal defendant in N.D. Cal. and the respondent in both appellate
+    proceedings.
+  see_also: []
+
+- term: EOP
+  slug: eop
+  category: entity
+  aliases: ["Executive Office of the President"]
+  definition: |
+    The Executive Office of the President — the cluster of agencies that
+    directly support the President. Named as a defendant in N.D. Cal. as to
+    the Presidential Directive but not enjoined on PI for lack of record
+    evidence of implementing action; remains bound by Fed. R. Civ. P. 65(d).
+  see_also: [presidential-directive]
+
+- term: CDAO
+  slug: cdao
+  category: entity
+  aliases: ["Chief Digital and AI Office"]
+  definition: |
+    The Pentagon's Chief Digital and AI Office, which signed a $200 million
+    contract with Anthropic in July 2025 — one of the markers that DoW had
+    vetted and cleared Anthropic to operate under the Usage Policy
+    restrictions long before treating those restrictions as a national
+    security threat.
+  see_also: [fcl, fedramp]
+
+- term: FCL
+  slug: fcl
+  category: govcon
+  aliases: ["facility clearance"]
+  definition: |
+    Facility Security Clearance. The Defense Counterintelligence and
+    Security Agency (DCSA) clearance that allows a contractor to access
+    classified information at a given level. Anthropic holds a Top Secret
+    FCL — a fact the record uses to undermine the supply-chain-risk framing
+    (DoW cleared Anthropic at the highest level before deciding the company
+    was a national-security threat).
+  see_also: [fedramp]
+
+- term: FedRAMP
+  slug: fedramp
+  category: govcon
+  aliases: ["FedRAMP High"]
+  definition: |
+    Federal Risk and Authorization Management Program — the government-wide
+    program that authorizes cloud products and services for federal use.
+    Anthropic holds FedRAMP High authorization (the most stringent civilian
+    tier) and DoD Impact Level (IL) 4-5 authorization for DoD workloads. As
+    with the FCL, these authorizations cut against the supply-chain-risk
+    theory.
+  see_also: [fcl]
+
+- term: DPA (Defense Production Act)
+  slug: dpa
+  category: statute
+  aliases: ["Defense Production Act"]
+  definition: |
+    The Defense Production Act of 1950, 50 U.S.C. §§ 4501 et seq. Title I
+    authorizes the President to compel production of items essential to
+    national defense. Hegseth threatened to invoke the DPA against Anthropic
+    in the February 24 meeting — which would have required treating Claude
+    as *essential* to national security, the opposite framing from the
+    "supply chain risk" theory adopted three days later.
+  see_also: [section-3252]
+
+- term: FAR
+  slug: far
+  category: regulation
+  aliases: ["Federal Acquisition Regulation"]
+  definition: |
+    The Federal Acquisition Regulation, the body of regulations governing
+    federal contracting (48 C.F.R. ch. 1). FAR 9.402(b) limits the use of
+    debarment and suspension to actions "imposed only in the public interest
+    for the Government's protection and not for purposes of punishment" —
+    the basis for Lawfare's argument that the Supply Chain Designation
+    exceeds the agency's procurement authority.
+  see_also: [section-3252]
+
+- term: Presidential Directive
+  slug: presidential-directive
+  category: case-term
+  definition: |
+    As used on this site and in Judge Lin's opinion: President Trump's
+    Truth Social post of February 27, 2026 at 3:47 p.m. ET directing every
+    federal agency to "IMMEDIATELY CEASE all use of Anthropic's technology."
+    One of the three Challenged Actions enjoined by the PI. Cites no
+    statutory authority and is the subject of Anthropic's Count V ultra
+    vires challenge.
+  see_also: [hegseth-directive, supply-chain-designation, challenged-actions]
+
+- term: Hegseth Directive
+  slug: hegseth-directive
+  category: case-term
+  definition: |
+    As used on this site and in Judge Lin's opinion: Secretary of War
+    Pete Hegseth's X post of February 27, 2026 (about an hour after the
+    Presidential Directive) doing two things: (a) directing DoW to designate
+    Anthropic a "Supply-Chain Risk to National Security"; and (b) declaring
+    that "Effective immediately, no contractor, supplier, or partner that
+    does business with the United States military may conduct any commercial
+    activity with Anthropic." The second piece — the contractor blacklist —
+    was conceded ultra vires by government counsel at argument.
+  see_also: [presidential-directive, supply-chain-designation, challenged-actions, ultra-vires]
+
+- term: Supply Chain Designation
+  slug: supply-chain-designation
+  category: case-term
+  definition: |
+    As used on this site and in Judge Lin's opinion: Secretary Hegseth's
+    March 3, 2026 formal determination under 10 U.S.C. § 3252 designating
+    Anthropic a supply-chain risk, communicated to Anthropic by letter
+    received March 4. The third of the three Challenged Actions. A separate
+    March 3 letter invoked FASCSA — that letter is the subject of the
+    parallel D.C. Circuit case.
+  see_also: [presidential-directive, hegseth-directive, challenged-actions, section-3252, fascsa]
+
+- term: Challenged Actions
+  slug: challenged-actions
+  category: case-term
+  definition: |
+    Judge Lin's umbrella term for the three legally distinct government
+    measures Anthropic challenges in N.D. Cal.: the Presidential Directive,
+    the Hegseth Directive, and the Supply Chain Designation. The PI enjoins
+    all three.
+  see_also: [presidential-directive, hegseth-directive, supply-chain-designation]
+
+- term: per curiam
+  slug: per-curiam
+  category: procedural
+  definition: |
+    Latin for "by the court." An opinion or order issued in the name of the
+    panel as a whole rather than authored by any single judge. The D.C.
+    Circuit's emergency-stay denial and supplemental-briefing order were
+    both per curiam.
+  see_also: []
+
+- term: amicus curiae
+  slug: amicus-curiae
+  category: procedural
+  aliases: ["amici"]
+  definition: |
+    Latin for "friend of the court." A non-party that files a brief with
+    the court's permission to provide perspective or expertise. This case
+    has drawn unusually heavy amicus participation: Microsoft, FIRE, EFF,
+    ACLU, the Cato Institute, 149 former judges, former senior national-
+    security officials, and others have filed in support of Anthropic; one
+    amicus (Joel Thayer, America First Policy Institute) filed in support
+    of the government.
+  see_also: []
+
+- term: pro hac vice
+  slug: pro-hac-vice
+  category: procedural
+  definition: |
+    Latin for "for this occasion." A motion seeking court permission for an
+    attorney who is not admitted in that jurisdiction to appear in a
+    particular case. Most of WilmerHale's Anthropic team appears pro hac
+    vice in N.D. Cal.; the docket sheet shows ~10 pro hac vice motions
+    filed and granted in the first weeks.
+  see_also: []
+
+- term: interlocutory appeal
+  slug: interlocutory-appeal
+  category: procedural
+  definition: |
+    An appeal taken from a court order entered before final judgment —
+    permitted only for specified kinds of orders, including the grant of a
+    preliminary injunction. The government's Ninth Circuit appeal
+    (No. 26-2011) is an interlocutory appeal of Judge Lin's PI; the Ninth
+    Circuit has stayed it pending the D.C. Circuit's resolution of the
+    parallel FASCSA petition.
+  see_also: [pi]

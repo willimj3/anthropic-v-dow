@@ -1,0 +1,117 @@
+# Annotated bibliography. tag: analysis | news | brief
+# Add new entries here manually; the news monitor writes auto-queued items to data/news.yaml.
+
+- title: "Pentagon's Anthropic Designation Won't Survive First Contact with Legal System"
+  authors: [Michael Endrias, Alan Z. Rozenshtein]
+  publication: Lawfare
+  date: 2026-03-02
+  tag: analysis
+  url: https://www.lawfaremedia.org/article/pentagon's-anthropic-designation-won't-survive-first-contact-with-legal-system
+  summary: |
+    The first major academic broadside against the supply-chain risk theory. Identifies
+    multiple independent grounds for relief: statutory text, the Webster v. Doe
+    constitutional carveout, Department of Commerce v. New York pretext, FAR 9.402(b)
+    (debarment limited to public-interest purposes, not punishment), and the Luokung /
+    Xiaomi analogies. This piece set the analytical frame the litigation now operates within.
+
+- title: "What the Defense Production Act Can and Can't Do to Anthropic"
+  authors: [Alan Z. Rozenshtein]
+  publication: Lawfare
+  date: 2026-02-25
+  tag: analysis
+  url: https://www.lawfaremedia.org/article/what-the-defense-production-act-can-and-can't-do-to-anthropic
+  summary: |
+    Argues that the DPA threat earlier in the week was equally legally infirm — the
+    statute has never been used to compel a company to produce a product it has deemed
+    unsafe.
+
+- title: "The War on Anthropic: Pretextual Designation and Unlawful Punishment"
+  authors: [Harold Hongju Koh, Bruce Swartz, Avi Gupta, Brady Worthington]
+  publication: Just Security
+  date: 2026-03-06
+  tag: analysis
+  url: https://www.justsecurity.org/133247/anthropic-hegseth-unlawful-punishment/
+  summary: |
+    Raises a Bill of Attainder theory not pleaded in Anthropic's complaint. Argues the
+    designation singles out Anthropic by name and imposes punishment without judicial
+    process, satisfying both prongs of the modern attainder test. Koh subsequently
+    appeared as pro hac counsel for the Former Senior National Security Government
+    Officials amicus group.
+
+- title: "D.C. Circuit Declines to Stay Department of War's 'Supply-Chain Risk' Designation of Claude"
+  authors: [Eugene Volokh]
+  publication: Volokh Conspiracy (Reason)
+  date: 2026-04-08
+  tag: news
+  url: https://reason.com/volokh/2026/04/08/d-c-circuit-declines-to-stay-department-of-wars-supply-chain-risk-designation-of-claude/
+  summary: |
+    Reports the D.C. Cir. emergency stay denial and notes that it is widely read as
+    procedurally driven rather than a merits signal.
+
+- title: "Of Free Speech Claims and Supply Chain Risks: Anthropic's Battle with the Government"
+  authors: [AEI staff]
+  publication: American Enterprise Institute
+  date: 2026-04-14
+  tag: analysis
+  url: https://www.aei.org/technology-and-innovation/of-free-speech-claims-and-supply-chain-risks-anthropics-battle-with-the-government/
+  summary: |
+    Defends the government's procedural posture while conceding that the social-media
+    origin of the Challenged Actions creates substantial First Amendment exposure.
+
+- title: "Two Courts, Two Postures: What the DC Circuit's Stay Denial Means for the Anthropic-Pentagon Dispute"
+  publication: Jones Walker AI Law Blog
+  date: 2026-04-22
+  tag: analysis
+  url: https://www.joneswalker.com/en/insights/blogs/ai-law-blog/two-courts-two-postures-what-the-dc-circuits-stay-denial-means-for-the-anthrop.html
+  summary: |
+    Practitioner explainer of why the D.C. Cir.'s stay denial does not undermine
+    Judge Lin's PI. The two proceedings address different statutes and different
+    government actions; coexistence is doctrinally normal.
+
+- title: '"ICYMI: Developments in Anthropic Challenges to Department of War Supply Chain Risk Designation"'
+  publication: Wiley Rein LLP — Federal Practice Group blog
+  date: 2026-04-30
+  tag: analysis
+  url: https://www.wileyconnect.com/icymi-developments-in-anthropic-challenges-to-department-of-war-supply-chain-risk-designation
+  summary: |
+    Procurement-bar perspective on FASCSA mechanics and the practical implications for
+    contractor compliance programs.
+
+- title: "Judge grants Anthropic preliminary injunction but Pentagon CTO says ban still stands"
+  publication: Breaking Defense
+  date: 2026-03-27
+  tag: news
+  url: https://breakingdefense.com/2026/03/judge-grants-anthropic-preliminary-injunction-but-pentagon-cto-says-ban-still-stands/
+  summary: |
+    Reports Under Secretary Emil Michael's X post characterizing Lin's order as
+    containing "dozens of factual errors" and asserting that the Supply Chain Risk
+    designation remains "in full force and effect."
+
+- title: "Microsoft amicus brief (in support of Anthropic)"
+  publication: N.D. Cal. and D.C. Cir.
+  date: 2026-03-10
+  tag: brief
+  url: https://thehill.com/policy/technology/5777742-microsoft-backs-anthropic-ai-case/
+  summary: |
+    Microsoft argues that the supply-chain risk framework is unworkable if it can be
+    triggered by a vendor's negotiating posture, and that doing so destabilizes the
+    entire federal cloud-and-AI procurement ecosystem.
+
+- title: "ACLU + CDT amicus brief"
+  publication: D.C. Cir.
+  date: 2026-03-16
+  tag: brief
+  url: https://www.aclu.org/documents/anthropic-amicus
+  summary: |
+    Civil-liberties framing of the First Amendment retaliation theory, with emphasis
+    on NRA v. Vullo and the use of contracting power as a lever against disfavored speech.
+
+- title: "Cato Institute amicus brief"
+  publication: N.D. Cal.
+  date: 2026-03-12
+  tag: brief
+  url: https://www.cato.org/legal-briefs/anthropic-v-department-war
+  summary: |
+    Argues that AI model design constitutes First Amendment-protected expression and
+    that compelling Anthropic to alter Claude's guardrails would be classic compelled
+    speech. (Filed jointly with FIRE, EFF, Chamber of Progress, and FALA.)

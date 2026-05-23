@@ -1,0 +1,5322 @@
+{
+  "ca9-1": {
+    "available": false,
+    "document_number": "1",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-10": {
+    "available": true,
+    "document_number": "10",
+    "file_size": 218896,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ca9-11": {
+    "available": true,
+    "document_number": "11",
+    "file_size": 177858,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ca9-12": {
+    "available": false,
+    "document_number": "12",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-13": {
+    "available": true,
+    "document_number": "13",
+    "file_size": 185646,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ca9-14": {
+    "available": true,
+    "document_number": "14",
+    "file_size": 179515,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ca9-15": {
+    "available": true,
+    "document_number": "15",
+    "file_size": 317622,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "ca9-16": {
+    "available": true,
+    "document_number": "16",
+    "file_size": 295890,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ca9-17": {
+    "available": true,
+    "document_number": "17",
+    "file_size": 200590,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ca9-2": {
+    "available": true,
+    "document_number": "2",
+    "file_size": 353758,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ca9-3": {
+    "available": false,
+    "document_number": "3",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-4": {
+    "available": false,
+    "document_number": "4",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-5": {
+    "available": false,
+    "document_number": "5",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-6": {
+    "available": false,
+    "document_number": "6",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-7": {
+    "available": false,
+    "document_number": "7",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-8": {
+    "available": false,
+    "document_number": "8",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-9": {
+    "available": false,
+    "document_number": "9",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:added counsel for appellant brian j springer [entered: 04/03/2026 10:43 am]": {
+    "available": false,
+    "document_number": "7",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:added counsel for appellee michael j. mongan [entered: 04/06/2026 10:56 am]": {
+    "available": false,
+    "document_number": "9",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:attorney sharon swingle as counsel for appellant, sean janda as counsel for appe": {
+    "available": false,
+    "document_number": "5",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:case opened. a copy of your notice of appeal / petition filed in 3:26-cv-01996-r": {
+    "available": false,
+    "document_number": "1",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:disclosure statement pursuant to frap 26.1 and cr 26.1-1 filed by appellee anthr": {
+    "available": false,
+    "document_number": "12",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:mediation order: by 4/16/2026, counsel to email circuit mediator regarding settl": {
+    "available": true,
+    "document_number": "11",
+    "file_size": 177858,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ca9-d:mediation questionnaire filed by appellant united states department of war, appe": {
+    "available": true,
+    "document_number": "10",
+    "file_size": 218896,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ca9-d:motion to extend time to file brief filed by appellant united states department ": {
+    "available": true,
+    "document_number": "14",
+    "file_size": 179515,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ca9-d:motion to stay proceedings in this court filed by appellant united states depart": {
+    "available": true,
+    "document_number": "13",
+    "file_size": 185646,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ca9-d:notice of appearance by brian j springer for appellant board of governors of the": {
+    "available": false,
+    "document_number": "6",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:notice of appearance by michael j. mongan for appellee anthropic, pbc. [entered:": {
+    "available": false,
+    "document_number": "8",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:notice of appearance by sean janda for appellant board of governors of the feder": {
+    "available": false,
+    "document_number": "4",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:notice of appearance by sharon swingle for appellant board of governors of the f": {
+    "available": false,
+    "document_number": "3",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-d:order filed. the unopposed motion (docket entry no. 13) to stay appellate procee": {
+    "available": true,
+    "document_number": "17",
+    "file_size": 200590,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ca9-d:preliminary injunction schedule notice. mediation questionnaire due (appellant) ": {
+    "available": true,
+    "document_number": "2",
+    "file_size": 353758,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ca9-d:response to motion to extend time to file brief (de 14) filed by appellee anthro": {
+    "available": true,
+    "document_number": "16",
+    "file_size": 295890,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ca9-d:response to motion to stay proceedings in this court (de 13) filed by appellee a": {
+    "available": true,
+    "document_number": "15",
+    "file_size": 317622,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "ca9-doc:1": {
+    "available": false,
+    "document_number": "1",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-doc:10": {
+    "available": true,
+    "document_number": "10",
+    "file_size": 218896,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ca9-doc:11": {
+    "available": true,
+    "document_number": "11",
+    "file_size": 177858,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ca9-doc:12": {
+    "available": false,
+    "document_number": "12",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-doc:13": {
+    "available": true,
+    "document_number": "13",
+    "file_size": 185646,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ca9-doc:14": {
+    "available": true,
+    "document_number": "14",
+    "file_size": 179515,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ca9-doc:15": {
+    "available": true,
+    "document_number": "15",
+    "file_size": 317622,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "ca9-doc:16": {
+    "available": true,
+    "document_number": "16",
+    "file_size": 295890,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ca9-doc:17": {
+    "available": true,
+    "document_number": "17",
+    "file_size": 200590,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ca9-doc:2": {
+    "available": true,
+    "document_number": "2",
+    "file_size": 353758,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ca9-doc:3": {
+    "available": false,
+    "document_number": "3",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-doc:4": {
+    "available": false,
+    "document_number": "4",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-doc:5": {
+    "available": false,
+    "document_number": "5",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-doc:6": {
+    "available": false,
+    "document_number": "6",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-doc:7": {
+    "available": false,
+    "document_number": "7",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-doc:8": {
+    "available": false,
+    "document_number": "8",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ca9-doc:9": {
+    "available": false,
+    "document_number": "9",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:[denied by order filed 4/20/26] motion 2167990 to participate as amicus curiae c": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:amended amicus for petitioner brief filed by freedom economy business associatio": {
+    "available": true,
+    "document_number": "01208831083",
+    "file_size": 255390,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "dccir-d:amicus for petitioner brief filed by 149 former judges and democracy defenders f": {
+    "available": true,
+    "document_number": "01208843421",
+    "file_size": 314583,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 49
+  },
+  "dccir-d:amicus for petitioner brief filed by act | the app association [service date: 04": {
+    "available": true,
+    "document_number": "01208843391",
+    "file_size": 305354,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-d:amicus for petitioner brief filed by former senior national security government ": {
+    "available": true,
+    "document_number": "01208843288",
+    "file_size": 169660,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 45
+  },
+  "dccir-d:amicus for petitioner brief filed by former service secretaries [service date: 0": {
+    "available": true,
+    "document_number": "01208843343",
+    "file_size": 364772,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-d:amicus for petitioner brief filed by foundation for american innovation, fifty y": {
+    "available": true,
+    "document_number": "01208843021",
+    "file_size": 336400,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 32
+  },
+  "dccir-d:amicus for petitioner brief filed by foundation for individual rights and expres": {
+    "available": true,
+    "document_number": "01208830045",
+    "file_size": 314339,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 36
+  },
+  "dccir-d:amicus for petitioner brief filed by freedom economy business association [servi": {
+    "available": true,
+    "document_number": "01208830529",
+    "file_size": 264830,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 25
+  },
+  "dccir-d:amicus for petitioner brief filed by freedom economy business association, candi": {
+    "available": true,
+    "document_number": "01208843183",
+    "file_size": 269837,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 28
+  },
+  "dccir-d:amicus for petitioner brief filed by professor alan z. rozenshtein [service date": {
+    "available": true,
+    "document_number": "01208830434",
+    "file_size": 320674,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-d:amicus for petitioner brief lodged by 149 former judges and democracy defenders ": {
+    "available": true,
+    "document_number": "01208831569",
+    "file_size": 261921,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 43
+  },
+  "dccir-d:amicus for petitioner brief lodged by act | the app association [service date: 0": {
+    "available": true,
+    "document_number": "01208831708",
+    "file_size": 302285,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-d:amicus for petitioner brief lodged by american civil liberties union and center ": {
+    "available": true,
+    "document_number": "01208831436",
+    "file_size": 422311,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 46
+  },
+  "dccir-d:amicus for petitioner brief lodged by catholic theologians and ethicists [servic": {
+    "available": true,
+    "document_number": "01208831090",
+    "file_size": 254948,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "dccir-d:amicus for petitioner brief lodged by dean ball, chinatalk, martin chorzempa, fa": {
+    "available": true,
+    "document_number": "01208829735",
+    "file_size": 324222,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 31
+  },
+  "dccir-d:amicus for petitioner brief lodged by former senior national security government": {
+    "available": true,
+    "document_number": "01208831071",
+    "file_size": 159511,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-d:amicus for petitioner brief lodged by former service secretaries and retired sen": {
+    "available": true,
+    "document_number": "01208829888",
+    "file_size": 351237,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-d:amicus for petitioner brief lodged by technet, software & information industry a": {
+    "available": true,
+    "document_number": "01208831120",
+    "file_size": 184235,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 24
+  },
+  "dccir-d:amicus for petitioner final brief filed by catholic moral theologians and ethici": {
+    "available": true,
+    "document_number": "01208843262",
+    "file_size": 237595,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "dccir-d:amicus for respondent brief filed by joel thayer, senior fellow at the america f": {
+    "available": true,
+    "document_number": "01208843643",
+    "file_size": 572107,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "dccir-d:appendix filed by anthropic pbc [volumes: 4] [service date: 04/22/2026 ] (dunbar": {
+    "available": true,
+    "document_number": "01208843409",
+    "file_size": 19671905,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 70
+  },
+  "dccir-d:certificate as to parties, rulings and related cases filed by anthropic pbc [ser": {
+    "available": true,
+    "document_number": "01208838610",
+    "file_size": 171430,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-d:certified copy of petition for review sent to respondent . [entered: 03/09/2026 ": {
+    "available": true,
+    "document_number": "01208828687",
+    "file_size": 45169,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:certified index to record filed by peter b. hegseth and united states department": {
+    "available": true,
+    "document_number": "01208843910",
+    "file_size": 533018,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-d:clerk's order filed directing the parties to file initial submissions: petitione": {
+    "available": true,
+    "document_number": "01208828702",
+    "file_size": 51287,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "dccir-d:consent amicus for petitioner brief filed by alan z. rozenshtein [service date: ": {
+    "available": true,
+    "document_number": "01208843469",
+    "file_size": 328885,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-d:consent amicus for petitioner brief filed by american civil liberties union and ": {
+    "available": true,
+    "document_number": "01208843337",
+    "file_size": 371953,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 45
+  },
+  "dccir-d:consent amicus for petitioner brief filed by employees of openai and google in t": {
+    "available": true,
+    "document_number": "01208843334",
+    "file_size": 232939,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 26
+  },
+  "dccir-d:consent amicus for petitioner brief filed by faith family technology network [se": {
+    "available": true,
+    "document_number": "01208843454",
+    "file_size": 378571,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "dccir-d:consent amicus for petitioner brief filed by foundation for individual rights an": {
+    "available": true,
+    "document_number": "01208843442",
+    "file_size": 334897,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 39
+  },
+  "dccir-d:consent amicus for petitioner brief filed by leon panetta and the institute for ": {
+    "available": true,
+    "document_number": "01208843397",
+    "file_size": 329431,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "dccir-d:consent amicus for petitioner brief filed by taxpayers protection alliance found": {
+    "available": true,
+    "document_number": "01208843139",
+    "file_size": 358058,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 36
+  },
+  "dccir-d:consent amicus for petitioner brief filed by technet, software & information ind": {
+    "available": true,
+    "document_number": "01208843463",
+    "file_size": 243578,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 46
+  },
+  "dccir-d:consent notice of intention to participate as amicus curiae [disclosure listing:": {
+    "available": true,
+    "document_number": "01208843319",
+    "file_size": 118186,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-d:corrected amicus for petitioner brief filed by former service secretaries [servi": {
+    "available": true,
+    "document_number": "01208844849",
+    "file_size": 361809,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "dccir-d:corrected amicus for petitioner brief filed by freedom economy business associat": {
+    "available": true,
+    "document_number": "01208845354",
+    "file_size": 278046,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 28
+  },
+  "dccir-d:corrected amicus for petitioner brief lodged by former senior national security ": {
+    "available": true,
+    "document_number": "01208831539",
+    "file_size": 159515,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-d:docketing statement filed by anthropic pbc [service date: 04/08/2026 ] (dunbar, ": {
+    "available": true,
+    "document_number": "01208838607",
+    "file_size": 277402,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-d:emergency motion to stay underlying order pending appeal filed by anthropic pbc ": {
+    "available": true,
+    "document_number": "01208829653",
+    "file_size": 382610,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 33
+  },
+  "dccir-d:entry of appearance filed by josephine k. petrick on behalf of amici curiae for ": {
+    "available": false,
+    "document_number": "01208843177",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:entry of appearance filed by mr. george c. harris for freedom economy business a": {
+    "available": false,
+    "document_number": "01208830718",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:entry of appearance filed by sharon swingle and co-counsel sean r. janda; brian ": {
+    "available": false,
+    "document_number": "01208829345",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:form 72 submitted by arguing attorney, kelly p. dunbar, on behalf of petitioner ": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:form 72 submitted by arguing attorney, sharon swingle, on behalf of respondents ": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:joint unopposed motion to extend time to file brief to 06/04/2026 filed by peter": {
+    "available": true,
+    "document_number": "01208852485",
+    "file_size": 62234,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-d:letter pursuant to frap 28j advising of additional authorities filed by anthropi": {
+    "available": true,
+    "document_number": "01208834843",
+    "file_size": 191251,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:letter update statements in response brief and declaration filed by peter b. heg": {
+    "available": true,
+    "document_number": "01208849217",
+    "file_size": 452593,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-d:motion to participate as amicus curiae [disclosure listing: attached] filed by 1": {
+    "available": true,
+    "document_number": "01208831564",
+    "file_size": 119023,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-d:motion to participate as amicus curiae [disclosure listing: attached] filed by a": {
+    "available": true,
+    "document_number": "01208831460",
+    "file_size": 186052,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-d:motion to participate as amicus curiae [disclosure listing: attached] filed by f": {
+    "available": true,
+    "document_number": "01208831045",
+    "file_size": 147467,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-d:motion to participate as amicus curiae [disclosure listing: not applicable to th": {
+    "available": true,
+    "document_number": "01208831087",
+    "file_size": 109071,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "dccir-d:motion to participate as amicus curiae combined with amicus for petitioner brief": {
+    "available": false,
+    "document_number": "01208839342",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:notice of intention to participate as amicus curiae [disclosure listing: attache": {
+    "available": true,
+    "document_number": "01208843451",
+    "file_size": 82932,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-d:notice to withdraw attorney alexander a. berengaut who represented former servic": {
+    "available": true,
+    "document_number": "01208849337",
+    "file_size": 144809,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-d:notice to withdraw attorney sopen b. shah who represented cato institute, chambe": {
+    "available": true,
+    "document_number": "01208847824",
+    "file_size": 91494,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "dccir-d:oral argument held before judges henderson, katsas and rao. [entered: 05/19/2026": {
+    "available": true,
+    "document_number": "01208851556",
+    "file_size": 46259,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:per above order lodged amicus brief , amicus brief , amicus brief , amicus brief": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:per curiam order (with per curiam statement attached) filed granting motions to ": {
+    "available": true,
+    "document_number": "01208838678",
+    "file_size": 133412,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-d:per curiam order filed allocating oral argument time as follows: petitioner - 15": {
+    "available": true,
+    "document_number": "01208847713",
+    "file_size": 48071,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:per curiam order filed denying motion of james lakner to participate as amicus c": {
+    "available": true,
+    "document_number": "01208842447",
+    "file_size": 39055,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:per curiam order filed granting joint motionfor extension of time . the parties'": {
+    "available": true,
+    "document_number": "01208852954",
+    "file_size": 45305,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:per curiam order filed on the court's own motion, that the parties file suppleme": {
+    "available": true,
+    "document_number": "01208852327",
+    "file_size": 48533,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:per curiam order filed ordered that respondents file a response to the emergency": {
+    "available": true,
+    "document_number": "01208830145",
+    "file_size": 45180,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:petition for review case docketed. [entered: 03/09/2026 12:26 pm]": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:petition for review of a decision by federal agency filed by anthropic pbc [serv": {
+    "available": true,
+    "document_number": "01208828684",
+    "file_size": 2863045,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
+  "dccir-d:petitioner brief filed by anthropic pbc [service date: 04/22/2026 ] length of br": {
+    "available": true,
+    "document_number": "01208843394",
+    "file_size": 639807,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 96
+  },
+  "dccir-d:petitioner reply brief filed by anthropic pbc [service date: 05/13/2026 ] length": {
+    "available": true,
+    "document_number": "01208849633",
+    "file_size": 293767,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 39
+  },
+  "dccir-d:reply filed by anthropic pbc to response [service date: 03/23/2026 by cm/ecf nda": {
+    "available": true,
+    "document_number": "01208833581",
+    "file_size": 6732891,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 55
+  },
+  "dccir-d:respondent brief filed by peter b. hegseth and united states department of war [": {
+    "available": true,
+    "document_number": "01208847842",
+    "file_size": 211832,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 83
+  },
+  "dccir-d:response in opposition to motion filed by peter b. hegseth and united states dep": {
+    "available": true,
+    "document_number": "01208832389",
+    "file_size": 18593616,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 90
+  },
+  "dccir-d:statement of intent regarding appendix deferral filed by anthropic pbc [service ": {
+    "available": true,
+    "document_number": "01208838622",
+    "file_size": 182401,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-d:statement of issues filed by anthropic pbc [service date: 04/08/2026 ] (dunbar, ": {
+    "available": true,
+    "document_number": "01208838613",
+    "file_size": 200125,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-d:underlying decision in case submitted by anthropic pbc [service date: 04/08/2026": {
+    "available": true,
+    "document_number": "01208838616",
+    "file_size": 155997,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:01208828684": {
+    "available": true,
+    "document_number": "01208828684",
+    "file_size": 2863045,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
+  "dccir-doc:01208828687": {
+    "available": true,
+    "document_number": "01208828687",
+    "file_size": 45169,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:01208828702": {
+    "available": true,
+    "document_number": "01208828702",
+    "file_size": 51287,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "dccir-doc:01208829345": {
+    "available": false,
+    "document_number": "01208829345",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:01208829653": {
+    "available": true,
+    "document_number": "01208829653",
+    "file_size": 382610,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 33
+  },
+  "dccir-doc:01208829661": {
+    "available": true,
+    "document_number": "01208829661",
+    "file_size": 109903,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-doc:01208829735": {
+    "available": true,
+    "document_number": "01208829735",
+    "file_size": 324222,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 31
+  },
+  "dccir-doc:01208829854": {
+    "available": true,
+    "document_number": "01208829854",
+    "file_size": 175526,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:01208829888": {
+    "available": true,
+    "document_number": "01208829888",
+    "file_size": 351237,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-doc:01208830023": {
+    "available": true,
+    "document_number": "01208830023",
+    "file_size": 111154,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:01208830045": {
+    "available": true,
+    "document_number": "01208830045",
+    "file_size": 314339,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 36
+  },
+  "dccir-doc:01208830127": {
+    "available": true,
+    "document_number": "01208830127",
+    "file_size": 228696,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 26
+  },
+  "dccir-doc:01208830145": {
+    "available": true,
+    "document_number": "01208830145",
+    "file_size": 45180,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:01208830425": {
+    "available": false,
+    "document_number": "01208830425",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:01208830434": {
+    "available": true,
+    "document_number": "01208830434",
+    "file_size": 320674,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-doc:01208830529": {
+    "available": true,
+    "document_number": "01208830529",
+    "file_size": 264830,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 25
+  },
+  "dccir-doc:01208830718": {
+    "available": false,
+    "document_number": "01208830718",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:01208831045": {
+    "available": true,
+    "document_number": "01208831045",
+    "file_size": 147467,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-doc:01208831066": {
+    "available": true,
+    "document_number": "01208831066",
+    "file_size": 451826,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 46
+  },
+  "dccir-doc:01208831071": {
+    "available": true,
+    "document_number": "01208831071",
+    "file_size": 159511,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-doc:01208831083": {
+    "available": true,
+    "document_number": "01208831083",
+    "file_size": 255390,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "dccir-doc:01208831087": {
+    "available": true,
+    "document_number": "01208831087",
+    "file_size": 109071,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "dccir-doc:01208831090": {
+    "available": true,
+    "document_number": "01208831090",
+    "file_size": 254948,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "dccir-doc:01208831120": {
+    "available": true,
+    "document_number": "01208831120",
+    "file_size": 184235,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 24
+  },
+  "dccir-doc:01208831436": {
+    "available": true,
+    "document_number": "01208831436",
+    "file_size": 422311,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 46
+  },
+  "dccir-doc:01208831446": {
+    "available": true,
+    "document_number": "01208831446",
+    "file_size": 177812,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:01208831460": {
+    "available": true,
+    "document_number": "01208831460",
+    "file_size": 186052,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-doc:01208831539": {
+    "available": true,
+    "document_number": "01208831539",
+    "file_size": 159515,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-doc:01208831564": {
+    "available": true,
+    "document_number": "01208831564",
+    "file_size": 119023,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:01208831569": {
+    "available": true,
+    "document_number": "01208831569",
+    "file_size": 261921,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 43
+  },
+  "dccir-doc:01208831708": {
+    "available": true,
+    "document_number": "01208831708",
+    "file_size": 302285,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-doc:01208832389": {
+    "available": true,
+    "document_number": "01208832389",
+    "file_size": 18593616,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 90
+  },
+  "dccir-doc:01208833581": {
+    "available": true,
+    "document_number": "01208833581",
+    "file_size": 6732891,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 55
+  },
+  "dccir-doc:01208834843": {
+    "available": true,
+    "document_number": "01208834843",
+    "file_size": 191251,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:01208838607": {
+    "available": true,
+    "document_number": "01208838607",
+    "file_size": 277402,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-doc:01208838610": {
+    "available": true,
+    "document_number": "01208838610",
+    "file_size": 171430,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:01208838613": {
+    "available": true,
+    "document_number": "01208838613",
+    "file_size": 200125,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:01208838616": {
+    "available": true,
+    "document_number": "01208838616",
+    "file_size": 155997,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:01208838622": {
+    "available": true,
+    "document_number": "01208838622",
+    "file_size": 182401,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-doc:01208838678": {
+    "available": true,
+    "document_number": "01208838678",
+    "file_size": 133412,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-doc:01208839342": {
+    "available": false,
+    "document_number": "01208839342",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:01208842447": {
+    "available": true,
+    "document_number": "01208842447",
+    "file_size": 39055,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:01208843021": {
+    "available": true,
+    "document_number": "01208843021",
+    "file_size": 336400,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 32
+  },
+  "dccir-doc:01208843139": {
+    "available": true,
+    "document_number": "01208843139",
+    "file_size": 358058,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 36
+  },
+  "dccir-doc:01208843177": {
+    "available": false,
+    "document_number": "01208843177",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:01208843183": {
+    "available": true,
+    "document_number": "01208843183",
+    "file_size": 269837,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 28
+  },
+  "dccir-doc:01208843262": {
+    "available": true,
+    "document_number": "01208843262",
+    "file_size": 237595,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "dccir-doc:01208843288": {
+    "available": true,
+    "document_number": "01208843288",
+    "file_size": 169660,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 45
+  },
+  "dccir-doc:01208843319": {
+    "available": true,
+    "document_number": "01208843319",
+    "file_size": 118186,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:01208843334": {
+    "available": true,
+    "document_number": "01208843334",
+    "file_size": 232939,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 26
+  },
+  "dccir-doc:01208843337": {
+    "available": true,
+    "document_number": "01208843337",
+    "file_size": 371953,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 45
+  },
+  "dccir-doc:01208843343": {
+    "available": true,
+    "document_number": "01208843343",
+    "file_size": 364772,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-doc:01208843391": {
+    "available": true,
+    "document_number": "01208843391",
+    "file_size": 305354,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-doc:01208843394": {
+    "available": true,
+    "document_number": "01208843394",
+    "file_size": 639807,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 96
+  },
+  "dccir-doc:01208843397": {
+    "available": true,
+    "document_number": "01208843397",
+    "file_size": 329431,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "dccir-doc:01208843409": {
+    "available": true,
+    "document_number": "01208843409",
+    "file_size": 19671905,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 70
+  },
+  "dccir-doc:01208843421": {
+    "available": true,
+    "document_number": "01208843421",
+    "file_size": 314583,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 49
+  },
+  "dccir-doc:01208843442": {
+    "available": true,
+    "document_number": "01208843442",
+    "file_size": 334897,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 39
+  },
+  "dccir-doc:01208843451": {
+    "available": true,
+    "document_number": "01208843451",
+    "file_size": 82932,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:01208843454": {
+    "available": true,
+    "document_number": "01208843454",
+    "file_size": 378571,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "dccir-doc:01208843463": {
+    "available": true,
+    "document_number": "01208843463",
+    "file_size": 243578,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 46
+  },
+  "dccir-doc:01208843469": {
+    "available": true,
+    "document_number": "01208843469",
+    "file_size": 328885,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-doc:01208843643": {
+    "available": true,
+    "document_number": "01208843643",
+    "file_size": 572107,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "dccir-doc:01208843910": {
+    "available": true,
+    "document_number": "01208843910",
+    "file_size": 533018,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:01208844849": {
+    "available": true,
+    "document_number": "01208844849",
+    "file_size": 361809,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "dccir-doc:01208845354": {
+    "available": true,
+    "document_number": "01208845354",
+    "file_size": 278046,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 28
+  },
+  "dccir-doc:01208847713": {
+    "available": true,
+    "document_number": "01208847713",
+    "file_size": 48071,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:01208847824": {
+    "available": true,
+    "document_number": "01208847824",
+    "file_size": 91494,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "dccir-doc:01208847842": {
+    "available": true,
+    "document_number": "01208847842",
+    "file_size": 211832,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 83
+  },
+  "dccir-doc:01208849217": {
+    "available": true,
+    "document_number": "01208849217",
+    "file_size": 452593,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-doc:01208849337": {
+    "available": true,
+    "document_number": "01208849337",
+    "file_size": 144809,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-doc:01208849633": {
+    "available": true,
+    "document_number": "01208849633",
+    "file_size": 293767,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 39
+  },
+  "dccir-doc:01208851556": {
+    "available": true,
+    "document_number": "01208851556",
+    "file_size": 46259,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:01208852327": {
+    "available": true,
+    "document_number": "01208852327",
+    "file_size": 48533,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:01208852485": {
+    "available": true,
+    "document_number": "01208852485",
+    "file_size": 62234,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:01208852954": {
+    "available": true,
+    "document_number": "01208852954",
+    "file_size": 45305,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208828684": {
+    "available": true,
+    "document_number": "01208828684",
+    "file_size": 2863045,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
+  "dccir-doc:1208828687": {
+    "available": true,
+    "document_number": "01208828687",
+    "file_size": 45169,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208828702": {
+    "available": true,
+    "document_number": "01208828702",
+    "file_size": 51287,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "dccir-doc:1208829345": {
+    "available": false,
+    "document_number": "01208829345",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208829653": {
+    "available": true,
+    "document_number": "01208829653",
+    "file_size": 382610,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 33
+  },
+  "dccir-doc:1208829661": {
+    "available": true,
+    "document_number": "01208829661",
+    "file_size": 109903,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-doc:1208829735": {
+    "available": true,
+    "document_number": "01208829735",
+    "file_size": 324222,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 31
+  },
+  "dccir-doc:1208829854": {
+    "available": true,
+    "document_number": "01208829854",
+    "file_size": 175526,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:1208829888": {
+    "available": true,
+    "document_number": "01208829888",
+    "file_size": 351237,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-doc:1208830023": {
+    "available": true,
+    "document_number": "01208830023",
+    "file_size": 111154,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:1208830045": {
+    "available": true,
+    "document_number": "01208830045",
+    "file_size": 314339,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 36
+  },
+  "dccir-doc:1208830127": {
+    "available": true,
+    "document_number": "01208830127",
+    "file_size": 228696,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 26
+  },
+  "dccir-doc:1208830145": {
+    "available": true,
+    "document_number": "01208830145",
+    "file_size": 45180,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208830425": {
+    "available": false,
+    "document_number": "01208830425",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208830434": {
+    "available": true,
+    "document_number": "01208830434",
+    "file_size": 320674,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-doc:1208830529": {
+    "available": true,
+    "document_number": "01208830529",
+    "file_size": 264830,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 25
+  },
+  "dccir-doc:1208830718": {
+    "available": false,
+    "document_number": "01208830718",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208831045": {
+    "available": true,
+    "document_number": "01208831045",
+    "file_size": 147467,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-doc:1208831066": {
+    "available": true,
+    "document_number": "01208831066",
+    "file_size": 451826,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 46
+  },
+  "dccir-doc:1208831071": {
+    "available": true,
+    "document_number": "01208831071",
+    "file_size": 159511,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-doc:1208831083": {
+    "available": true,
+    "document_number": "01208831083",
+    "file_size": 255390,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "dccir-doc:1208831087": {
+    "available": true,
+    "document_number": "01208831087",
+    "file_size": 109071,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "dccir-doc:1208831090": {
+    "available": true,
+    "document_number": "01208831090",
+    "file_size": 254948,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "dccir-doc:1208831120": {
+    "available": true,
+    "document_number": "01208831120",
+    "file_size": 184235,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 24
+  },
+  "dccir-doc:1208831436": {
+    "available": true,
+    "document_number": "01208831436",
+    "file_size": 422311,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 46
+  },
+  "dccir-doc:1208831446": {
+    "available": true,
+    "document_number": "01208831446",
+    "file_size": 177812,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:1208831460": {
+    "available": true,
+    "document_number": "01208831460",
+    "file_size": 186052,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-doc:1208831539": {
+    "available": true,
+    "document_number": "01208831539",
+    "file_size": 159515,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 42
+  },
+  "dccir-doc:1208831564": {
+    "available": true,
+    "document_number": "01208831564",
+    "file_size": 119023,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:1208831569": {
+    "available": true,
+    "document_number": "01208831569",
+    "file_size": 261921,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 43
+  },
+  "dccir-doc:1208831708": {
+    "available": true,
+    "document_number": "01208831708",
+    "file_size": 302285,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-doc:1208832389": {
+    "available": true,
+    "document_number": "01208832389",
+    "file_size": 18593616,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 90
+  },
+  "dccir-doc:1208833581": {
+    "available": true,
+    "document_number": "01208833581",
+    "file_size": 6732891,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 55
+  },
+  "dccir-doc:1208834843": {
+    "available": true,
+    "document_number": "01208834843",
+    "file_size": 191251,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208838607": {
+    "available": true,
+    "document_number": "01208838607",
+    "file_size": 277402,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-doc:1208838610": {
+    "available": true,
+    "document_number": "01208838610",
+    "file_size": 171430,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:1208838613": {
+    "available": true,
+    "document_number": "01208838613",
+    "file_size": 200125,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:1208838616": {
+    "available": true,
+    "document_number": "01208838616",
+    "file_size": 155997,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:1208838622": {
+    "available": true,
+    "document_number": "01208838622",
+    "file_size": 182401,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-doc:1208838678": {
+    "available": true,
+    "document_number": "01208838678",
+    "file_size": 133412,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-doc:1208839342": {
+    "available": false,
+    "document_number": "01208839342",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208842447": {
+    "available": true,
+    "document_number": "01208842447",
+    "file_size": 39055,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208843021": {
+    "available": true,
+    "document_number": "01208843021",
+    "file_size": 336400,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 32
+  },
+  "dccir-doc:1208843139": {
+    "available": true,
+    "document_number": "01208843139",
+    "file_size": 358058,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 36
+  },
+  "dccir-doc:1208843177": {
+    "available": false,
+    "document_number": "01208843177",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208843183": {
+    "available": true,
+    "document_number": "01208843183",
+    "file_size": 269837,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 28
+  },
+  "dccir-doc:1208843262": {
+    "available": true,
+    "document_number": "01208843262",
+    "file_size": 237595,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "dccir-doc:1208843288": {
+    "available": true,
+    "document_number": "01208843288",
+    "file_size": 169660,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 45
+  },
+  "dccir-doc:1208843319": {
+    "available": true,
+    "document_number": "01208843319",
+    "file_size": 118186,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "dccir-doc:1208843334": {
+    "available": true,
+    "document_number": "01208843334",
+    "file_size": 232939,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 26
+  },
+  "dccir-doc:1208843337": {
+    "available": true,
+    "document_number": "01208843337",
+    "file_size": 371953,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 45
+  },
+  "dccir-doc:1208843343": {
+    "available": true,
+    "document_number": "01208843343",
+    "file_size": 364772,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-doc:1208843391": {
+    "available": true,
+    "document_number": "01208843391",
+    "file_size": 305354,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-doc:1208843394": {
+    "available": true,
+    "document_number": "01208843394",
+    "file_size": 639807,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 96
+  },
+  "dccir-doc:1208843397": {
+    "available": true,
+    "document_number": "01208843397",
+    "file_size": 329431,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "dccir-doc:1208843409": {
+    "available": true,
+    "document_number": "01208843409",
+    "file_size": 19671905,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 70
+  },
+  "dccir-doc:1208843421": {
+    "available": true,
+    "document_number": "01208843421",
+    "file_size": 314583,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 49
+  },
+  "dccir-doc:1208843442": {
+    "available": true,
+    "document_number": "01208843442",
+    "file_size": 334897,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 39
+  },
+  "dccir-doc:1208843451": {
+    "available": true,
+    "document_number": "01208843451",
+    "file_size": 82932,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:1208843454": {
+    "available": true,
+    "document_number": "01208843454",
+    "file_size": 378571,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "dccir-doc:1208843463": {
+    "available": true,
+    "document_number": "01208843463",
+    "file_size": 243578,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 46
+  },
+  "dccir-doc:1208843469": {
+    "available": true,
+    "document_number": "01208843469",
+    "file_size": 328885,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "dccir-doc:1208843643": {
+    "available": true,
+    "document_number": "01208843643",
+    "file_size": 572107,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "dccir-doc:1208843910": {
+    "available": true,
+    "document_number": "01208843910",
+    "file_size": 533018,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:1208844849": {
+    "available": true,
+    "document_number": "01208844849",
+    "file_size": 361809,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "dccir-doc:1208845354": {
+    "available": true,
+    "document_number": "01208845354",
+    "file_size": 278046,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 28
+  },
+  "dccir-doc:1208847713": {
+    "available": true,
+    "document_number": "01208847713",
+    "file_size": 48071,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208847824": {
+    "available": true,
+    "document_number": "01208847824",
+    "file_size": 91494,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "dccir-doc:1208847842": {
+    "available": true,
+    "document_number": "01208847842",
+    "file_size": 211832,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 83
+  },
+  "dccir-doc:1208849217": {
+    "available": true,
+    "document_number": "01208849217",
+    "file_size": 452593,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
+  "dccir-doc:1208849337": {
+    "available": true,
+    "document_number": "01208849337",
+    "file_size": 144809,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-doc:1208849633": {
+    "available": true,
+    "document_number": "01208849633",
+    "file_size": 293767,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 39
+  },
+  "dccir-doc:1208851556": {
+    "available": true,
+    "document_number": "01208851556",
+    "file_size": 46259,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208852327": {
+    "available": true,
+    "document_number": "01208852327",
+    "file_size": 48533,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208852485": {
+    "available": true,
+    "document_number": "01208852485",
+    "file_size": 62234,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:1208852954": {
+    "available": true,
+    "document_number": "01208852954",
+    "file_size": 45305,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-1": {
+    "available": true,
+    "document_number": "1",
+    "file_size": 740145,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 48
+  },
+  "ndcal-10": {
+    "available": false,
+    "document_number": "10",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-100": {
+    "available": false,
+    "document_number": "100",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-101": {
+    "available": true,
+    "document_number": "101",
+    "file_size": 132008,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-102": {
+    "available": false,
+    "document_number": "102",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-103": {
+    "available": false,
+    "document_number": "103",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-104": {
+    "available": false,
+    "document_number": "104",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-105": {
+    "available": false,
+    "document_number": "105",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-106": {
+    "available": false,
+    "document_number": "106",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-107": {
+    "available": false,
+    "document_number": "107",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-108": {
+    "available": false,
+    "document_number": "108",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-109": {
+    "available": false,
+    "document_number": "109",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-11": {
+    "available": false,
+    "document_number": "11",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-110": {
+    "available": true,
+    "document_number": "110",
+    "file_size": 133267,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-111": {
+    "available": false,
+    "document_number": "111",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-112": {
+    "available": false,
+    "document_number": "112",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-113": {
+    "available": true,
+    "document_number": "113",
+    "file_size": 684684,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "ndcal-114": {
+    "available": true,
+    "document_number": "114",
+    "file_size": 444010,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-115": {
+    "available": true,
+    "document_number": "115",
+    "file_size": 461422,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ndcal-116": {
+    "available": true,
+    "document_number": "116",
+    "file_size": 143497,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-117": {
+    "available": false,
+    "document_number": "117",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-118": {
+    "available": true,
+    "document_number": "118",
+    "file_size": 168177,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-119": {
+    "available": false,
+    "document_number": "119",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-12": {
+    "available": false,
+    "document_number": "12",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-120": {
+    "available": true,
+    "document_number": "120",
+    "file_size": 105754,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-121": {
+    "available": true,
+    "document_number": "121",
+    "file_size": 1615959,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "ndcal-122": {
+    "available": true,
+    "document_number": "122",
+    "file_size": 1615959,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "ndcal-123": {
+    "available": false,
+    "document_number": "123",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-124": {
+    "available": false,
+    "document_number": "124",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-125": {
+    "available": false,
+    "document_number": "125",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-126": {
+    "available": true,
+    "document_number": "126",
+    "file_size": 430993,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-127": {
+    "available": true,
+    "document_number": "127",
+    "file_size": 350746,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-128": {
+    "available": false,
+    "document_number": "128",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-129": {
+    "available": true,
+    "document_number": "129",
+    "file_size": 134205,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-13": {
+    "available": false,
+    "document_number": "13",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-130": {
+    "available": true,
+    "document_number": "130",
+    "file_size": 207127,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-131": {
+    "available": true,
+    "document_number": "131",
+    "file_size": 113388,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-132": {
+    "available": true,
+    "document_number": "132",
+    "file_size": 259885,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-133": {
+    "available": false,
+    "document_number": "133",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-134": {
+    "available": true,
+    "document_number": "134",
+    "file_size": 408427,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 43
+  },
+  "ndcal-135": {
+    "available": true,
+    "document_number": "135",
+    "file_size": 151551,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-136": {
+    "available": false,
+    "document_number": "136",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-137": {
+    "available": false,
+    "document_number": "137",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-138": {
+    "available": false,
+    "document_number": "138",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-139": {
+    "available": false,
+    "document_number": "139",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-14": {
+    "available": false,
+    "document_number": "14",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-140": {
+    "available": true,
+    "document_number": "140",
+    "file_size": 234655,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-141": {
+    "available": true,
+    "document_number": "141",
+    "file_size": 98947,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-142": {
+    "available": false,
+    "document_number": "142",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-143": {
+    "available": false,
+    "document_number": "143",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-144": {
+    "available": false,
+    "document_number": "144",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-145": {
+    "available": true,
+    "document_number": "145",
+    "file_size": 369189,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-146": {
+    "available": true,
+    "document_number": "146",
+    "file_size": 165344,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-147": {
+    "available": false,
+    "document_number": "147",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-148": {
+    "available": true,
+    "document_number": "148",
+    "file_size": 105787,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-149": {
+    "available": true,
+    "document_number": "149",
+    "file_size": 167656,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 10
+  },
+  "ndcal-15": {
+    "available": false,
+    "document_number": "15",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-150": {
+    "available": true,
+    "document_number": "150",
+    "file_size": 186741,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-151": {
+    "available": false,
+    "document_number": "151",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-152": {
+    "available": false,
+    "document_number": "152",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-153": {
+    "available": true,
+    "document_number": "153",
+    "file_size": 113073,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-154": {
+    "available": false,
+    "document_number": "154",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-155": {
+    "available": false,
+    "document_number": "155",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-16": {
+    "available": false,
+    "document_number": "16",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-17": {
+    "available": false,
+    "document_number": "17",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-18": {
+    "available": false,
+    "document_number": "18",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-2": {
+    "available": true,
+    "document_number": "2",
+    "file_size": 229323,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-20": {
+    "available": false,
+    "document_number": "20",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-21": {
+    "available": true,
+    "document_number": "21",
+    "file_size": 436589,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-22": {
+    "available": false,
+    "document_number": "22",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-23": {
+    "available": true,
+    "document_number": "23",
+    "file_size": 135904,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-24": {
+    "available": true,
+    "document_number": "24",
+    "file_size": 206833,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-26": {
+    "available": true,
+    "document_number": "26",
+    "file_size": 406531,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-27": {
+    "available": true,
+    "document_number": "27",
+    "file_size": 135746,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-29": {
+    "available": false,
+    "document_number": "29",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-3": {
+    "available": true,
+    "document_number": "3",
+    "file_size": 137161,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-30": {
+    "available": false,
+    "document_number": "30",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-32": {
+    "available": true,
+    "document_number": "32",
+    "file_size": 558548,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-33": {
+    "available": true,
+    "document_number": "33",
+    "file_size": 448804,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-34": {
+    "available": true,
+    "document_number": "34",
+    "file_size": 388147,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-35": {
+    "available": false,
+    "document_number": "35",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-37": {
+    "available": false,
+    "document_number": "37",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-38": {
+    "available": false,
+    "document_number": "38",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-39": {
+    "available": false,
+    "document_number": "39",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-40": {
+    "available": true,
+    "document_number": "40",
+    "file_size": 341705,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "ndcal-41": {
+    "available": false,
+    "document_number": "41",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-44": {
+    "available": false,
+    "document_number": "44",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-47": {
+    "available": true,
+    "document_number": "47",
+    "file_size": 262845,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-48": {
+    "available": false,
+    "document_number": "48",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-49": {
+    "available": false,
+    "document_number": "49",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-5": {
+    "available": false,
+    "document_number": "5",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-50": {
+    "available": false,
+    "document_number": "50",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-51": {
+    "available": false,
+    "document_number": "51",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-52": {
+    "available": false,
+    "document_number": "52",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-53": {
+    "available": false,
+    "document_number": "53",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-54": {
+    "available": true,
+    "document_number": "54",
+    "file_size": 436644,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-55": {
+    "available": true,
+    "document_number": "55",
+    "file_size": 118073,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-56": {
+    "available": false,
+    "document_number": "56",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-57": {
+    "available": false,
+    "document_number": "57",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-58": {
+    "available": true,
+    "document_number": "58",
+    "file_size": 262421,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "ndcal-59": {
+    "available": true,
+    "document_number": "59",
+    "file_size": 353613,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-6": {
+    "available": true,
+    "document_number": "6",
+    "file_size": 307498,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "ndcal-60": {
+    "available": true,
+    "document_number": "60",
+    "file_size": 774675,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-61": {
+    "available": true,
+    "document_number": "61",
+    "file_size": 102556,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-62": {
+    "available": true,
+    "document_number": "62",
+    "file_size": 100911,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-64": {
+    "available": false,
+    "document_number": "64",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-66": {
+    "available": false,
+    "document_number": "66",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-67": {
+    "available": true,
+    "document_number": "67",
+    "file_size": 301007,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "ndcal-68": {
+    "available": false,
+    "document_number": "68",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-69": {
+    "available": false,
+    "document_number": "69",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-70": {
+    "available": false,
+    "document_number": "70",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-71": {
+    "available": true,
+    "document_number": "71",
+    "file_size": 183080,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ndcal-72": {
+    "available": true,
+    "document_number": "72",
+    "file_size": 276551,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 14
+  },
+  "ndcal-73": {
+    "available": true,
+    "document_number": "73",
+    "file_size": 258469,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 10
+  },
+  "ndcal-74": {
+    "available": true,
+    "document_number": "74",
+    "file_size": 139025,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 25
+  },
+  "ndcal-75": {
+    "available": true,
+    "document_number": "75",
+    "file_size": 601393,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
+  "ndcal-76": {
+    "available": false,
+    "document_number": "76",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-77": {
+    "available": true,
+    "document_number": "77",
+    "file_size": 140172,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-79": {
+    "available": false,
+    "document_number": "79",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-81": {
+    "available": false,
+    "document_number": "81",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-84": {
+    "available": false,
+    "document_number": "84",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-85": {
+    "available": true,
+    "document_number": "85",
+    "file_size": 71812,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-86": {
+    "available": false,
+    "document_number": "86",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-87": {
+    "available": true,
+    "document_number": "87",
+    "file_size": 500123,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-88": {
+    "available": true,
+    "document_number": "88",
+    "file_size": 121555,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-89": {
+    "available": false,
+    "document_number": "89",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-90": {
+    "available": false,
+    "document_number": "90",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-91": {
+    "available": false,
+    "document_number": "91",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-92": {
+    "available": false,
+    "document_number": "92",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-93": {
+    "available": false,
+    "document_number": "93",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-94": {
+    "available": true,
+    "document_number": "94",
+    "file_size": 382991,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-95": {
+    "available": true,
+    "document_number": "95",
+    "file_size": 395501,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-96": {
+    "available": true,
+    "document_number": "96",
+    "file_size": 298111,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 40
+  },
+  "ndcal-97": {
+    "available": true,
+    "document_number": "97",
+    "file_size": 126213,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-98": {
+    "available": false,
+    "document_number": "98",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-99": {
+    "available": false,
+    "document_number": "99",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:***erroneously e-filed, disregard see doc 80 *** amicus curiae appearance entere": {
+    "available": false,
+    "document_number": "79",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:administrative motion for for leave to file brief of amici curiae freedom econom": {
+    "available": true,
+    "document_number": "77",
+    "file_size": 140172,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-d:administrative motion leave to file brief of amicus curiae filed by microsoft co": {
+    "available": true,
+    "document_number": "34",
+    "file_size": 388147,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:administrative motion of alan z. rozenshtein for leave to file as amicus curiae ": {
+    "available": true,
+    "document_number": "54",
+    "file_size": 436644,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-d:administrative motion to file under seal filed by paul s. atkins, scott bessent,": {
+    "available": true,
+    "document_number": "97",
+    "file_size": 126213,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-d:administrative motion to increase page limits pursuant to l.r. 7-11 for motion f": {
+    "available": true,
+    "document_number": "21",
+    "file_size": 436589,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-d:amended motion for leave to appear in pro hac vice katherine gallagher ( filing ": {
+    "available": false,
+    "document_number": "99",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:brief of amici curiae filed bycato institute, chamber of progress, electronic fr": {
+    "available": true,
+    "document_number": "67",
+    "file_size": 301007,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "ndcal-d:brief of amici curiae filed byformer service secretaries and retired senior mili": {
+    "available": true,
+    "document_number": "58",
+    "file_size": 262421,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "ndcal-d:brief of amici curiae filed byindustry trade associations. (parker, warrington) ": {
+    "available": true,
+    "document_number": "72",
+    "file_size": 276551,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 14
+  },
+  "ndcal-d:brief re 55 order on motion to file amicus curiae brief,,,, order on administrat": {
+    "available": true,
+    "document_number": "75",
+    "file_size": 601393,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
+  "ndcal-d:brief re 6 motion for temporary restraining order motion for preliminary injunct": {
+    "available": true,
+    "document_number": "74",
+    "file_size": 139025,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 25
+  },
+  "ndcal-d:case assigned to judge rita f. lin. counsel for plaintiff or the removing party ": {
+    "available": false,
+    "document_number": "5",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:clerk's notice of courtroom change: hearing re: 6 motion for preliminary injunct": {
+    "available": false,
+    "document_number": "111",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:clerk's notice re: zoom access re: motion hearing re: preliminary injunction for": {
+    "available": false,
+    "document_number": "112",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:clerk's notice: the [dkt. no. 121] proposed amicus brief was filed on march 20, ": {
+    "available": true,
+    "document_number": "122",
+    "file_size": 1615959,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "ndcal-d:complaint for declaratory and injunctive relief against all defendants ( filing ": {
+    "available": true,
+    "document_number": "1",
+    "file_size": 740145,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 48
+  },
+  "ndcal-d:consent motion to file amicus curiae brief filed by former service secretaries a": {
+    "available": true,
+    "document_number": "40",
+    "file_size": 341705,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "ndcal-d:corporate disclosure statement by anthropic pbc identifying other affiliate goog": {
+    "available": true,
+    "document_number": "3",
+    "file_size": 137161,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:corrected transcript of proceedings held on 03/24/2026, before judge rita f. lin": {
+    "available": false,
+    "document_number": "133",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:declaration of michael j. mongan in support of 113 reply to opposition/response ": {
+    "available": true,
+    "document_number": "116",
+    "file_size": 143497,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:declaration of sarah heck in support of 113 reply to opposition/response filed b": {
+    "available": true,
+    "document_number": "114",
+    "file_size": 444010,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-d:declaration of thiyagu ramasamy in support of 113 reply to opposition/response f": {
+    "available": true,
+    "document_number": "115",
+    "file_size": 461422,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ndcal-d:declaration of thiyagu ramasamy in support of 6 motion for temporary restraining": {
+    "available": true,
+    "document_number": "126",
+    "file_size": 430993,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-d:first motion for leave to appear in pro hac vice ( filing fee $ 328, receipt num": {
+    "available": false,
+    "document_number": "106",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:first motion for leave to appear in pro hac vice bassel el-rewini ( filing fee $": {
+    "available": false,
+    "document_number": "103",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:first motion for leave to appear in pro hac vice katherine gallagher ( filing fe": {
+    "available": false,
+    "document_number": "93",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:joint stipulation with proposed order regarding case schedule filed by paul s. a": {
+    "available": true,
+    "document_number": "149",
+    "file_size": 167656,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 10
+  },
+  "ndcal-d:minute entry for proceedings held before judge rita f. lin: status conference re": {
+    "available": false,
+    "document_number": "38",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:minute entry for proceedings held before judge rita f. lin:motion hearing re: 6 ": {
+    "available": false,
+    "document_number": "123",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:motion for leave to appear in pro hac vice ( filing fee $ 328, receipt number ac": {
+    "available": true,
+    "document_number": "85",
+    "file_size": 71812,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:motion for leave to appear in pro hac vice matthew f. ferraro ( filing fee $ 328": {
+    "available": true,
+    "document_number": "33",
+    "file_size": 448804,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:motion for leave to appear in pro hac vice of alexandra barbee-garrett ( filing ": {
+    "available": false,
+    "document_number": "89",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:motion for leave to appear in pro hac vice of sharmistha das ( filing fee $ 328,": {
+    "available": false,
+    "document_number": "81",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:motion for leave to appear in pro hac vice of stephanie crawford ( filing fee $ ": {
+    "available": false,
+    "document_number": "92",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:motion for leave to appear in pro hac vice sharmistha das ( filing fee $ 328, re": {
+    "available": true,
+    "document_number": "32",
+    "file_size": 558548,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:motion for leave to file amicus curiae brief filed by david f brochu. (afm, cour": {
+    "available": true,
+    "document_number": "121",
+    "file_size": 1615959,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "ndcal-d:motion for temporary restraining order, motion for preliminary injunction, motio": {
+    "available": true,
+    "document_number": "6",
+    "file_size": 307498,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "ndcal-d:motion to file amicus curiae brief filed by catholic moral theologians and ethic": {
+    "available": true,
+    "document_number": "71",
+    "file_size": 183080,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ndcal-d:motion to file amicus curiae brief filed by employees of openai and google in th": {
+    "available": true,
+    "document_number": "24",
+    "file_size": 206833,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:motion to file amicus curiae brief filed by foundation for individual rights and": {
+    "available": true,
+    "document_number": "27",
+    "file_size": 135746,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:motion to file amicus curiae brief in support of preliminary injunction filed by": {
+    "available": true,
+    "document_number": "73",
+    "file_size": 258469,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 10
+  },
+  "ndcal-d:notice by paul s. atkins, scott bessent, frank j. bisigano, mary anne carter, do": {
+    "available": true,
+    "document_number": "148",
+    "file_size": 105787,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:notice of appeal to the 9th circuit court of appeals filed by paul s. atkins, sc": {
+    "available": true,
+    "document_number": "141",
+    "file_size": 98947,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:notice of appearance filed by alexis jane loeb on behalf of former senior nation": {
+    "available": false,
+    "document_number": "69",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by anthony paul schoenberg on behalf of former senior": {
+    "available": false,
+    "document_number": "68",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by celine georges purcell on behalf of freedom econom": {
+    "available": false,
+    "document_number": "138",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by christian dibblee on behalf of paul s. atkins, sco": {
+    "available": false,
+    "document_number": "86",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by clara j. shin on behalf of former service secretar": {
+    "available": false,
+    "document_number": "39",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by eric j hamilton on behalf of paul s. atkins, scott": {
+    "available": false,
+    "document_number": "119",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by james william harlow on behalf of paul s. atkins, ": {
+    "available": false,
+    "document_number": "29",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by john michael ugai on behalf of former senior natio": {
+    "available": false,
+    "document_number": "70",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by kristina wolfe on behalf of paul s. atkins, scott ": {
+    "available": false,
+    "document_number": "142",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by meetali jain on behalf of tech justice law project": {
+    "available": false,
+    "document_number": "100",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by nicole lynn schneidman on behalf of employees of o": {
+    "available": false,
+    "document_number": "22",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by paul steven jasper on behalf of cato institute, ch": {
+    "available": false,
+    "document_number": "56",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by saja spearman-weaver on behalf of freedom economy ": {
+    "available": false,
+    "document_number": "105",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of appearance filed by william fred norton on behalf of freedom economy b": {
+    "available": false,
+    "document_number": "76",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of change in counsel: attorney alexander a. berengaut no longer represent": {
+    "available": false,
+    "document_number": "152",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of filing the second declaration of emil michael in opposition to plainti": {
+    "available": true,
+    "document_number": "120",
+    "file_size": 105754,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:notice of questions for hearing. signed by judge rita f. lin on 3/23/2026. (afm,": {
+    "available": true,
+    "document_number": "118",
+    "file_size": 168177,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-d:notice of withdrawal filed by sopen b. shah, no longer appearing on behalf of ca": {
+    "available": false,
+    "document_number": "151",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:opposition/response (re 6 motion for temporary restraining order motion for prel": {
+    "available": true,
+    "document_number": "131",
+    "file_size": 113388,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:order by judge rita f. lin denying 59 motion for pro hac vice. (afm, court staff": {
+    "available": true,
+    "document_number": "61",
+    "file_size": 102556,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-d:order by judge rita f. lin denying 60 motion for pro hac vice. (afm, court staff": {
+    "available": true,
+    "document_number": "62",
+    "file_size": 100911,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-d:order by judge rita f. lin granting 10 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "17",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 103 motion for pro hac vice. (afm, court sta": {
+    "available": false,
+    "document_number": "104",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 106 motion for pro hac vice. (afm, court sta": {
+    "available": false,
+    "document_number": "107",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 109 motion for pro hac vice. (afm, court sta": {
+    "available": true,
+    "document_number": "110",
+    "file_size": 133267,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:order by judge rita f. lin granting 11 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "18",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 13 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "20",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 153 stipulation. after full consideration of": {
+    "available": false,
+    "document_number": "154",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 30 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "35",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 32 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "37",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 41 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "48",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 42 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "49",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 43 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "50",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 44 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "51",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 45 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "52",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 46 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "53",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 63 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "64",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 65 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "66",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 7 motion for pro hac vice. (afm, court staff": {
+    "available": false,
+    "document_number": "14",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 71, 73, 77, and 82 motions to file amicus cu": {
+    "available": false,
+    "document_number": "84",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 8 motion for pro hac vice. (afm, court staff": {
+    "available": false,
+    "document_number": "15",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 81 motion for pro hac vice. (afm, court staf": {
+    "available": true,
+    "document_number": "87",
+    "file_size": 500123,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:order by judge rita f. lin granting 85 motion for pro hac vice. (afm, court staf": {
+    "available": true,
+    "document_number": "88",
+    "file_size": 121555,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:order by judge rita f. lin granting 89 motion for pro hac vice. (afm, court staf": {
+    "available": true,
+    "document_number": "94",
+    "file_size": 382991,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:order by judge rita f. lin granting 9 motion for pro hac vice. (afm, court staff": {
+    "available": false,
+    "document_number": "16",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting 91 motion for pro hac vice. (afm, court staf": {
+    "available": true,
+    "document_number": "95",
+    "file_size": 395501,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:order by judge rita f. lin granting 98 motion for pro hac vice. (afm, court staf": {
+    "available": true,
+    "document_number": "101",
+    "file_size": 132008,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:order by judge rita f. lin granting 99 motion for pro hac vice. (afm, court staf": {
+    "available": false,
+    "document_number": "102",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order by judge rita f. lin granting the unopposed 121 motion to file amicus curi": {
+    "available": false,
+    "document_number": "136",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order defendants' 97 administrative motion to seal is denied for the reasons alr": {
+    "available": false,
+    "document_number": "147",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order granting motion for preliminary injunction 6 . signed by judge rita f. lin": {
+    "available": true,
+    "document_number": "134",
+    "file_size": 408427,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 43
+  },
+  "ndcal-d:order re 149 stipulation. signed by judge rita f. lin on 4/23/2026. the followin": {
+    "available": true,
+    "document_number": "150",
+    "file_size": 186741,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:order re 97 administrative motion to file under seal. defendants move to file un": {
+    "available": false,
+    "document_number": "137",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order re amicus curiae briefs. amicus briefs in support of the motion for prelim": {
+    "available": true,
+    "document_number": "55",
+    "file_size": 118073,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-d:order setting status conference re 6 . status conference set for 3/10/2026 03:00": {
+    "available": true,
+    "document_number": "23",
+    "file_size": 135904,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-d:order. by april 21, 2026, the parties shall submit a joint stipulation and propo": {
+    "available": false,
+    "document_number": "139",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:order. if defendants intend to submit any declarations or evidence in response t": {
+    "available": false,
+    "document_number": "117",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:preliminary injunction order. signed by judge rita f. lin on 3/26/2026. (afm, co": {
+    "available": true,
+    "document_number": "135",
+    "file_size": 151551,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:proposed summons. (mongan, michael) (filed on 3/9/2026) (entered: 03/09/2026)": {
+    "available": true,
+    "document_number": "2",
+    "file_size": 229323,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-d:receipt in the amount of $100.00 from anthropic pbc via pay.gov receipt number 2": {
+    "available": false,
+    "document_number": "143",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:reply (re 6 motion for temporary restraining order motion for preliminary injunc": {
+    "available": true,
+    "document_number": "113",
+    "file_size": 684684,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "ndcal-d:status report by paul s. atkins, scott bessent, frank j. bisigano, mary anne car": {
+    "available": true,
+    "document_number": "146",
+    "file_size": 165344,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-d:stipulation with proposed order to extend deadline for submission of partial adm": {
+    "available": true,
+    "document_number": "153",
+    "file_size": 113073,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-d:summons issued as to paul s. atkins, scott bessent, frank j. bisigano, mary anne": {
+    "available": true,
+    "document_number": "26",
+    "file_size": 406531,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-d:transcript of proceedings held on 03/24/2026, before judge rita f. lin. court re": {
+    "available": false,
+    "document_number": "128",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:transcript of remote zoom video conference proceedings held on march 10, 2026, b": {
+    "available": false,
+    "document_number": "57",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:transcript order for proceedings held on 03/10/2026 before judge rita f. lin by ": {
+    "available": true,
+    "document_number": "47",
+    "file_size": 262845,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-d:transcript order for proceedings held on 03/24/2026 before judge rita f. lin by ": {
+    "available": false,
+    "document_number": "124",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:transcript order for proceedings held on 03/24/2026 before judge rita f. lin for": {
+    "available": true,
+    "document_number": "140",
+    "file_size": 234655,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:transcript order for proceedings held on 3/24/2026 before judge rita f. lin by c": {
+    "available": false,
+    "document_number": "144",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:transcript order for proceedings held on march 24, 2026 before judge rita f. lin": {
+    "available": false,
+    "document_number": "125",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:usca case number 26-2011 9th circuit for 141 notice of appeal to the ninth circu": {
+    "available": true,
+    "document_number": "145",
+    "file_size": 369189,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-doc:1": {
+    "available": true,
+    "document_number": "1",
+    "file_size": 740145,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 48
+  },
+  "ndcal-doc:10": {
+    "available": false,
+    "document_number": "10",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:100": {
+    "available": false,
+    "document_number": "100",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:101": {
+    "available": true,
+    "document_number": "101",
+    "file_size": 132008,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:102": {
+    "available": false,
+    "document_number": "102",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:103": {
+    "available": false,
+    "document_number": "103",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:104": {
+    "available": false,
+    "document_number": "104",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:105": {
+    "available": false,
+    "document_number": "105",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:106": {
+    "available": false,
+    "document_number": "106",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:107": {
+    "available": false,
+    "document_number": "107",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:108": {
+    "available": false,
+    "document_number": "108",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:109": {
+    "available": false,
+    "document_number": "109",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:11": {
+    "available": false,
+    "document_number": "11",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:110": {
+    "available": true,
+    "document_number": "110",
+    "file_size": 133267,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:111": {
+    "available": false,
+    "document_number": "111",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:112": {
+    "available": false,
+    "document_number": "112",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:113": {
+    "available": true,
+    "document_number": "113",
+    "file_size": 684684,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 27
+  },
+  "ndcal-doc:114": {
+    "available": true,
+    "document_number": "114",
+    "file_size": 444010,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-doc:115": {
+    "available": true,
+    "document_number": "115",
+    "file_size": 461422,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ndcal-doc:116": {
+    "available": true,
+    "document_number": "116",
+    "file_size": 143497,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:117": {
+    "available": false,
+    "document_number": "117",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:118": {
+    "available": true,
+    "document_number": "118",
+    "file_size": 168177,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-doc:119": {
+    "available": false,
+    "document_number": "119",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:12": {
+    "available": false,
+    "document_number": "12",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:120": {
+    "available": true,
+    "document_number": "120",
+    "file_size": 105754,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:121": {
+    "available": true,
+    "document_number": "121",
+    "file_size": 1615959,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "ndcal-doc:122": {
+    "available": true,
+    "document_number": "122",
+    "file_size": 1615959,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 35
+  },
+  "ndcal-doc:123": {
+    "available": false,
+    "document_number": "123",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:124": {
+    "available": false,
+    "document_number": "124",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:125": {
+    "available": false,
+    "document_number": "125",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:126": {
+    "available": true,
+    "document_number": "126",
+    "file_size": 430993,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-doc:127": {
+    "available": true,
+    "document_number": "127",
+    "file_size": 350746,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-doc:128": {
+    "available": false,
+    "document_number": "128",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:129": {
+    "available": true,
+    "document_number": "129",
+    "file_size": 134205,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:13": {
+    "available": false,
+    "document_number": "13",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:130": {
+    "available": true,
+    "document_number": "130",
+    "file_size": 207127,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:131": {
+    "available": true,
+    "document_number": "131",
+    "file_size": 113388,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:132": {
+    "available": true,
+    "document_number": "132",
+    "file_size": 259885,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:133": {
+    "available": false,
+    "document_number": "133",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:134": {
+    "available": true,
+    "document_number": "134",
+    "file_size": 408427,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 43
+  },
+  "ndcal-doc:135": {
+    "available": true,
+    "document_number": "135",
+    "file_size": 151551,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:136": {
+    "available": false,
+    "document_number": "136",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:137": {
+    "available": false,
+    "document_number": "137",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:138": {
+    "available": false,
+    "document_number": "138",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:139": {
+    "available": false,
+    "document_number": "139",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:14": {
+    "available": false,
+    "document_number": "14",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:140": {
+    "available": true,
+    "document_number": "140",
+    "file_size": 234655,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:141": {
+    "available": true,
+    "document_number": "141",
+    "file_size": 98947,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:142": {
+    "available": false,
+    "document_number": "142",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:143": {
+    "available": false,
+    "document_number": "143",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:144": {
+    "available": false,
+    "document_number": "144",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:145": {
+    "available": true,
+    "document_number": "145",
+    "file_size": 369189,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-doc:146": {
+    "available": true,
+    "document_number": "146",
+    "file_size": 165344,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-doc:147": {
+    "available": false,
+    "document_number": "147",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:148": {
+    "available": true,
+    "document_number": "148",
+    "file_size": 105787,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:149": {
+    "available": true,
+    "document_number": "149",
+    "file_size": 167656,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 10
+  },
+  "ndcal-doc:15": {
+    "available": false,
+    "document_number": "15",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:150": {
+    "available": true,
+    "document_number": "150",
+    "file_size": 186741,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:151": {
+    "available": false,
+    "document_number": "151",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:152": {
+    "available": false,
+    "document_number": "152",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:153": {
+    "available": true,
+    "document_number": "153",
+    "file_size": 113073,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:154": {
+    "available": false,
+    "document_number": "154",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:155": {
+    "available": false,
+    "document_number": "155",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:16": {
+    "available": false,
+    "document_number": "16",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:17": {
+    "available": false,
+    "document_number": "17",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:18": {
+    "available": false,
+    "document_number": "18",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:2": {
+    "available": true,
+    "document_number": "2",
+    "file_size": 229323,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-doc:20": {
+    "available": false,
+    "document_number": "20",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:21": {
+    "available": true,
+    "document_number": "21",
+    "file_size": 436589,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-doc:22": {
+    "available": false,
+    "document_number": "22",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:23": {
+    "available": true,
+    "document_number": "23",
+    "file_size": 135904,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-doc:24": {
+    "available": true,
+    "document_number": "24",
+    "file_size": 206833,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:26": {
+    "available": true,
+    "document_number": "26",
+    "file_size": 406531,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "ndcal-doc:27": {
+    "available": true,
+    "document_number": "27",
+    "file_size": 135746,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:29": {
+    "available": false,
+    "document_number": "29",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:3": {
+    "available": true,
+    "document_number": "3",
+    "file_size": 137161,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:30": {
+    "available": false,
+    "document_number": "30",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:32": {
+    "available": true,
+    "document_number": "32",
+    "file_size": 558548,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:33": {
+    "available": true,
+    "document_number": "33",
+    "file_size": 448804,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:34": {
+    "available": true,
+    "document_number": "34",
+    "file_size": 388147,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:35": {
+    "available": false,
+    "document_number": "35",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:37": {
+    "available": false,
+    "document_number": "37",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:38": {
+    "available": false,
+    "document_number": "38",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:39": {
+    "available": false,
+    "document_number": "39",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:40": {
+    "available": true,
+    "document_number": "40",
+    "file_size": 341705,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "ndcal-doc:41": {
+    "available": false,
+    "document_number": "41",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:44": {
+    "available": false,
+    "document_number": "44",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:47": {
+    "available": true,
+    "document_number": "47",
+    "file_size": 262845,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-doc:48": {
+    "available": false,
+    "document_number": "48",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:49": {
+    "available": false,
+    "document_number": "49",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:5": {
+    "available": false,
+    "document_number": "5",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:50": {
+    "available": false,
+    "document_number": "50",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:51": {
+    "available": false,
+    "document_number": "51",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:52": {
+    "available": false,
+    "document_number": "52",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:53": {
+    "available": false,
+    "document_number": "53",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:54": {
+    "available": true,
+    "document_number": "54",
+    "file_size": 436644,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-doc:55": {
+    "available": true,
+    "document_number": "55",
+    "file_size": 118073,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-doc:56": {
+    "available": false,
+    "document_number": "56",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:57": {
+    "available": false,
+    "document_number": "57",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:58": {
+    "available": true,
+    "document_number": "58",
+    "file_size": 262421,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "ndcal-doc:59": {
+    "available": true,
+    "document_number": "59",
+    "file_size": 353613,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:6": {
+    "available": true,
+    "document_number": "6",
+    "file_size": 307498,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 34
+  },
+  "ndcal-doc:60": {
+    "available": true,
+    "document_number": "60",
+    "file_size": 774675,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "ndcal-doc:61": {
+    "available": true,
+    "document_number": "61",
+    "file_size": 102556,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-doc:62": {
+    "available": true,
+    "document_number": "62",
+    "file_size": 100911,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "ndcal-doc:64": {
+    "available": false,
+    "document_number": "64",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:66": {
+    "available": false,
+    "document_number": "66",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:67": {
+    "available": true,
+    "document_number": "67",
+    "file_size": 301007,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "ndcal-doc:68": {
+    "available": false,
+    "document_number": "68",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:69": {
+    "available": false,
+    "document_number": "69",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:70": {
+    "available": false,
+    "document_number": "70",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:71": {
+    "available": true,
+    "document_number": "71",
+    "file_size": 183080,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
+  "ndcal-doc:72": {
+    "available": true,
+    "document_number": "72",
+    "file_size": 276551,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 14
+  },
+  "ndcal-doc:73": {
+    "available": true,
+    "document_number": "73",
+    "file_size": 258469,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 10
+  },
+  "ndcal-doc:74": {
+    "available": true,
+    "document_number": "74",
+    "file_size": 139025,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 25
+  },
+  "ndcal-doc:75": {
+    "available": true,
+    "document_number": "75",
+    "file_size": 601393,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
+  "ndcal-doc:76": {
+    "available": false,
+    "document_number": "76",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:77": {
+    "available": true,
+    "document_number": "77",
+    "file_size": 140172,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "ndcal-doc:79": {
+    "available": false,
+    "document_number": "79",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:81": {
+    "available": false,
+    "document_number": "81",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:84": {
+    "available": false,
+    "document_number": "84",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:85": {
+    "available": true,
+    "document_number": "85",
+    "file_size": 71812,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:86": {
+    "available": false,
+    "document_number": "86",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:87": {
+    "available": true,
+    "document_number": "87",
+    "file_size": 500123,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:88": {
+    "available": true,
+    "document_number": "88",
+    "file_size": 121555,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:89": {
+    "available": false,
+    "document_number": "89",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:90": {
+    "available": false,
+    "document_number": "90",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:91": {
+    "available": false,
+    "document_number": "91",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:92": {
+    "available": false,
+    "document_number": "92",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:93": {
+    "available": false,
+    "document_number": "93",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:94": {
+    "available": true,
+    "document_number": "94",
+    "file_size": 382991,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:95": {
+    "available": true,
+    "document_number": "95",
+    "file_size": 395501,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-doc:96": {
+    "available": true,
+    "document_number": "96",
+    "file_size": 298111,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 40
+  },
+  "ndcal-doc:97": {
+    "available": true,
+    "document_number": "97",
+    "file_size": 126213,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-doc:98": {
+    "available": false,
+    "document_number": "98",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:99": {
+    "available": false,
+    "document_number": "99",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  }
+}

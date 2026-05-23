@@ -1,0 +1,2557 @@
+        Case 3:26-cv-01996-RFL         Document 134         Filed 03/26/26      Page 1 of 43
+
+
+
+
+                                UNITED STATES DISTRICT COURT
+
+                               NORTHERN DISTRICT OF CALIFORNIA
+
+
+     ANTHROPIC PBC,                                   Case No. 26-cv-01996-RFL
+                  Plaintiff,
+                                                      ORDER GRANTING MOTION FOR
+            v.                                        PRELIMINARY INJUNCTION
+     U.S. DEPARTMENT OF WAR, et al.,                  Re: Dkt. No. 6
+                  Defendants.
+
+I.       INTRODUCTION
+         This case touches on an important public debate. Anthropic says its artificial intelligence
+
+product, Claude, is not ready for safe use in fully autonomous lethal weapons or the mass
+
+surveillance of Americans. If the U.S. government wants to use its technology, Anthropic insists
+
+that the government must agree not to use it for these purposes. On the other hand, the
+
+Department of War says that it must be the one to decide what functions are safe for its AI tools
+
+to perform, not a private company. This public policy question is not for this Court to answer in
+
+this litigation. It is the Department of War’s prerogative to decide what AI product it uses.
+
+Everyone, including Anthropic, agrees that the Department of War may permissibly stop using
+
+Claude and look for a new AI vendor who will allow “all lawful uses” of its technology. That is
+
+not what this case is about.
+
+         The question here is whether the government violated the law when it went further. After
+
+Anthropic went public with its disagreement with the Department of War, Defendants reacted
+
+with three significant measures that are the subject of this lawsuit. First, the President
+
+announced that every federal agency (not just the Department of War) would immediately ban
+
+Anthropic from ever having another government contract. That would include, for example, the
+
+National Endowment for the Arts using Claude to design its website. Second, Secretary Hegseth
+
+announced that anyone who wants to do business with the U.S. military must sever any
+
+
+                                                  1
+      Case 3:26-cv-01996-RFL            Document 134       Filed 03/26/26      Page 2 of 43
+
+
+
+
+commercial relationship with Anthropic. That would mean a company that used Claude to
+
+power its customer service chatbot could not serve as a defense contractor. Third, the
+
+Department of War designated Anthropic a “supply chain risk,” a label that applies to
+
+adversaries of the U.S. government who may sabotage its technology systems. That designation
+
+has never been applied to a domestic company and is directed principally at foreign intelligence
+
+agencies, terrorists, and other hostile actors.
+
+        These broad measures do not appear to be directed at the government’s stated national
+
+security interests. If the concern is the integrity of the operational chain of command, the
+
+Department of War could just stop using Claude. Instead, these measures appear designed to
+
+punish Anthropic. One of the amicus briefs described these measures as “attempted corporate
+
+murder.” They might not be murder, but the evidence shows that they would cripple Anthropic.
+
+        The record supports an inference that Anthropic is being punished for criticizing the
+
+government’s contracting position in the press. In their announcements, the President and
+
+Secretary Hegseth called Anthropic “out of control” and “arrogant,” describing its
+
+“sanctimonious rhetoric” as an attempt to “strong-arm” the government. The Department of
+
+War’s records show that it designated Anthropic as a supply chain risk because of its “hostile
+
+manner through the press.” Punishing Anthropic for bringing public scrutiny to the
+
+government’s contracting position is classic illegal First Amendment retaliation.
+
+        Moreover, Defendants’ designation of Anthropic as a “supply chain risk” is likely both
+
+contrary to law and arbitrary and capricious. The Department of War provides no legitimate
+
+basis to infer from Anthropic’s forthright insistence on usage restrictions that it might become a
+
+saboteur. At oral argument, government counsel suggested that Anthropic showed its subversive
+
+tendencies by “questioning” the use of its technology, “raising concerns” about it, and criticizing
+
+the government’s position in the press. Nothing in the governing statute supports the Orwellian
+
+notion that an American company may be branded a potential adversary and saboteur of the U.S.
+
+for expressing disagreement with the government.
+
+        There are other serious procedural problems with the government’s actions. Anthropic
+
+
+                                                  2
+        Case 3:26-cv-01996-RFL          Document 134         Filed 03/26/26    Page 3 of 43
+
+
+
+
+had no notice or opportunity to respond, which likely violated its due process rights. And the
+
+Department of War flouted procedural safeguards required by Congress before entering the
+
+supply chain risk designation, including that it consider less intrusive measures.
+
+          At bottom, Anthropic has shown that these broad punitive measures were likely unlawful
+
+and that it is suffering irreparable harm from them. Numerous amici have also described wide-
+
+ranging harm to the public interest, including the chilling of open discussion about important
+
+topics in AI safety. The motion for a preliminary injunction is granted.
+
+II.       BACKGROUND
+
+          A.     Anthropic and the Federal Government’s Use of Claude
+          Plaintiff Anthropic PBC is an AI developer focused on AI research, safety, and policy
+
+work. (Dkt. No. 6-1 ¶¶ 8, 12.) Anthropic regularly publishes research on the societal impacts of
+
+large language models (“LLMs”) and engages in public advocacy for AI safety. (Id. ¶¶ 10, 13.)
+
+Anthropic’s co-founder, Jared Kaplan, states that he and his co-founders started Anthropic “to
+
+put safety at the center as AI progress accelerates.” (Id. ¶ 8.)
+
+          Anthropic began commercial deployments of LLMs in early 2023. (Id. ¶ 12.)
+
+Anthropic’s signature model is a general-purpose LLM called “Claude.” (Id. ¶ 14.) LLMs like
+
+Claude are algorithmic systems trained on massive datasets to identify patterns and associations
+
+in language and quickly generate outputs and take actions that resemble human responses and
+
+actions. (Id. ¶ 15.) When given access to tools, Claude can act as an agent of the user
+
+(“agentically”)—or even autonomously—executing tasks without requiring ongoing user
+
+direction. (Id. ¶ 16.) Anthropic’s clients use its products in myriad contexts. For example, a
+
+client’s engineers may use their company’s Claude subscription to write, test, and fix code, or a
+
+client may integrate a Claude model into its own product via an application programming
+
+interface (“API”). (Dkt. No. 73 at 7–8;1 Dkt. No. 6-4 ¶ 6.) Some of these Anthropic clients then
+
+provide the U.S. government with products and services that integrate Claude or that were
+
+
+
+1
+    All citations to page numbers refer to ECF pagination.
+
+
+                                                  3
+      Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26      Page 4 of 43
+
+
+
+
+created using Anthropic’s technology to various degrees. (Dkt. No. 6-4 ¶ 6.)
+
+       LLMs, including Claude, can produce responses that diverge from the goals of the people
+
+that trained them or reflect skewed or mistaken judgments embedded in their training data. (Dkt.
+
+No. 6-1 ¶ 18.) Those risks are heightened when an LLM is acting agentically or autonomously
+
+out in the world with little or no human supervision. (Id. ¶ 16.) To address these risks, the
+
+publicly available version of Claude has three layers of protection. First, Anthropic uses various
+
+“alignment” techniques to make Claude more reliably follow human values and intentions. (Id. ¶
+
+19.) Second, Anthropic has added safeguards that can detect in real time and stop activity
+
+Anthropic considers to be harmful. (Id. ¶ 20.) Finally, Anthropic has a Usage Policy under
+
+which users agree not to use Claude in certain specified “risky ways, including ways [Anthropic]
+
+understand[s] that it has not been developed for and/or is not ready for.” (Id. ¶ 21.)
+
+       U.S. intelligence and defense agencies have been using Claude since November 2024
+
+through a partnership with Palantir Technologies. (Dkt. No. 6-3 ¶ 5.) Since March 2025, the
+
+Department of War2 has been using “Claude Gov,” dedicated models for national security users,
+
+through Anthropic partner platforms. (Id. ¶ 6; Dkt. No. 6-1 ¶¶ 27, 29; Dkt. No. 6-17.) Claude
+
+Gov has different safeguards than the civilian models and can, for example, analyze documents
+
+marked “Top Secret.” (Dkt. No. 6-1 ¶ 27.) Claude Gov also has a government-specific
+
+addendum to its Usage Policy that eliminates some of the restrictions applicable to the civilian
+
+version. (Id. ¶ 28.) Since DoW began using Claude Gov in March 2025, this government-
+
+specific usage policy has “imposed broad restrictions that would have prohibited mass
+
+surveillance of Americans and lethal autonomous warfare.” (Id. ¶ 29.)
+
+       Before the events at issue in this case, DoW appeared to have no objection to the usage
+
+policy and did not appear to view Anthropic as a national security risk in any way. Anthropic’s
+
+Head of Policy, Sarah Heck, attested that she is unaware of “anyone at DoW ever suggesting
+
+
+2
+ In the complaint, motion papers, and evidence, the parties refer to the Department of Defense
+as the “Department of War” or “DoW.” Compare National Security Act Amendments of 1949,
+Pub. L. No. 81-216, 63 Stat. 578 (1949), with Exec. Order No. 14347, 90 Fed. R. 43893 (Sep. 5,
+2025). This Order adopts the parties’ phrasing for consistency and ease of reference.
+
+
+                                                 4
+      Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 5 of 43
+
+
+
+
+Anthropic’s models are somehow insecure or have been compromised.” (Dkt. No. 6-2 ¶ 17.)
+
+Thiyagu Ramasamy, the Head of Public Sector at Anthropic, has likewise never been made
+
+aware of “any potential supply chain risk posed by Anthropic, its employees, or its products and
+
+services,” despite working closely with DoW to integrate Claude between 2024 and 2026. (Dkt.
+
+No. 6-3 ¶¶ 8–11, 17.) DoW has not submitted any evidence disputing this point.
+
+       Moreover, while these usage restrictions were in place, DoW’s Defense
+
+Counterintelligence and Security Agency granted Anthropic a Top Secret facility security
+
+clearance enabling it to provide support for classified national security projects, after an 18-
+
+month vetting process. (Id. ¶ 9.) In June 2025, the General Services Administration (“GSA”)
+
+and DoW granted Claude authorization through the Federal Risk and Authorization Management
+
+Program (“FedRAMP”) for use with FedRAMP High and DoD Impact Level 4 and 5 workloads,
+
+representing the highest levels of cloud security certification for unclassified and controlled
+
+unclassified information. (Id. ¶ 10.) In July 2025, Anthropic was awarded a two-year, up to
+
+$200 million agreement by DoW’s Chief Digital and Artificial Intelligence Office to integrate
+
+and optimize AI capabilities across DoW. (Id. ¶ 6.) And in August 2025, Anthropic and GSA
+
+announced an agreement to deliver Claude Gov to all three branches of the government—civilian
+
+executive, legislative, and judiciary. (Id. ¶ 7.) The unrebutted record shows that, until this
+
+dispute, Anthropic “only ever received positive feedback about Claude’s performance from [its]
+
+governmental customers.” (Id. ¶ 12.)
+
+       B.      Defendants and Anthropic Publicly Disagree About Anthropic’s Role in
+               Ensuring AI Safety in the Military and Surveillance Context
+       In the fall of 2025, DoW and Anthropic began discussing a new deployment of Claude on
+
+DoW’s “GenAI.mil” platform. (Dkt. No. 6-1 ¶ 32.) During these conversations, DoW took the
+
+position that Anthropic should permit DoW, its contractors, and its subcontractors to use all
+
+versions of Claude for “all lawful uses,” without any usage restrictions. (Id.) As DoW put it,
+
+“We will not let ANY company dictate the terms regarding how we make operational decisions.”
+
+(Dkt. No. 6-33 at 2.) Anthropic ultimately agreed to do so with “two critical exceptions: mass
+
+
+
+                                                  5
+       Case 3:26-cv-01996-RFL          Document 134        Filed 03/26/26       Page 6 of 43
+
+
+
+
+surveillance of Americans and lethal autonomous warfare.” (Dkt. No. 6-1 ¶ 33.) Anthropic did
+
+not believe Claude currently to be safe for those uses based on its training and testing. (Id. ¶ 36.)
+
+For example, if Claude were used to conduct mass surveillance, Anthropic believed Claude
+
+might retrieve a much broader set of information than intended, thus inadvertently violating laws
+
+protecting civil liberties. (Id. ¶ 34.) Anthropic further believed that lethal autonomous warfare
+
+was beyond Claude’s current ability to carry out reliably, in light of the potentially grave
+
+consequences of a mistake. (Id. ¶ 35.) Given the AI safety principles on which it was founded,
+
+Anthropic believed that removing those limitations would “undercut Anthropic’s core identity.”
+
+(Id. ¶ 38.)
+
+        Anthropic’s Head of Policy Heck submitted a declaration describing DoW and
+
+Anthropic’s negotiations. Heck attested that, during the negotiations, Anthropic CEO Dario
+
+Amodei told Emil Michael, Under Secretary of War for Research and Engineering, that if
+
+Anthropic’s position on these two guardrails meant that Anthropic was not the right vendor for
+
+DoW’s needs, then he would respect that decision. (Dkt. No. 6-2 ¶ 11.) According to Heck,
+
+Amodei further stated that, if Anthropic and DoW failed to come to an agreement, Anthropic
+
+stood ready to assist in an orderly offboarding from DoW’s systems. (Id.) Despite
+
+disagreements, Heck states that these negotiations, including subsequent conversations through
+
+February 27, “remained cordial and amicable.” (Id. ¶ 18.) Under Secretary Michael does not
+
+dispute that account in his declarations submitted in this litigation. (Dkt. Nos. 96-3; 120-1.)
+
+        In addition to private conversations, DoW and Anthropic both publicly aired their views.
+
+For example, in January 2026, Amodei posted a lengthy essay addressing, among other topics,
+
+the risk of using AI technology in surveillance and autonomous weapons. (Dkt. No. 6-7.) That
+
+essay advocated “draw[ing] a hard line against AI abuses within democracies,” and discussed the
+
+need for “bright red lines” and “guardrails” on those topics to prevent “AI-enabled
+
+totalitarianism.” (Id. at 31–32.) The essay also referenced Amodei’s prior writings on the
+
+subject of AI safety. (Dkt. No. 6-8.) On January 9, 2026, Defendant Secretary of War Pete
+
+Hegseth issued a Memorandum containing a subsection titled “Clarifying ‘Responsible AI’ at the
+
+
+                                                  6
+      Case 3:26-cv-01996-RFL          Document 134        Filed 03/26/26      Page 7 of 43
+
+
+
+
+DoW—Out with Utopian Idealism, In with Hard-Nosed Realism,” where Secretary Hegseth
+
+instructed that the “any lawful use” provision must be incorporated into “any DoW contract
+
+through which AI services are procured.”3 In early February 2026, Under Secretary Michael
+
+stated to the press about Anthropic: “You can’t have an AI company sell AI to the Department
+
+of War and [then] don’t let it do Department of War things.”4
+
+       On February 24, 2026, representatives of Anthropic, including Amodei and Heck, met
+
+with representatives of DoW, including Secretary Hegseth. (Dkt. No. 6-2 ¶ 12.) The parties
+
+discussed Anthropic’s ongoing concerns regarding the possible use of Claude in mass
+
+surveillance of Americans and lethal autonomous warfare. (Id. ¶¶ 13–15.) Secretary Hegseth
+
+stated that Claude had “exquisite capabilities” but that “DoW had many other vendors to choose
+
+from that have never raised” the concerns Anthropic was raising and who “would never hold any
+
+veto power over DoW.” (Id. ¶¶ 12, 15.) Secretary Hegseth did not say anything about
+
+Anthropic’s AI models being unsafe, insecure, or subject to compromise. (Id. ¶ 17.)
+
+Nonetheless, at the end of the meeting, Secretary Hegseth told Anthropic’s representatives that if
+
+Anthropic did not agree to “all lawful uses” of its products by 5:00 p.m. on February 27, 2026,
+
+DoW would immediately designate Anthropic a supply-chain risk and would prevent Anthropic
+
+from partnering with DoW, anyone affiliated with DoW, or any other agency. (Id. ¶ 16.) At the
+
+February 24 meeting, the unrebutted record shows that Secretary Hegseth also stated that DoW
+
+might invoke the Defense Production Act to designate Anthropic as essential to national security
+
+and thus compel Anthropic to provide its services without the restrictions. (Id.)
+
+       Following the meeting, on February 26, Amodei issued a public statement on behalf of
+
+Anthropic. (Dkt. No. 6-18.) Amodei stated that “Anthropic understands that [DoW], not private
+
+companies, makes military decisions,” and Anthropic had “never raised objections to particular
+
+
+3
+ (See Dkt. No. 6-3 ¶ 16 (citing https://media.defense.gov/2026/Jan/12/2003855671/-1/-
+1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-
+WAR.PDF).)
+4
+ https://defensescoop.com/2026/02/19/pentagon-anthropic-dispute-military-ai-hegseth-emil-
+michael/.
+
+
+                                                7
+      Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26      Page 8 of 43
+
+
+
+
+military operations nor attempted to limit use of our technology in an ad hoc manner.” (Id. at 2.)
+
+However, Amodei said that “in a narrow set of cases . . . AI can undermine, rather than defend,
+
+democratic values,” and that some uses of AI are “simply outside the bounds of what
+
+today’s technology can safely and reliably do.” Amodei concluded that Anthropic “cannot in
+
+good conscience” provide DoW the type of access to Claude that it was requesting. (Id. at 3.)
+
+       C.      The President and Secretary Hegseth State that Anthropic is Barred from
+               Working with the Federal Government or Defense Contractors
+       At 3:47 p.m. E.T. on February 27, 2026, President Donald Trump posted the following
+
+statement on the social media platform Truth Social:
+
+               THE UNITED STATES OF AMERICA WILL NEVER ALLOW
+               A RADICAL LEFT, WOKE COMPANY TO DICTATE HOW
+               OUR GREAT MILITARY FIGHTS AND WINS WARS! That
+               decision belongs to YOUR COMMANDER-IN-CHIEF and the
+               tremendous leaders I appoint to run our Military.
+               The Leftwing nut jobs at Anthropic have made a DISASTROUS
+               MISTAKE trying to STRONG-ARM the Department of War, and
+               force them to obey their Terms of Service instead of our
+               Constitution. Their selfishness is putting AMERICAN LIVES at
+               risk, our Troops in danger, and our National Security in
+               JEOPARDY.
+               Therefore, I am directing EVERY Federal Agency in the United
+               States Government to IMMEDIATELY CEASE all use of
+               Anthropic’s technology. We don’t need it, we don’t want it, and
+               will not do business with them again! There will be a Six Month
+               phase out period for Agencies like the Department of War who are
+               using Anthropic’s products, at various levels. Anthropic better get
+               their act together, and be helpful during this phase out period, or I
+               will use the Full Power of the Presidency to make them comply, with
+               major civil and criminal consequences to follow.
+               WE will decide the fate of our Country — NOT some out-of-control,
+               Radical Left AI company run by people who have no idea what the
+               real World is all about. Thank you for your attention to this matter.
+               MAKE AMERICA GREAT AGAIN!
+               PRESIDENT DONALD J. TRUMP
+
+(Dkt. No. 6-20 at 2 (the “Presidential Directive”); see also Dkt. No. 6-3 ¶ 19.) A little over an
+
+hour later, Secretary Hegseth posted on the social media platform X:
+
+               This week, Anthropic delivered a master class in arrogance and
+               betrayal as well as a textbook case of how not to do business with
+               the United States Government or the Pentagon. Our position has
+
+
+
+                                                 8
+      Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26       Page 9 of 43
+
+
+
+               never wavered and will never waver: the Department of War must
+               have full, unrestricted access to Anthropic’s models for every
+               LAWFUL purpose in defense of the Republic.
+               Instead, @AnthropicAI and its CEO @DarioAmodei, have chosen
+               duplicity. Cloaked in the sanctimonious rhetoric of “effective
+               altruism,” they have attempted to strong-arm the United States
+               military into submission - a cowardly act of corporate virtue-
+               signaling that places Silicon Valley ideology above American lives.
+               The Terms of Service of Anthropic’s defective altruism will never
+               outweigh the safety, the readiness, or the lives of American troops
+               on the battlefield. Their true objective is unmistakable: to seize veto
+               power over the operational decisions of the United States military.
+               That is unacceptable.
+               As President Trump stated on Truth Social, the Commander-in-
+               Chief and the American people alone will determine the destiny of
+               our armed forces, not unelected tech executives.
+               Anthropic’s stance is fundamentally incompatible with American
+               principles. Their relationship with the United States Armed Forces
+               and the Federal Government has therefore been permanently altered.
+               In conjunction with the President’s directive for the Federal
+               Government to cease all use of Anthropic’s technology, I am
+               directing the Department of War to designate Anthropic a Supply-
+               Chain Risk to National Security. Effective immediately, no
+               contractor, supplier, or partner that does business with the United
+               States military may conduct any commercial activity with
+               Anthropic. Anthropic will continue to provide the Department of
+               War its services for a period of no more than six months to allow for
+               a seamless transition to a better and more patriotic service.
+               America’s warfighters will never be held hostage by the ideological
+               whims of Big Tech. This decision is final.
+
+(Dkt. No. 6-21 at 2 (the “Hegseth Directive”).) Taken together, the Presidential Directive and
+
+the Hegseth Directive create an immediate, permanent, federal government-wide bar on using
+
+any Anthropic technology (except during a six-month transition period), and also prohibit private
+
+companies from doing business with both the military and Anthropic. Neither the President nor
+
+Secretary Hegseth cited any statutory authority for the Directives.
+
+       On March 4, 2026, Anthropic received two letters on DoW letterhead, signed by
+
+Secretary Hegseth and dated one day prior, regarding Anthropic’s designation as a “supply chain
+
+risk.” (Dkt. Nos. 6-27; 6-28; see also Dkt. No. 6-9 ¶¶ 27–28.) The first letter cites 41 U.S.C. §
+
+4713. Anthropic has challenged this letter through a separate action. Anthropic v. U.S.
+
+Department of War, No. 26-1049 (D.C. Cir. March 9, 2026). The second letter cites 10 U.S.C. §
+
+
+
+                                                 9
+      Case 3:26-cv-01996-RFL          Document 134         Filed 03/26/26      Page 10 of 43
+
+
+
+
+3252. (Dkt. No. 6-27 (“Section 3252 Letter”).)5 The Section 3252 Letter states that DoW
+               has determined that (i) the use of [Anthropic and its subsidiaries and
+               affiliates’] products or services in DoW covered systems presents a
+               supply chain risk and that the use of the Section 3252 authority to
+               carry out covered procurement actions is necessary to protect
+               national security by reducing supply chain risk, and (ii) less
+               intrusive measures are not reasonably available to reduce such
+               supply chain risk.
+(Dkt. No. 96-2 at 18 (footnotes omitted).) The Letter explains that the designation applies to
+
+Anthropic’s existing or future “covered item[s] of supply,” or any product or service procured by
+
+DoW as part of a “covered system.”6 (Id.) At oral argument on Anthropic’s motion, Counsel for
+
+Defendants stated that the legal effect of the Supply Chain Designation is to “prevent Anthropic
+
+from being utilized as a subcontractor in covered settings” in addition to prohibiting its role as a
+
+prime contractor. (Dkt. No. 128 at 27 (emphasis added).) Counsel for Defendants agreed that if
+
+a DoW contractor used Claude Code under a general license as a tool to write software for a
+
+DoW national security system, that action would not be prohibited under the Supply Chain
+
+Designation. (Id. at 26–27.) Likewise, contractors doing work for DoW would not be
+
+terminated for using Anthropic for non-DoW work based on the designation or the Hegseth
+
+Directive. (Id. at 12.)
+
+       The effect of the letter is “immediate” and permanent. (Dkt. No. 96-2 at 18–19.)
+
+Anthropic was given thirty days to appeal the designation, but it was not provided notice of the
+
+factual basis for the designation on March 4. (Id. at 20–21.) The Letter makes no reference to
+
+the Presidential Directive or the Hegseth Directive and does not explain how the designation will
+
+be implemented during the six-month transition period described in the Hegseth Directive.7
+
+
+
+5
+  Defendants disclosed in litigation that in addition to the letter, Secretary Hegseth issued a
+determination memorializing the supply chain risk designation on March 3, 2026. (Dkt. No. 96-
+2 at 2.) Because the Court understands Anthropic to be challenging Secretary Hegseth’s March 3
+action irrespective of whether it was carried out by means of the letter or the directive, this Order
+considers both documents together and refers to them as the “Supply Chain Designation.”
+6
+  These terms are defined below in Section II.D.
+7
+  The Presidential Directive, the Hegseth Directive, and the Supply Chain Designation are
+referred to jointly as the “Challenged Actions.”
+
+
+                                                 10
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 11 of 43
+
+
+
+       D.      Defendants’ Authority to Designate a “Supply Chain Risk” Under Section
+               3252
+       Ordinarily, government contractors who face suspension or a long-term ban (known as
+
+“debarment”) from federal contracting are entitled to a host of procedural protections. See 48
+
+C.F.R. § 9.400(a)(1). In most circumstances, government contractors are entitled to pre-
+
+deprivation notice and a formalized process for opposing a proposed suspension or debarment.
+
+Id. §§ 9.406-3, 9-407-3; see also Friedler v. GSA, 271 F. Supp. 3d 40, 43–45 (D.D.C. 2017).
+
+       In 2011, Congress was concerned that “the globalization of the information technology
+
+industry” left DoW vulnerable to “attacks on its systems and networks,” and gave the Secretary
+
+of Defense the “authority needed to address this risk” when procuring certain sensitive
+
+technology systems. S. Rep. No. 111-201, at 162 (2010). Congress enacted the provision that
+
+became 10 U.S.C. § 3252, which allows the Secretary to designate a source as a “supply chain
+
+risk.” Congress defined “supply chain risk” as “the risk that an adversary may sabotage,
+
+maliciously introduce unwanted function, or otherwise subvert the design, integrity,
+
+manufacturing, production, distribution, installation, operation, or maintenance of a [national
+
+security] system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or
+
+operation of such system.” Id. § 3252(d)(4). DoW’s implementing instructions for the
+
+predecessor provision, which were issued in 2012 in the wake of the law’s passage, described the
+
+relevant risk as “sabotage or subversion” by “foreign intelligence, terrorists or other hostile
+
+elements.”8
+
+       When a source is designated a “supply chain risk,” the Secretary may exclude that source
+
+from providing equipment for DoW’s “covered systems,” which are certain sensitive information
+
+technology systems used for national security purposes.9 The exclusion can also extend to those
+
+
+
+8
+  Dep’t of Def., Instruction 5200.44, Protection of Mission Critical Functions to Achieve Trusted
+Systems and Networks (TSN) (Nov. 5, 2012), perma.cc/TW3D-735M.
+9
+  National security systems include, for example, information systems used for “intelligence
+activities,” “command and control of military forces,” or “equipment that is an integral part of a
+weapon or weapons system.” 44 U.S.C. § 3552(b)(6)(A)(i); see also 10 U.S.C. § 3252(d)(5)
+(defining “covered system” as “a national security system”).
+
+
+                                                 11
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26     Page 12 of 43
+
+
+
+
+who provide a “covered item of supply,” which is an “item of information technology that is
+
+purchased for inclusion in a covered system, and the loss of integrity of which could result in a
+
+supply chain risk for a covered system.” 48 C.F.R. § 239.7301; see also 10 U.S.C. §
+
+3252(d)(6).10 Notably, nothing in Section 3252 authorizes the Secretary to exclude a company
+
+from providing services to other government agencies. Nor does Section 3252 contain any
+
+authorization to require all contractors with DoW, including those whose work does not involve
+
+covered systems, to stop working with the entity.
+
+       Section 3252 does not include the usual pre-deprivation procedures for suspension or
+
+debarment of a government contractor, presumably because most hostile adversaries are foreign
+
+actors who lack due process rights. Instead, Congress required a different set of procedural
+
+safeguards. Specifically, to exclude a company as a “supply chain risk,” the Secretary must first
+
+take the following steps: (1) “consult[] with procurement or other relevant officials of the
+
+covered agency”; (2)“mak[e] a determination in writing” that the exclusion “is necessary to
+
+protect national security by reducing supply chain risk,” and that “less intrusive measures are not
+
+reasonably available to reduce such supply chain risk”; and (3) provide notice to the appropriate
+
+congressional committees explaining the risk and bases for the determination. 10 U.S.C. §
+
+3252(b). DoW’s regulations further require that the consultation process include “a risk
+
+assessment by the Under Secretary of Defense for Intelligence” before a designation can be
+
+made. 48 C.F.R. § 239.7304(a).
+
+       E.      Anthropic’s Designation as a Supply Chain Risk
+       The record indicates that on March 3, 2026—the day before Anthropic received the
+
+Section 3252 Letter—Secretary Hegseth formally designated Anthropic a supply chain risk
+
+based on a joint recommendation from the Under Secretary of War for Acquisition and
+
+
+
+10
+   The definition covers “equipment [] used by the agency directly or [] used by a contractor [for
+enumerated purposes] under a contract with the agency that requires—(i) [i]ts use; or (ii) [t]o a
+significant extent, its use in the performance of a service or the furnishing of a product.” 48
+C.F.R. § 239.7301. It “does not include any equipment acquired by a contractor incidental to a
+contract.” Id.
+
+
+                                                12
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26      Page 13 of 43
+
+
+
+
+Sustainment and DoW’s Chief Information Officer. (Dkt. No. 96-2 at 2, 3–4.) The joint
+
+recommendation states that after consultation “with procurement and other relevant officials
+
+within DoW and, on the basis of a risk analysis provided by DoW [Chief Information Officer],”
+
+they “recommend that there is supply chain risk to DoW covered systems related to the use of
+
+Anthropic.” (Id. at 3.) In particular, they found that, “by maintaining the ability and necessity to
+
+continuously update the product or service,” Anthropic had the “potential” to “subvert the design
+
+and/or functionality of their product or service.” (Id.) No further explanation was provided as to
+
+why Anthropic’s products posed such a risk as compared to other AI or software with regular
+
+updates. The recommendation further found that “less intrusive measures are not reasonably
+
+available to reduce such supply chain risk,” but did not explain why or state what less intrusive
+
+measures were considered. (Id.)
+
+       The recommendation attaches a memorandum authored by Under Secretary Michael,
+
+who had been a principal negotiator in the contract discussions with Anthropic. (Id. at 6–9 (the
+
+“Michael Memo”).) The Michael Memo states that AI models “are acutely vulnerable to
+
+manipulation,” and Anthropic could use “[p]rivileged access with malintent [to] subtly poison
+
+the training data to maliciously introduce unwanted function.” (Id. at 7.) Under Secretary
+
+Michael further describes the risk of AI “drift,” in which Claude could “degrade as new data is
+
+introduced” by Anthropic. (Id.) He asserts that “DoW would be forced to operate a black box
+
+controlled by a hostile party, which could contain hidden biases or backdoors.” (Id.) In
+
+conclusion, Under Secretary Michael states:
+
+               In the instant case, Anthropic’s risk level escalated from a
+               potentially manageable technical and business negotiation to an
+               unacceptable national security threat over the course of the DoW’s
+               contract negotiation with them. . . . The supply chain risk level
+               increased when Anthropic insisted on terms of service that would
+               constrain the DoW beyond what is in the law. This risk further
+               increased when Anthropic asserted in the negotiations that it have
+               an approval role in the operational decision chain, which would
+               require the DoW to accept significant operational risk. Then during
+               the final weeks of negotiations, it became clear that Anthropic was
+               leveraging DOW’s ongoing good faith negotiations for Anthropic’s
+               own public relations, and they began engaging in an increasingly
+               hostile manner through the press, despite the ongoing private
+
+
+                                                13
+      Case 3:26-cv-01996-RFL          Document 134        Filed 03/26/26      Page 14 of 43
+
+
+
+                negotiations with DoW leadership. Finally, this hostile posture was
+                even further compounded when, during a time of active military
+                operations, Anthropic leadership questioned the use of their
+                technology in our warfighting systems clearly permitted under the
+                Terms of Service of their existing contract with our Prime
+                contractor.
+(Id. at 8.)
+
+        The Michael Memo does not address what less intrusive measures were considered. It
+
+also does not explain why DoW believed Anthropic has “privileged access,” “backdoors,” or can
+
+otherwise “control” Claude after its delivery to DoW. Anthropic has submitted unrebutted
+
+evidence that it lacks any such access. Ramasamy states that, “as Claude is deployed in DoW
+
+environments—such as through air-gapped, classified cloud systems operated by third-party
+
+defense contractors—Anthropic has no ability to access, alter, or shut down the deployed
+
+model.” (Dkt. No. 115 ¶¶ 14–15.) As to whether Anthropic can cause Claude to “drift” or
+
+“degrade,” Ramasamy states that “[o]nce a model is running inside a government-secure enclave,
+
+Anthropic cannot unilaterally alter these features,” and Claude does not “change or degrade on
+
+its own.” (Id. ¶¶ 17–19.) In his sur-reply declaration, Under Secretary Michael does not dispute
+
+these statements. (See generally Dkt. No. 120-1.) At oral argument, Counsel for Defendants
+
+admitted that he was unaware of DoW having any knowledge that Anthropic had unilateral
+
+ability to update or modify its products without DoW’s consent. (Dkt. No. 128 at 39.) Counsel
+
+for Defendants stated that DoW is presently conducting an audit to explore whether any such risk
+
+exists. (Id.)
+
+        The Michael Memo also does not specify the basis for the statement that “Anthropic
+
+asserted in the negotiations that it have an approval role in the operational decision chain.” (Dkt.
+
+No. 96-2 at 8.) Anthropic co-founder Kaplan has attested that “Anthropic has not sought, and
+
+would not seek, to dictate how the government conducts its missions.” (Dkt. No. 6-1 ¶ 37.)
+
+Indeed, Anthropic attests that it proposed contract language expressly disavowing any such
+
+authority. (Dkt. No. 114 ¶ 9.) There is no evidence in the record that Anthropic sought to
+
+impose any restrictions other than the usage policies at issue. Under Secretary Michael’s
+
+declaration submitted in sur-reply explains that his reference to “approval rights” related solely
+
+
+                                                14
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 15 of 43
+
+
+
+
+to permitting an exception to the usage policies: specifically, he refers to “a contract negotiation
+
+meeting on December 4, 2025, [where] Anthropic leadership expressed that DoW would have to
+
+call Anthropic in real time to seek authorization for a usage exception to one of their redlines.”
+
+(Dkt. No.120-1 ¶ 7.) Under Secretary Michael further explains in another declaration that his
+
+reference to Anthropic leadership “question[ing]” the technology’s use during an operation
+
+referred to a comment made by an unnamed Anthropic executive to a DoW operational support
+
+software vendor. (Dkt. No. 96-3 ¶ 15.) He does not identify any action taken by Anthropic to
+
+stop the use that had been questioned.
+
+       In sum, the record shows that, outside of Anthropic’s contractual redlines (which
+
+Anthropic proposed it might be willing to waive in specific circumstances) and an unnamed
+
+Anthropic executive’s questions to a third-party vendor, Anthropic has not sought to participate
+
+in DoW’s operational decision chain. Under Secretary Michael does not dispute Heck’s
+
+attestation that negotiations between Anthropic and DoW had remained “cordial and amicable.”
+
+(Dkt. No. 6-2 ¶ 18.)
+
+       Concurrently with entering the supply chain risk designation, Secretary Hegseth sent
+
+letters to various congressional committees advising them of his action. (Dkt. No. 96-2 at 12–
+
+17.) The letters do not describe what less intrusive measures DoW considered prior to making
+
+the designation. (Id.) On March 5, 2026, DoW’s Chief Information Officer sent a memorandum
+
+to DoW leadership regarding the removal of Anthropic’s products in DoW Systems. The
+
+memorandum instructs that, within 180 days, DoW components should remove Anthropic’s
+
+products “from all DoW systems and networks,” as well as from various lists and markets
+
+facilitating technology procurement for DoW. (Id. at 22.) The memorandum clarifies that the
+
+“prohibition applies to all [Defense Industrial Base partner] contracts,” and the restriction should
+
+be incorporated “into all current and future contracts.” (Id. at 23.)
+
+       F.      Defendants Disclaim that the Hegseth Directive Had Independent Legal
+               Effect
+       At oral argument on Anthropic’s motion for a preliminary injunction on March 24, 2026,
+
+
+
+                                                 15
+     Case 3:26-cv-01996-RFL           Document 134          Filed 03/26/26    Page 16 of 43
+
+
+
+
+the Court inquired about the legal basis and effect of the following statement in the Hegseth
+
+Directive: “Effective immediately, no contractor, supplier, or partner that does business with the
+
+United States military may conduct any commercial activity with Anthropic. . . . This decision is
+
+final.” (Dkt. No. 6-21 at 2.) Counsel for Defendants agreed that he was not aware of any statute
+
+that gave Secretary Hegseth the authority to issue such a prohibition and agreed that the
+
+statement had “absolutely no legal effect at all.” (Dkt. No. 128 at 8–9, 13–14.) Counsel for
+
+Defendants also agreed that the statement did not reflect DoW’s “immediate intended course of
+
+action” and that “DoW does not intend to terminate any contractors on the basis that they have a
+
+commercial relationship with Anthropic that [i]s separate from their work for DoW.” (Id. at 9,
+
+12.) Instead, counsel asserted that the only legal effect of the Hegseth Directive “flows through”
+
+the Supply Chain Designation. (Id. at 14.) When asked why Hegseth made a public statement
+
+that had no legal effect and that did not reflect the immediate intent of DoW, counsel stated, “I
+
+don’t know.” (Id.) Even so, Defendants declined to stipulate to enjoin this prohibition because
+
+DoW “is continuing to assess the situation” and “will take action as needed . . . to mitigate the
+
+risk from Anthropic.” (Id. at 18–19.)
+
+       G.      The Challenged Actions Risk Crippling Anthropic
+       Prior to the Challenged Actions, Anthropic had a large public sector business, reflecting
+
+its investment in the lengthy vetting and certification processes described above. Before the start
+
+of 2026, Anthropic had projected its expected public sector annual recurring revenue in 2026 to
+
+be “several hundred million dollars.” (Dkt. No. 6-3 at ¶ 31.) It previously experienced a
+
+fourfold increase in that revenue from December 2025 to the end of January 2026, and it had
+
+accordingly projected a public sector business in the next five years amounting to billions of
+
+dollars. (Id.) Anthropic now projects that that business will shrink substantially or disappear
+
+altogether absent injunctive relief. (Dkt. No. 6-3 ¶ 33.)
+
+       In the immediate aftermath of the Challenged Actions, several federal agencies have
+
+already moved to end their relationships with Anthropic. GSA removed Anthropic from the
+
+agency’s AI platform USAi.gov, cutting off sales opportunities for agencies. (Id. ¶ 22.) The
+
+
+                                                 16
+     Case 3:26-cv-01996-RFL          Document 134        Filed 03/26/26     Page 17 of 43
+
+
+
+
+U.S. Department of the Treasury and the Federal Housing Finance Agency announced they were
+
+terminating all use of Claude. (Id. ¶ 23.) The Department of State and the Department of Health
+
+and Human Services (“HHS”) have issued internal statements saying they will follow the
+
+Presidential Directive. (Id. ¶ 25.) The Department of Energy’s Lawrence Livermore National
+
+Laboratory informed Anthropic that it was shutting down Claude. (Id. ¶ 27.)
+
+       Defense contractors performing work under government contracts using Claude-
+
+integrated APIs are assessing—and in many cases looking to terminate—their reliance on
+
+Anthropic. (Dkt. No. 6-4 ¶ 12.) Government contractors outside of the defense sector are
+
+following suit. Anthropic reports that one partner, which has a multi-million-dollar annual
+
+contract with Anthropic, has switched from Claude to a competing generative AI model to
+
+service a contract with the U.S. Food and Drug Administration. (Id. ¶ 14.) Anthropic reports it
+
+“has received inquiries regarding the [Challenged Actions] from over one hundred enterprise
+
+customers expressing deep fear, confusion, and doubt about Anthropic and the repercussions of
+
+associating with [the] company.” (Id. ¶ 20.) Major law firms began alerting their government-
+
+contractor clients to “audit[] their Anthropic exposure now” and “prepare to deploy alternatives”
+
+to Anthropic. (Dkt No. 6-30 at 4; Dkt No. 6-31 at 3.) Within days of the Challenged Actions,
+
+Anthropic has experienced a revenue impact as deals worth hundreds of millions of dollars have
+
+been delayed from closing, prospective clients have pulled out of negotiations, and some
+
+customers have terminated contracts. (Dkt. No. 6-4 ¶¶ 16–19.)
+
+       Several amicus briefs detail the chilling effect and confusion that the Challenged Actions
+
+have caused. Small developers describe their uncertainty as to whether they will continue to be
+
+able to use Claude Code, or use open source libraries that might contain sections of code written
+
+by Claude, without running afoul of the Challenged Actions. (Dkt. No. 73 at 7–8.) A group of
+
+industrial trade associations explain that they are unsure whether “Claude-generated code already
+
+incorporated into an already-shipping product” will be rejected by DoW and whether their
+
+members may continue to “host[] Claude alongside dozens of other AI models . . . for purely
+
+commercial customers with no defense connection.” (Dkt. No. 72 at 13.) Employees from
+
+
+                                               17
+       Case 3:26-cv-01996-RFL         Document 134         Filed 03/26/26      Page 18 of 43
+
+
+
+
+major companies in the AI field explain that the Challenged Actions threaten to “chill open
+
+deliberation” and “professional debate” among the people best positioned to understand AI
+
+technology and its potential for “catastrophic misuse.” (Dkt. 24-1 at 6, 8, 9.)
+
+III.    PROCEDURAL HISTORY
+        Anthropic filed this action and moved for a temporary restraining order and preliminary
+
+injunction on March 9, 2026. Anthropic brings a First Amendment claim, a Fifth Amendment
+
+Due Process Clause claim, Administrative Procedure Action (“APA”) contrary to law and
+
+arbitrary and capricious claims, and an ultra vires action asserting that the Presidential Directive
+
+is in excess of statutory and constitutional authority. Anthropic seeks preliminary injunctive
+
+relief to enjoin Defendants from implementing, applying, or enforcing in any manner the
+
+Challenged Actions. A status conference was held on March 10, 2026. (Dkt. No. 38.) To allow
+
+development of a more fulsome record and to afford time for Defendants to respond, the Court
+
+determined that the motion should be handled in the preliminary injunction posture rather than in
+
+the temporary restraining order posture. Defendants were given until March 17, 2026, to file
+
+their opposition to the preliminary injunction motion, and Anthropic was given until March 20,
+
+2026, to file its reply. (Id.) On reply, Anthropic introduced two declarations in response to the
+
+Michael Memo, which the government had provided to Anthropic for the first time in its
+
+opposition brief. (Dkt. Nos. 114, 115.) Defendants were then given until the morning of March
+
+24, 2026, to provide any rebuttal to those declarations, and Defendants submitted a further
+
+declaration from Under Secretary Michael in sur-reply. (Dkt. Nos. 117, 120.) A hearing was
+
+held on the afternoon of March 24, 2026. Immediately after the hearing, Anthropic was
+
+permitted to submit evidence that various Defendant Agencies use or used its services, and
+
+Defendants were given a further 24 hours to submit any opposition to Anthropic’s evidence.
+
+(Dkt. Nos. 126, 131.)
+
+IV.     LEGAL STANDARD
+        “[I]njunctive relief [is] an extraordinary remedy that may only be awarded upon a clear
+
+showing that the plaintiff is entitled to such relief.” Winter v. Nat. Res. Def. Council, 555 U.S. 7,
+
+
+                                                 18
+      Case 3:26-cv-01996-RFL            Document 134          Filed 03/26/26       Page 19 of 43
+
+
+
+
+22 (2008). To obtain a preliminary injunction, Anthropic must establish that it is likely to
+
+succeed on the merits, that it is likely to suffer irreparable harm in the absence of preliminary
+
+relief, that the balance of equities tips in its favor, and that an injunction is in the public interest.
+
+Id. at 20. When the nonmoving party is the government, the final two factors merge. Baird v.
+
+Bonta, 81 F.4th 1036, 1040 (9th Cir. 2023) (citing Nken v. Holder, 556 U.S. 418, 435 (2009)).
+
+V.      ANALYSIS
+
+        A.      Anthropic Has Shown a Likelihood of Success on Its First Amendment
+                Retaliation Claim
+        Government officials cannot use the “power of the State to punish or suppress disfavored
+
+expression.” Nat’l Rifle Ass’n of Am. v. Vullo, 602 U.S. 175, 188 (2024). The government is
+
+entitled to express its views regarding the appropriate use of AI in warfare, and it is entitled to
+
+choose contracting partners that best align with those views. “But a State’s failure to persuade”
+
+its prospective contracting partner to come around to its views “does not allow it to hamstring”
+
+disagreeing parties. Sorrell v. IMS Health, Inc., 564 U.S. 552, 578 (2011). “Official reprisal for
+
+protected speech offends the Constitution because it threatens to inhibit exercise of the protected
+
+right, . . . and the law is settled that as a general matter the First Amendment prohibits
+
+government officials from subjecting an individual to retaliatory actions . . . for speaking out.”
+
+Hartman v. Moore, 547 U.S. 250, 256 (2006) (citation omitted).
+
+        Here, Anthropic has shown a likelihood of success on its First Amendment claim. The
+
+record shows that Defendants’ conduct appears to be driven not by a desire to maintain
+
+operational control when using AI in the military but by a desire to make an example of
+
+Anthropic for its public stance on the weighty issues at stake in the contracting dispute.
+
+Although Anthropic had always applied the usage policies in question to Claude Gov, it had been
+
+repeatedly lauded as a partner and passed lengthy national security vetting processes. Only when
+
+Anthropic went public with its concerns about DoW’s contracting position did Defendants set
+
+out to publicly punish Anthropic for its “ideology” and “rhetoric,” as well as its “arrogance” for
+
+being unwilling to compromise those beliefs. At that point, Defendants announced a plan to
+
+
+
+                                                   19
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26      Page 20 of 43
+
+
+
+
+cripple Anthropic: to blacklist it from doing business with any company that services the U.S.
+
+military, to permanently cut off its ability to work with the federal government, and to brand it an
+
+adversary that could sabotage DoW and that posed a supply chain risk. Those actions go far
+
+beyond what would be necessary to address DoW’s ostensible concern about having complete
+
+operational control when using AI. This appears to be classic First Amendment retaliation.
+
+               1.      Anthropic Has Made Out a Prima Facie Retaliation Claim
+       “To bring a First Amendment retaliation claim, the plaintiff must allege that (1) it
+
+engaged in constitutionally protected activity; (2) the defendant’s actions would ‘chill a person
+
+of ordinary firmness’ from continuing to engage in the protected activity; and (3) the protected
+
+activity was a substantial motivating factor in the defendant’s conduct—i.e., that there was a
+
+nexus between the defendant’s actions and an intent to chill speech.” Ariz. Students’ Ass’n v.
+
+Ariz. Bd. of Regents, 824 F.3d 858, 867 (9th Cir. 2016). Upon making a prima facie showing,
+
+“the burden shifts to the defendant official to demonstrate that even without the impetus to
+
+retaliate he would have taken the action complained of.” Hartman, 547 U.S. at 260.11
+
+       Anthropic has shown a likelihood that all three prongs of the test are met. First, it has
+
+shown that it engaged in protected activity. In particular, the record shows that Anthropic and its
+
+CEO, Dario Amodei, are a loud and influential voice regarding the capabilities, risks, and safe
+
+uses of AI technology. See supra Section II.A–B. In the context of the current dispute with
+
+Defendants, DoW and Anthropic both publicly staked out their positions and engaged in a public
+
+debate about what deployments of Claude are currently unsafe and what rights Anthropic has to
+
+allow Claude’s use by the government only with certain safety restrictions. This “speech on
+
+
+11
+   At oral argument, counsel for Defendants raised for the first time the possibility that
+Anthropic’s retaliation claim should be analyzed under the framework laid out in Pickering v.
+Board of Education, 391 U.S. 563 (1968), and its progeny. (Dkt. No. 128 at 52–53.) This
+argument, which neither party briefed, has been waived. Even if the Court applied the Pickering
+framework, Anthropic has made out a prima facie case for the reasons described below, and
+Defendants have not met their burden under the balancing test to identify a legitimate
+government interest or to show that the interest outweighs the free speech interests, as
+Defendants have made no argument whatsoever on that issue. Alpha Energy Savers, Inc. v.
+Hansen, 381 F.3d 917, 923, 930 (9th Cir. 2004) (explaining that it is the government officials’
+burden to invoke and make a showing under the balancing test).
+
+
+                                                20
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26      Page 21 of 43
+
+
+
+
+matters of public concern” is at “the heart of the First Amendment’s protection.” Snyder v.
+
+Phelps, 562 U.S. 443, 451–52 (2011) (cleaned up) (citation omitted). Such speech “is more than
+
+self-expression; it is the essence of self-government,” and it “occupies the highest rung of the
+
+hierarchy of First Amendment values.” Id. (citations omitted).
+
+       Defendants do not dispute that the second prong is met. Anthropic has submitted
+
+evidence that the Challenged Actions threaten to cripple the company and chill public debate.
+
+See supra Section II.G. Several amicus briefs support this conclusion. A group of 37
+
+individuals working on AI technology assert that the Challenged Actions “chill[] professional
+
+debate on the benefits and risks of frontier AI systems and various ways that risks can be
+
+addressed to optimize the technology’s deployment.” (Dkt. No. 24-1 at 8.) An industry group of
+
+“values-led investors” warns that the Challenged Actions chill speech necessary to allow them to
+
+direct their investments to support the “principles and values” they care about. (Dkt. No. 77-1 at
+
+12.) In short, the Challenged Actions easily qualify as ones which would chill a person of
+
+ordinary firmness from continuing to engage in further protected speech.
+
+       Finally, the Challenged Actions leave little question that the measures were prompted by
+
+Anthropic’s public repudiation of DoW’s contracting request and its perceived use of public
+
+scrutiny to “strong arm” DoW into changing its mind. Secretary Hegseth expressly tied
+
+Anthropic’s punishment to its attitude and rhetoric in the press. He stated that “Anthropic
+
+delivered a master class in arrogance.” (Dkt. No. 6-21 at 2.) Referring to Anthropic and
+
+Amodei, he further stated: “Cloaked in the sanctimonious rhetoric of ‘effective altruism,’ they
+
+have attempted to strong-arm the United States military” through their “corporate virtue-
+
+signaling” and “Silicon Valley ideology.” (Id.) “Anthropic’s stance is fundamentally
+
+incompatible with American principles.” (Id.) The President described Anthropic as “radical
+
+left, woke company” and its employees as “leftwing nut jobs,” who “made a DISASTROUS
+
+MISTAKE trying to STRONG-ARM the Department of War.” (Dkt. No. 6-20 at 2.) Read in
+
+context of these repeated references to rhetoric and ideology, the term “strong-arm” in the
+
+Presidential Directive and the Hegseth Directive appears to be characterizing Anthropic as
+
+
+                                                21
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26       Page 22 of 43
+
+
+
+
+applying public pressure. That seems particularly likely in light of the undisputedly “cordial and
+
+amicable” nature of the contract negotiations themselves and Anthropic’s offer to facilitate an
+
+orderly transition to another vendor if the parties could not come to terms.
+
+       The Michael Memo likewise repeatedly refers to Anthropic’s public airing of its dispute
+
+with DoW as the reason that it is no longer trustworthy. (See Dkt. No. 96-2 at 7 (describing how
+
+Anthropic “opted to publicly spat with DoW” as a basis to distrust it); id. at 7–8 (same with
+
+respect to “the public statements of Anthropic’s CEO and others associated with the company”).)
+
+The memo finds that Anthropic’s “risk level escalated” into a “supply chain risk” principally
+
+because it was “leveraging DoW’s ongoing good faith negotiations for Anthropic’s own public
+
+relations” and its “increasingly hostile manner through the press.” (Id. at 8.) These specific
+
+references to Anthropic’s viewpoint and public stance are direct evidence of what motivated
+
+Defendants’ decision-making.
+
+               2.      Defendants Have Not Carried Their Burden to Rebut Anthropic’s
+                       Prima Facie Case
+       Defendants raise two interrelated arguments in opposition. First, they argue that
+
+Anthropic’s “contracting position” is conduct, not speech entitled to First Amendment
+
+protection. Second, they argue that Anthropic’s refusal to accept DoW’s terms—not any of
+
+Anthropic’s speech—was the but-for cause of Challenged Actions. Neither argument changes
+
+the likelihood of success analysis.
+
+       First, without reaching the question of whether private contract negotiations alone could
+
+constitute protected activity under the First Amendment, the record shows that Anthropic
+
+engaged in protected speech when it took public the parties’ contracting impasse and the reasons
+
+behind its refusal to agree to DoW’s terms. (See, e.g., Dkt. Nos. 6-7, 6-18.) As already
+
+explained, Anthropic’s views on this matter fall within the heart of what the First Amendment
+
+protects: “subject[s] of general interest and of value and concern to the public” and “of legitimate
+
+news interests.” See Snyder, 562 U.S. at 452–53 (citation omitted). Therefore, to the extent
+
+Anthropic publicly discussed its “contracting position,” that speech is protected by the First
+
+
+
+                                                22
+     Case 3:26-cv-01996-RFL             Document 134        Filed 03/26/26     Page 23 of 43
+
+
+
+
+Amendment.
+
+          Next, Defendants argue that even if Anthropic’s public statements constitute protected
+
+speech, the contract dispute—not Anthropic’s speech—was the motive and “but for” cause of the
+
+Challenged Actions. (Dkt. No. 96 at 22–24.) They point out that although Anthropic and
+
+Amodei have long advocated for AI safety, Defendants took the Challenged Actions only after
+
+Anthropic refused to remove its usage restrictions. But Defendants’ own actions belie the notion
+
+that Anthropic’s contracting position is what drove the Challenged Actions. Anthropic had
+
+imposed its usage restrictions from the beginning of DoW’s use of Claude Gov, and no one had
+
+ever suggested that this indicated that Anthropic was untrustworthy or a potential saboteur. To
+
+the contrary, Anthropic passed extensive vetting at that time and was praised by the government,
+
+which had made arrangements to expand the company’s role. It was only when Anthropic
+
+publicly discussed its dispute with DoW that Defendants criticized its rhetoric and ideology and
+
+adopted the punitive measures at issue.
+
+          As for the “but for” cause of the Challenged Actions, Defendants assert that, “[a]t
+
+bottom, had Anthropic agreed to the [g]overnment’s term, the challenged actions would not have
+
+occurred.” (Dkt. No. 96 at 23.) That is the wrong question to ask in a “but for” inquiry. The
+
+correct question is whether, if Anthropic had not engaged in the protected speech, Defendants
+
+would have taken the Challenged Actions regardless. See CarePartners, LLC v. Lashway, 545
+
+F.3d 867, 877 (9th Cir. 2008) (stating that “defendant must show . . . that it would have reached
+
+the same decision; it is insufficient to show merely that it could have reached the same decision”
+
+(emphasis in original)). Defendants have not carried their burden to show that they would
+
+have.12
+
+
+12
+  This case differs from American Federation of Government Employees, AFL-CIO v. Trump,
+167 F.4th 1247 (9th Cir. 2026). There, the challenged executive order had no retaliatory
+language and had a “legitimate grounding in national security concerns.” Id. at 1256–57. As a
+result, the Ninth Circuit found that stray hostile remarks in a sheet of talking points that
+accompanied the order were insufficient to show retaliation because the government “would
+have[] issued [the executive order] in the absence of the asserted retaliatory animus.” Id. at
+1257. Here, by contrast, the Challenged Actions on their face indicate that they are retaliatory,
+and Defendants have not identified any legitimate national security justifications for the
+
+
+                                                  23
+     Case 3:26-cv-01996-RFL             Document 134        Filed 03/26/26     Page 24 of 43
+
+
+
+
+       If this were merely a contracting impasse, DoW would presumably have just stopped
+
+using Claude. This would square with the ostensible risk the Challenged Actions were meant to
+
+address: that Anthropic might interfere with “operational decisions of the United States
+
+military,” putting “American lives at risk, [America’s] troops in danger, and [its] national
+
+security in jeopardy.” (Dkt. No. 6-21 at 2; Dkt. No. 6-20 at 2 (capitalizations omitted); see also
+
+Dkt. No. 6-28 (identifying a risk to national security systems).) The Challenged Actions,
+
+however, far exceed the scope of what could reasonably address such a national security interest.
+
+The Presidential Directive ordered a permanent federal government-wide bar, and the Hegseth
+
+Directive blacklisted Anthropic.13 Nothing in the record supports a determination that the
+
+contracting impasse alone would have triggered such an extreme response.
+
+       Although courts owe deference to the government on issues of national security,
+
+“concerns of national security and foreign relations do not warrant abdication of the judicial
+
+role.” Holder v. Humanitarian L. Project, 561 U.S. 1, 34 (2010). Courts cannot “defer to the
+
+Government’s reading of the First Amendment, even when such interests are at stake,” and “the
+
+Government’s authority and expertise in these matters do not automatically trump the Court’s
+
+own obligation to secure the protection that the Constitution grants to individuals.” Id. (citation
+
+omitted). Anthropic has shown a likelihood of success on its First Amendment retaliation
+
+claim.14
+
+       B.        Anthropic Has Shown a Likelihood of Success on Its Procedural Due Process
+                 Claim Under the Fifth Amendment
+           “Due process requires notice ‘reasonably calculated, under all the circumstances, to
+
+apprise interested parties of the pendency of [a government] action and afford them an
+
+opportunity to present their objections.’” Al Haramain Islamic Found., Inc. v. U.S. Dep’t of
+
+
+
+sweeping prohibitions at issue.
+13
+   The Supply Chain Designation exceeds the scope of Defendants’ justifications for the reasons
+described below in Section V.C.
+14
+  Because this Order finds a likelihood of success on Anthropic’s retaliation claim, it does not
+reach Anthropic’s alternate theory of content and viewpoint discrimination.
+
+
+                                                  24
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 25 of 43
+
+
+
+
+Treasury, 686 F.3d 965, 985 (9th Cir. 2012) (quoting United Student Aid Funds, Inc. v.
+
+Espinosa, 559 U.S. 260, 272 (2010)). Anthropic argues that Defendants violated Anthropic’s
+
+procedural due process rights when they summarily blacklisted it and designated it a supply
+
+chain risk. Defendants respond that their actions did not impair any protectible interest
+
+Anthropic might have and that even if they did, pre-deprivation process was not necessary.
+
+       The Mathews v. Eldridge, 424 U.S. 319 (1976), balancing test governs this claim. Al
+
+Haramain, 686 F.3d at 985. Under Mathews, the Court “must weigh (1) [Anthropic’s protected]
+
+interest, (2) the risk of an erroneous deprivation of such interest through the procedures used, as
+
+well as the value of additional safeguards, and (3) the Government’s interest in maintaining its
+
+procedures, including the burdens of additional procedural requirements.” Foss v. Nat’l Marine
+
+Fisheries Serv., 161 F.3d 584, 589 (9th Cir. 1998) (citing Mathews, 424 U.S. at 334–35). As
+
+already discussed, there are strong interests on both sides of the scale. Anthropic’s interest in its
+
+reputation and in its continued eligibility to compete for federal work is undoubtedly significant.
+
+“On the other side of the scale, the government’s interest in national security cannot be
+
+understated.” Al Haramain, 686 F.3d at 980. “Striking a balance between those two strong
+
+competing interests cannot be done in the abstract.” Id. Therefore, this Order “carefully
+
+assess[es] the precise ‘procedures used’ by the government, ‘the value of additional safeguards,’
+
+and ‘the burdens of additional procedural requirements.’” Id. (quoting Foss, 161 F.3d at 589).
+
+               1.      Anthropic Has a Protectible Liberty Interest
+       The liberty interest protected by the Fifth Amendment encompasses the right to “follow a
+
+chosen profession free from unreasonable governmental interference.” Greene v. McElroy, 360
+
+U.S. 474, 492 (1959). Therefore, “debarring a corporation from government contract bidding
+
+constitutes a deprivation of liberty that triggers the procedural guarantees of the Due Process
+
+Clause.” Trifax Corp. v. Dist. of Columbia, 314 F.3d 641, 643 (D.C. Cir. 2003) (citing Old
+
+Dominion Dairy Prods., Inc. v. Sec’y of Def., 631 F.2d 953, 961–62 (D.C. Cir. 1980)).
+
+Furthermore, “[w]here a person’s good name, reputation, honor, or integrity is at stake because
+
+of what the government is doing to him, notice and an opportunity to be heard are essential.”
+
+
+                                                 25
+      Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 26 of 43
+
+
+
+
+Wisconsin v. Constantineau, 400 U.S. 433, 437 (1971). Although reputational harm alone is
+
+generally insufficient to trigger a liberty interest, Siegert v. Gilley, 500 U.S. 226 (1991),
+
+reputational harm can give rise to a liberty interest when accompanied by a “tangible” alteration
+
+in status. Trifax, 314 F.3d at 644 (citation omitted).
+
+       Each of the Challenged Actions deprive Anthropic of protected liberty interests. First,
+
+the Presidential Directive ordered “EVERY Federal Agency in the United States Government to
+
+IMMEDIATELY CEASE all use of Anthropic’s technology. We don’t need it, we don’t want it,
+
+and will not do business with them again!” (Dkt. No. 6-20 at 2.) That is a permanent debarment
+
+with absolutely no pre- or post-deprivation process. Next, the Hegseth Directive ordered that,
+
+“[e]ffective immediately, no contractor, supplier, or partner that does business with the United
+
+States military may conduct any commercial activity with Anthropic.” (Dkt. No. 6-21 at 2
+
+(emphasis added).) Secretary Hegseth also “direct[ed] the Department of War to designate
+
+Anthropic a Supply-Chain Risk to National Security,” which occurred on March 3, 2026. (Id.;
+
+Dkt. No. 96-2.) The designation prohibits Anthropic from providing products or services as a
+
+contractor or subcontractor for national security systems. (Dkt. No. 96-2 at 2, 22–23.)
+
+       These acts inflict both reputational harm and an immediate alteration of Anthropic’s
+
+status and therefore implicate significant liberty interests. For example, in Old Dominion, a
+
+government agent determined that a company “lacked integrity,” which precluded the company
+
+from obtaining any future government contracting work and “threatened the very existence of the
+
+business.” 631 F.2d at 955, 963. The D.C. Circuit held that the reputational harm and
+
+accompanying loss of government employment “injured a cognizable liberty interest.” Id. at
+
+962–66. The same is true here.
+
+       Defendants contend that Anthropic, which has private commercial relationships, lacks a
+
+liberty interest because the Challenged Actions do not act as a “complete prohibition of the right
+
+to engage in a calling.” (Dkt. No. 96 at 30–31 (quoting Dittman v. California, 191 F.3d 1020,
+
+1029 (9th Cir. 1999)).) But a complete prohibition is not the only way to injure a protected
+
+liberty interest. As the D.C. Circuit articulated in its “reputation plus” test, a deprivation of
+
+
+                                                  26
+      Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26       Page 27 of 43
+
+
+
+
+liberty occurs when the government imposes a “broad preclusion” that “seriously affect[s], if not
+
+destroy[s],” a company’s “ability to obtain” contracts in its chosen field of business. Trifax, 314
+
+F.3d at 644. The record shows that the Challenged Actions threaten to cripple Anthropic by not
+
+only stripping it of billions of dollars in federal contracts and subcontracts but also by labeling it
+
+as an adversary to the United States and ending its ability to have any commercial relationship
+
+with any company that might want to do business with DoW.
+
+        Thus, Anthropic has shown a substantial likelihood that it has a significant protectible
+
+liberty interest.15
+
+                2.      A Serious Risk of Erroneous Deprivation Exists, and Defendants
+                        Have Not Shown Any Urgency Supporting the Need to Bypass Pre-
+                        Deprivation Process
+        The record reflects that the Challenged Actions were taken without any meaningful
+
+notice or pre-deprivation process (and, in the case of the Presidential Directive and the Hegseth
+
+Directive, without any post-deprivation process either). Although Anthropic was on notice that
+
+the government objected to its contracting terms, it had no notice or opportunity to object before
+
+Defendants publicly barred it from all federal government work and blacklisted it with private
+
+companies working with the U.S. military. It also had no notice or opportunity to object to the
+
+factual basis for its designation as a supply chain risk, which it learned of in this litigation. (Dkt.
+
+No. 115 ¶ 5.) In fact, three days before he issued the Hegseth Directive, Secretary Hegseth told
+
+Anthropic that, unless the company complied, DoW would either designate it a supply chain risk
+
+(meaning Anthropic presented a grave threat to national security) or invoke the Defense
+
+Production Act (meaning Anthropic was essential to national security). (Dkt. No. 6-2 ¶ 16.)
+
+This contradiction underscores the complete lack of prior notice or process.
+
+        Anthropic has also shown that meaningful pre-deprivation notice of DoW’s concerns and
+
+an opportunity to respond to those concerns were necessary to avoid the risk of erroneous
+
+
+
+15
+  Because this Order finds Anthropic likely to succeed on its due process claim based on its
+protectible liberty interest, it does not reach Anthropic’s property interest theory.
+
+
+                                                  27
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26      Page 28 of 43
+
+
+
+
+deprivation here. Ralls Corp. v. Comm. on Foreign Inv. in the U.S., 758 F.3d 296, 318 (D.C. Cir.
+
+2014). Upon learning in this litigation of DoW’s stated factual basis for the supply chain risk
+
+designation, Anthropic submitted a declaration explaining that DoW’s records reflect core
+
+misunderstandings about how Anthropic’s technology works, which Anthropic could have
+
+dispelled if given the opportunity. (Dkt. No. 115 ¶¶ 13–19.)
+
+       Defendants argue that a post-deprivation hearing can satisfy due process “where there is
+
+‘the necessity of quick action by the State or the impracticality of providing any predeprivation
+
+process.’” (Dkt. No. 96 at 31 (quoting Logan v. Zimmerman Brush Co., 455 U.S. 422, 436
+
+(1982).) Defendants, however, have not carried their burden to show such necessity. “Pre-
+
+deprivation notice typically is required absent ‘a strong justification’ from the government.”
+
+Garza v. Woods, 150 F.4th 1118, 1130 (9th Cir. 2025) (citation omitted). Genuine exigency,
+
+such as the risk of “asset flight” when government intends to freeze the resources of a suspected
+
+terrorist group, can justify post-deprivation process. Al Haramain, 686 F.3d at 985. However,
+
+the bare invocation of a national security interest alone is not a stand-in for exigency. See Nat’l
+
+Council of Resistance of Iran v. Dep’t of State, 251 F.3d 192, 207–08 (D.C. Cir. 2001). In this
+
+case, Defendants present no evidence of exigency whatsoever. To the contrary, the parties had
+
+undisputedly been doing business pursuant to the very terms to which the government objects for
+
+over a year before the Challenged Actions, and Anthropic’s removal from DoW’s systems is
+
+slated to take place over a period of six months.
+
+       Defendants contend that Anthropic’s contractual terms would “diminish functionality and
+
+limit DoW’s warfighting capabilities” and that Anthropic’s growing “hostility in negotiations”
+
+was a sign that it might “unilaterally alter system guardrails and model weights.” (Dkt. No. 96-2
+
+at 6–7.) But, as discussed below in Section V.C.1.a, the unrebutted record shows that Anthropic
+
+is not technologically capable of taking such unilateral actions. And, in any event, the usage
+
+restrictions were not new. Beyond the self-imposed urgency created by the ultimatum that
+
+Secretary Hegseth issued on February 24, nothing in the record indicates a heightened supply
+
+chain risk to national security systems on February 27 or March 3. Therefore, even affording
+
+
+                                                 28
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 29 of 43
+
+
+
+
+deference to the government’s factual conclusion, Defendants have not shown exigency.
+
+       With respect to the more sweeping aspects of the Challenged Actions—the permanent
+
+federal government-wide bar and the private sector blacklisting—the record contains no
+
+indication of any risk, much less an urgent one, motivating those actions. In sum, pre-
+
+deprivation notice and process could, and likely should, have been provided to Anthropic before
+
+Defendants took the Challenged Actions.
+
+       Finally, Defendants argue that because Section 3252 does not expressly provide pre-
+
+deprivation process and permits DoW “to limit disclosure of information” related to designations
+
+in some circumstances, “[d]ue process is then satisfied.” (Dkt. No. 96 at 31 (quoting 10 U.S.C.
+
+3252(c)).)16 It is true that Section 3252 will often involve a “supply chain risk designation”
+
+without pre-deprivation process, and in many instances, this will not run afoul of the Constitution
+
+because the government has shown exigent circumstances or the target is either a foreign actor
+
+lacking due process rights or a hostile party that does not significantly rely on federal
+
+contracting. Here, though, Anthropic is a domestic company with a significant federal
+
+contracting business, and no exigency has been shown. Compliance with the statutory
+
+requirements does not relieve the government of its due process obligations under the
+
+Constitution. See, e.g., United States v. Rivera-Valdes, 157 F.4th 978, 989 (9th Cir. 2025). As to
+
+the argument that Section 3252 permits limitation of disclosures, Defendants have not submitted
+
+any evidence indicating that concerns about sensitive information prevented them from
+
+providing Anthropic with notice. Indeed, except for a proprietary report that Defendants asked
+
+to seal to protect the vendor’s business interests (Dkt. No. 97), Defendants filed all of their
+
+evidence on the Court’s public docket.
+
+       Thus, Anthropic has shown a likelihood of success on its Due Process Clause claim.
+
+
+
+
+16
+  The Court assumes that Defendants’ argument relates only to the Supply Chain Designation,
+as the statutory scheme is inapplicable to the Directives.
+
+
+                                                 29
+      Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 30 of 43
+
+
+
+       C.      Anthropic Has Shown a Likelihood of Success on Its APA Claim
+       Under the APA, an agency action must be set aside and held unlawful if it is “arbitrary,
+
+capricious, an abuse of discretion,” “in excess of statutory jurisdiction, authority, or limitations,
+
+or short of statutory right,” or “without observance of procedure required by law.” 5 U.S.C. §
+
+706(2)(A), (C), (D). Anthropic has shown that the Hegseth Directive and the Supply Chain
+
+Designation were likely in excess of statutory authority, contrary to law, and arbitrary and
+
+capricious. Section 3252 is intended to address the risk of adversarial sabotage of national
+
+security systems, and it does not authorize DoW to designate a domestic vendor a supply chain
+
+risk simply because a vendor publicly criticized DoW’s views about the safe uses of its system.
+
+Even if Section 3252 could be deployed for this purpose, DoW failed to follow the necessary
+
+process because, among other things, it failed to make any reasoned determination about whether
+
+less intrusive measures were available. Finally, the record strongly suggests that the reasons
+
+given for designating Anthropic a supply chain risk were pretextual and that Defendants’ real
+
+motive was unlawful retaliation.
+
+               1.      The Supply Chain Risk Designation Was in Excess of Statutory
+                       Authority and Contrary to Law
+
+                       a.      Anthropic’s Conduct Does Not Meet the Definition of a Supply
+                               Chain Risk
+       On the record before the Court, Anthropic’s conduct does not appear to be within the
+
+definition of “supply chain risk” in Section 3252. Section 3252 defines a supply chain risk as
+
+limited to “the risk that an adversary may sabotage, maliciously introduce unwanted function, or
+
+otherwise subvert . . . a covered system.” 10 U.S.C. § 3252(d)(4). Assuming without deciding
+
+that a domestic company can be an “adversary,” the plain text of the statute is directed at covert
+
+acts or hacks, not overt positions taken during contract negotiations. Indeed, it is difficult to
+
+understand how one could sabotage, maliciously introduce an unwanted function, or subvert an
+
+information technology system by publicly announcing usage restrictions or insisting on such
+
+restrictions in conversations with DoW. Defendants appear to be taking the position that any
+
+vendor who “push[es] back” on or “question[s]” DoW becomes its “adversary.” (Dkt. No. 128 at
+
+
+
+                                                  30
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 31 of 43
+
+
+
+
+41.) That position is deeply troubling and inconsistent with the statutory text.
+
+       The legislative history confirms that Section 3252’s purpose is to address covert acts,
+
+hacks, and other acts of technical sabotage. Section 3252 was originally enacted as Section 806
+
+of the 2011 National Defense Authorization Act. Pub. L. No. 111-383, § 806 (2011). In
+
+explaining why Section 806 should be enacted, the Senate Armed Services Committee Report
+
+relied upon a report from the Department of Defense about “trusted defense systems.”
+
+Specifically, the Committee explained:
+
+               In that report, the Secretary found that the globalization of the
+               information technology industry has increased the vulnerability of
+               the Department of Defense (DOD) to attacks on its systems and
+               networks. The report found an increasing risk that systems and
+               networks critical to DOD could be exploited through the
+               introduction of counterfeit or malicious code and other defects
+               introduced by suppliers of systems or components. The committee
+               concludes that the Secretary should have the authority needed to
+               address this risk.
+S. Rep. No. 111-201, at 162 (2010). Anthropic’s acts do not appear to bear any relation to the
+
+conduct at issue in Section 3252.
+
+       Defendants point to Anthropic’s “hostile manner” in the press and in contract
+
+negotiations as raising a risk that it might sabotage national security systems in the future. (Dkt.
+
+No. 96-2 at 7–8.) But Defendants do not explain why they infer from Anthropic’s forthright
+
+insistence on the usage restrictions that it would become a saboteur. Indeed, sabotage would
+
+ordinarily be a surprising culmination to months of “cordial” negotiations.
+
+       Defendants argue that Anthropic could “cause their software to stop working” or
+
+“unilaterally alter system guardrails and model weights without DoW consent.” (Id. at 6–7.)
+
+However, nothing in the administrative record supports the conclusion, found only in the
+
+Michael Memo, that Anthropic has the technological capability to access its Claude models after
+
+they are deployed on national security systems. In fact, at oral argument counsel for Defendants
+
+acknowledged that he was unaware of any such capabilities. (Dkt. No. 128 at 39.) And if extra-
+
+record evidence could be considered, the unrebutted evidence is that Anthropic forcefully
+
+advocated for contractual limits on DoW’s use of its products because it is technologically
+
+
+                                                 31
+     Case 3:26-cv-01996-RFL           Document 134           Filed 03/26/26    Page 32 of 43
+
+
+
+
+incapable of stopping DoW from using its systems in ways that it disagrees with once it hands
+
+the products over. (See Dkt. No. 6-1 ¶ 22 (“The Usage Policy is critical because technical
+
+safeguards alone cannot prevent all dangerous uses[.]”).) Anthropic has submitted evidence that
+
+“Anthropic has no access to, or control over, the model as deployed or used by government
+
+customers” (Dkt. No. 115 ¶ 8), and that “Anthropic has never had the ability to cause Claude to
+
+stop working, alter its functionality, shut off access, or otherwise influence or imperil military
+
+operations” (id. ¶ 14; see also id. ¶¶ 15–17). Defendants do not dispute that evidence.
+
+       Defendants also contend that AI “technology itself” is inherently “opaque,” and that
+
+updates from Anthropic could thus “introduce [] vulnerabilities” that were hard to detect. (Dkt.
+
+No. 96-2 at 7.) But the unrebutted record shows that DoW extensively tested Anthropic’s
+
+updates before they were deployed in June and November 2025. (Dkt. No. 115 ¶ 10.) DoW’s
+
+stated concern thus does not appear to be specific to Anthropic but instead appears to be inherent
+
+to AI technology, and indeed, to technology more broadly. Most IT vendors could presumably
+
+update their systems or introduce unwanted functions without detection, if they wanted to. Yet
+
+Section 3252 obviously does not permit DoW to designate IT vendors as “supply chain risks”
+
+whenever they ask probing questions or stubbornly insist on particular contracting terms, even if
+
+their doing so causes DoW to doubt their trustworthiness. Such a breathtakingly broad
+
+interpretation of Section 3252 would make its restrictions on the Secretary’s discretion
+
+meaningless. Not only would such an approach raise serious due process concerns for the
+
+reasons already explained, but it would also effectively gut the statutory and regulatory
+
+protections for government contractors in this field. See, e.g., 41 U.S.C. § 1121; 40 U.S.C. §
+
+121(c); 48 C.F.R. §§ 9.406-3, 9.407-3. Nothing in Section 3252’s text, structure, or legislative
+
+history supports such radical interpretation of its scope.
+
+                       b.      The Supply Chain Designation Failed to Satisfy the Procedural
+                               Requirements of Section 3252
+       Section 3252 allows the Secretary of War to skip the usual procedural requirements for
+
+suspending or debarring federal contractors so long as constitutional guarantees of due process
+
+
+
+                                                 32
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 33 of 43
+
+
+
+
+are otherwise satisfied. That approach makes sense, given Congress’s focus on preventing
+
+sabotage and subversion by foreign intelligence agencies, terrorists, and other hostile actors who
+
+generally lack due process rights or would be unlikely to take advantage of them. Instead,
+
+Section 3252 and its enabling regulations create institutional safeguards—which the Secretary
+
+must complete before making a designation—to ensure that its designation is applied properly.
+
+The Supply Chain Designation failed to comply with these mandated procedural safeguards.
+
+       One of the central safeguards of Section 3252 is the requirement that the Secretary of
+
+War make “a determination in writing” that “less intrusive measures are not reasonably available
+
+to reduce such supply chain risk.” 10 U.S.C. § 3252(b)(2)(B). To ensure that this first
+
+requirement is not an empty letter, the Secretary must provide the appropriate congressional
+
+committees with “a discussion of less intrusive measures that were considered and why they
+
+were not reasonably available to reduce supply chain risk.” Id. § 3252(b)(3)(B). The second
+
+requirement ensures that the Secretary’s analysis is preserved for the record and is subject to
+
+Congressional oversight. Only after those steps are complete may the Secretary of War
+
+designate a source as a supply chain risk.
+
+       There is reason to infer that Secretary Hegseth failed to make the required reasoned
+
+determination regarding less intrusive measures, as required under Section 3252(b)(2)(B). The
+
+record contains various declarations from Secretary Hegseth that “less intrusive measures are not
+
+reasonably available to reduce such supply chain risk.” (Dkt. No. 96-2 at 2, 12, 13, 14, 15, 16,
+
+17, 18.) But nothing in the administrative record discusses less intrusive measures or otherwise
+
+indicates that DoW engaged in the consideration that would be necessary for Secretary Hegseth
+
+to reach such a determination. Moreover, Secretary Hegseth’s six identical notices to various
+
+congressional committees do not contain any “a discussion of less intrusive measures that were
+
+considered and why they were not reasonably available,” as Defendants conceded at oral
+
+argument. (Id. at 12–17.) This silence in the congressional letters is particularly telling in light
+
+of the statutory requirement to describe such analysis. 10 U.S.C. § 3252(b)(3)(B). It strongly
+
+suggests that Secretary Hegseth merely stated that less intrusive measures were unavailable and
+
+
+                                                 33
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26     Page 34 of 43
+
+
+
+
+failed to make the required reasoned determination. See Nat. Res. Def. Council, Inc. v. Pritzker,
+
+828 F.3d 1125, 1135 (9th Cir. 2016) (“An agency acts contrary to the law when it gives mere lip
+
+service or verbal commendation of a standard but then fails to abide the standard in its reasoning
+
+and decision.” (citation omitted)).
+
+       As a further safeguard, DoW regulations require “a joint recommendation” from
+
+specified officials “on the basis of a risk assessment by the Under Secretary of Defense for
+
+Intelligence” before a designation can be made. 48 C.F.R. § 239.7304(a). However, the risk
+
+assessment submitted by Defendants does not come from the Under Secretary of Defense for
+
+Intelligence. Instead, the risk assessment was provided by Under Secretary of War for Research
+
+and Engineering Emil Michael, who also led many of the contract negotiations with Anthropic.
+
+Under Secretary Michael’s declaration states that, due to various DoW reorganizations in 2025,
+
+and because of its “institutional and subject matter expertise,” his office “has assumed
+
+responsibility for providing [] supply chain risk assessments relating to AI.” (Dkt. No. 96-3 ¶ 8.)
+
+However, Under Secretary Michael does not state that the Under Secretary of Defense for
+
+Intelligence was unavailable or that the relevant regulations were amended to permit him to
+
+prepare the risk assessment. Therefore, it is likely that the action violated DoW’s own
+
+regulations implementing Section 3252.
+
+       In sum, Anthropic has shown that the Supply Chain Designation was likely contrary to
+
+law, both because Anthropic’s conduct did not meet the statutory criteria for a supply chain risk
+
+and because the action violated the institutional checks and balances required under Section 3252
+
+and its implementing regulations.
+
+               2.      The Hegseth Directive Was in Excess of Statutory Authority and
+                       Contrary to Law
+       Defendants submit no evidence that Secretary Hegseth had complied with the statutory
+
+prerequisites of Section 3252 prior to issuing the Hegseth Directive. The determinations
+
+provided by Defendants all occurred after the Hegseth Directive was issued. And Defendants
+
+conceded at oral argument that there is no statutory basis for Secretary Hegseth’s instruction that
+
+
+
+                                                34
+       Case 3:26-cv-01996-RFL         Document 134           Filed 03/26/26    Page 35 of 43
+
+
+
+
+“no contractor, supplier, or partner that does business with the United States military may
+
+conduct any commercial activity with Anthropic.” (Dkt. No. 6-21 at 2.) As such, Defendants
+
+concede that the Hegseth Directive was in excess of and contrary to his statutory authority.
+
+        Instead, Defendants argue that the Hegseth Directive is not a final agency action and
+
+should be viewed as subsumed by the Supply Chain Designation. (Dkt. No. 96 at 25–26.) That
+
+reading is contrary to the plain language of the Hegseth Directive. The Hegseth Directive states
+
+that it has “immediate[]” effect with respect to the blacklisting of Anthropic and is “final” in all
+
+respects, including the mandate that DoW designate Anthropic a supply chain risk. (Dkt. No. 6-
+
+21 at 2.) Therefore, it is a final agency action because it purports to be the “consummation” of a
+
+decision-making process and because “legal consequences will flow” from it. Bennett v. Spear,
+
+520 U.S. 154, 178 (1997) (citations omitted). Indeed, Anthropic submits evidence that major
+
+law firms promptly issued alerts warning government contractor clients to “immediately review
+
+their use of Anthropic technology . . . and prepare to deploy alternatives.” (Dkt. No. 6-31 at 3;
+
+see also Dkt. No. 6-30.) Finally, nothing in the Supply Chain Designation withdraws or rescinds
+
+the Hegseth Directive or otherwise renders it non-final.17
+
+        Thus, the Hegseth Directive was likely in excess of statutory authority and contrary to
+
+law.
+
+               3.      The Supply Chain Risk Designation and the Hegseth Directive’s
+                       Blacklisting of Anthropic Were Arbitrary and Capricious
+        An agency decision is unlawfully arbitrary and capricious
+               if the agency has relied on factors which Congress has not intended
+               it to consider, entirely failed to consider an important aspect of the
+               problem, offered an explanation for its decision that runs counter to
+               the evidence before the agency, or is so implausible that it could not
+               be ascribed to a difference in view or the product of agency
+               expertise.
+Motor Vehicle Mfrs. Ass’n of the U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+
+
+17
+  Even if the Court were to consider subsequently generated materials from the Supply Chain
+Designation in evaluating the Hegseth Directive, the Hegseth Directive would still be contrary to
+law because the Designation failed to comply with required procedural safeguards and
+misapplied the “supply chain risk” designation to Anthropic’s conduct, as explained above.
+
+
+                                                 35
+     Case 3:26-cv-01996-RFL            Document 134        Filed 03/26/26      Page 36 of 43
+
+
+
+
+(1983). Where the official “explanation for agency action [] is incongruent with what the record
+
+reveals about the agency’s priorities and decisionmaking process,” and there is a “disconnect
+
+between the decision made and the explanation given,” an agency has not provided a reasoned
+
+explanation, and its action is likely arbitrary and capricious. See Dep’t of Com. v. New York, 588
+
+U.S. 752, 783–85 (2019).
+
+       The administrative record shows that Defendants’ proffered reasons for designating
+
+Anthropic a supply chain risk and blacklisting the company with private defense contractors are
+
+both implausible and contrary to the evidence for the reasons already discussed. Sections V.B &
+
+V.C.1–2. Likewise, Defendants’ apparent failure to consider less intrusive measures indicates
+
+that they likely “failed to consider an important aspect of the problem” that Congress required
+
+them to consider. Section V.C.1–2.
+
+       Moreover, the proffered reasons appear pretextual. The timing of the administrative
+
+record raises an inference that it was generated after the fact to justify the foreordained
+
+conclusion ordered in Secretary Hegseth’s mandate to “designate Anthropic a Supply-Chain Risk
+
+to National Security” on February 27. (Dkt. No. 6-21 at 2; Dkt. No. 96-2.) The undisputed
+
+evidence shows that, in the parties’ multi-year working relationship and during Anthropic’s
+
+extensive national-security vetting process, Defendants never raised any supply chain risk
+
+concerns but instead consistently praised Anthropic. DoW appears to have raised such concerns
+
+for the first time in conjunction with the February 27 instruction. Indeed, all the records
+
+Defendants introduce in support of the designation are dated March 2–3, 2026. (Dkt. No. 96-2 at
+
+2–9; Dkt. No. 120-1 ¶ 19.)18
+
+       The inference of pretext is further reinforced by the inconsistencies in the record.
+
+Defendants have introduced evidence that on March 2–3, 2026, Under Secretary Michael and
+
+
+
+18
+  The only exception is a “Due Diligence Preliminary Report” prepared by a vendor, dated
+February 26, 2026, two days after Secretary Hegseth issued the ultimatum to Anthropic
+threatening to designate it a supply chain risk. (Dkt. No. 97-2 at 10–22.) The due diligence
+report does not corroborate the risks that purportedly resulted in the supply chain risk
+designation.
+
+
+                                                 36
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 37 of 43
+
+
+
+
+other DoW leaders finalized various recommendations, memos, and determinations in support of
+
+designating Anthropic an “unacceptable national security threat.” (Dkt. No. 96-2 at 8.) Yet the
+
+day after the designation was finalized—and before it was communicated to Anthropic—Under
+
+Secretary Michael and Amodei cordially exchanged drafts of Anthropic’s usage terms, with
+
+Under Secretary Michael writing to Amodei: “After reviewing with our attorneys and seeing
+
+your last draft (thanks for being fast), I think we are very close here.” (Dkt. No. 114-1 at 2.) It is
+
+exceedingly difficult to square this correspondence with Under Secretary Michael’s
+
+contemporaneous characterization of Anthropic as a “hostile” company presenting an
+
+“intolerable” risk to covered systems and an “unacceptable national security threat.” (Dkt. No.
+
+96-2 at 8.) It is also difficult to harmonize the concerns discussed in the Michael Memo with
+
+Secretary Hegseth’s threat, three days earlier, to designate Anthropic as essential to national
+
+security under the Defense Production Act. (Dkt. No. 6-2 ¶ 16.) “Altogether, the evidence tells
+
+a story that does not match the explanation” given. Dep’t of Com., 588 U.S. at 784.
+
+       In sum, the contradictory positions, the procedural defects, and the rushed process
+
+following a public declaration of the foreordained conclusion all indicate that the actions were
+
+arbitrary and capricious. See, e.g., Nat’l TPS All. v. Noem, 166 F.4th 739, 774 (9th Cir. 2026)
+
+(Mendoza, J., concurring) (“Taken together, these deficiencies paint a picture of agency action
+
+that was not the product of reasoned decision-making, but of a rushed and pre-determined
+
+agenda masked by pretext.”). While arbitrary and capricious review is deferential, it is not an
+
+“empty ritual.” Dep’t of Com., 588 U.S. at 785. Agencies must “offer genuine justifications for
+
+important decisions, reasons that can be scrutinized by courts and the interested public.
+
+Accepting contrived reasons would defeat the purpose of the enterprise.” Id.
+
+       Thus, Anthropic has shown a likelihood of success on the merits of its arbitrary and
+
+capricious claim.19
+
+
+19
+   This Order does not reach the novel issues raised by Anthropic’s ultra vires challenge to the
+Presidential Directive because the Court has already found that Anthropic is likely to succeed on
+its First Amendment and Due Process Clause claims concerning the Directive.
+
+
+                                                 37
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 38 of 43
+
+
+
+       D.      Anthropic Has Shown a Likelihood of Irreparable Harm
+       “It is well established that the deprivation of constitutional rights unquestionably
+
+constitutes irreparable injury.” Hernandez v. Sessions, 872 F.3d 976, 994 (9th Cir. 2017)
+
+(quotation marks and citations omitted). Anthropic has shown that it is experiencing ongoing
+
+constitutional injuries. With respect to its First Amendment claim, Anthropic remains subject to
+
+the likely retaliatory Challenged Actions, and Defendants do not dispute that the Actions would
+
+chill a person of ordinary firmness from continuing to engage in the protected activity.
+
+Anthropic is not required to show that it has succumbed to the chilling effects of the Challenged
+
+Actions in order to be entitled to injunctive relief. Ariz. Students’ Ass’n, 824 F.3d at 867.
+
+       Anthropic’s due process injuries are likewise ongoing and significant. The Presidential
+
+Directive bars Anthropic from all present and future federal government contracting work
+
+despite the fact that, to this day, Anthropic has received no meaningful notice regarding the
+
+factual basis on which it was debarred and has had no pre- or post-deprivation opportunity to
+
+object to the debarment. As a result, Anthropic is likely to experience a “loss of opportunity to
+
+pursue [its] chosen profession,” which “constitutes irreparable harm.” See Ariz. Dream Act
+
+Coal. v. Brewer, 757 F.3d 1053, 1068 (9th Cir. 2014) (citations omitted). The Supply Chain
+
+Designation is also likely to cause irreparable harm to Anthropic’s liberty interests. Defendants
+
+have already started implementing the exclusion authorized by the designation, despite not
+
+giving Anthropic any pre-deprivation process. As a result, Anthropic has shown that it is
+
+experiencing a “loss of control over business reputation and damage to goodwill,” which
+
+“constitute[s] irreparable harm.” Herb Reed Enters., LLC v. Fla. Ent. Mgmt., Inc., 736 F.3d
+
+1239, 1250 (9th Cir. 2013) (citing Stuhlbarg Int’l Sales Co. v. John D. Brush & Co., 240 F.3d
+
+832, 841 (9th Cir. 2001)).
+
+       Anthropic has submitted concrete, non-speculative evidence of the ongoing harms to its
+
+liberty interests. Within days, many large enterprise customers signaled that publicly doing
+
+business with Anthropic over competitors was not worth it. (Dkt. No. 6-4 ¶ 16.) Three
+
+government contractor customers terminated their contracts with Anthropic, or were instructed to
+
+
+
+                                                 38
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26     Page 39 of 43
+
+
+
+
+do so by Defendants; three deals valued at over $180 million fell apart despite being on the verge
+
+of closing; potential partners demanded additional protective contractual provisions such as
+
+unilateral termination; customers asked to cut short their contracts or reduced their amount, in
+
+some instances specifically mentioning the Challenged Actions; and others switched from
+
+Claude to competing generative AI tools. (Dkt. No. 6-4 ¶¶ 11–19; Dkt. No. 6-3 ¶ 33.)
+
+Anthropic’s Chief Financial Officer, Krishna Rao, projects that, depending on how broadly
+
+Anthropic’s customers interpret the Challenged Actions, Anthropic could lose between hundreds
+
+of millions and multiple billions of dollars in 2026 revenue. (Dkt. No. 6-5 ¶ 6.) Moreover,
+
+Defendants do not contest that Anthropic will be unable to obtain compensatory relief from the
+
+government, making its economic harm likely irreparable. E. Bay Sanctuary Covenant v. Biden,
+
+993 F.3d 640, 677 (9th Cir. 2021); California v. Azar, 911 F.3d 558, 581 (9th Cir. 2018).20
+
+       As discussed above, Defendants disclaim any present intent to enforce the portion of the
+
+Hegseth Directive stating, “effective immediately, no contractor, supplier, or partner that does
+
+business with the United States military may conduct any commercial activity with Anthropic.”
+
+See supra Section II.F. However, Defendants declined to stipulate to enjoin this portion of the
+
+Hegseth Directive, asserting that they were “continuing to assess the situation” and “will take
+
+action as needed . . . to mitigate the risk from Anthropic.” (Dkt. No. 128 at 18–19.) Because
+
+Defendants appear to be reserving their rights with respect to the above statement, Anthropic has
+
+shown a sufficiently “immediate” danger of irreparable harm. Cf. Boardman v. Pac. Seafood
+
+Grp., 822 F.3d 1011, 1023 (9th Cir. 2016) (holding that the “threat of irreparable harm [was]
+
+sufficiently immediate to warrant preliminary injunctive relief,” notwithstanding a proposed
+
+
+
+20
+  Defendants suggest that Anthropic could recover for its economic harms via a breach of
+contract action in the Court of Federal Claims. But Anthropic’s challenge seeks injunctive relief
+as to the policies that blacklist Anthropic and bar it from government contracting, not to enforce
+the terms of any government contract. Such claims could not be brought in the Court of Federal
+Claims and would not entitle Anthropic to money damages. See, e.g., Washington v. United
+States Dep’t of Educ., 161 F.4th 1136, 1139–40 (9th Cir. 2025) (prospective vacatur of allegedly
+arbitrary and capricious policy not to renew grants was not within jurisdiction of the Court of
+Federal Claims).
+
+
+                                                39
+     Case 3:26-cv-01996-RFL           Document 134         Filed 03/26/26      Page 40 of 43
+
+
+
+
+stipulation by defendants, because of the “limited nature” of the stipulation offered).
+
+       Anthropic has shown that it is likely to suffer irreparable harm absent injunctive relief.
+
+       E.      The Balance of Equities and Public Interest Favor Anthropic
+       A likelihood that constitutional violations have occurred weighs heavily in favor of an
+
+injunction, because “all citizens have a stake in upholding the Constitution.” Hernandez, 872
+
+F.3d at 996 (quoting Preminger v. Principi, 422 F.3d 815, 826 (9th Cir. 2005)). In such
+
+circumstances, “the merged third and fourth factors [tip] decisively in [a plaintiffs’] favor.”
+
+Washington v. Trump, 145 F.4th 1013, 1037 (9th Cir. 2025) (quoting Baird, 81 F.4th at 1042).
+
+       In opposition, Defendants focus on one specific harm that they believe the government
+
+will suffer because of the preliminary injunction: the risk that “an AI model used in national
+
+security systems [would] be sabotaged by a hostile and untrustworthy corporate owner.” (Dkt.
+
+No. 96 at 36.) However, the preliminary injunctive relief that the Court authorizes does not
+
+require the government to continue to use Claude on its national security systems. Therefore,
+
+this harm does not weigh against granting injunctive relief. Defendants also briefly argue that
+
+the public interest is harmed if the government is unable to “effectuat[e] statutes enacted by
+
+representatives of its people.” (Id. at 37.) But “the rule of law is secured by a strong public
+
+interest that the laws ‘enacted by their representatives are not imperiled by executive fiat.’”
+
+Washington, 145 F.4th at 1037 (quoting E. Bay Sanctuary Covenant v. Trump, 932 F.3d 742, 779
+
+(9th Cir. 2018)). The government “cannot suffer harm from an injunction that merely ends an
+
+unlawful practice.” Rodriguez v. Robbins, 715 F.3d 1127, 1145 (9th Cir. 2013).
+
+       The balance of equities and public interest therefore decisively favor Anthropic. As
+
+already discussed, the financial and reputational harm that Anthropic is experiencing as a result
+
+of the likely unlawful Challenged Actions risk crippling the company. In addition, amici have
+
+credibly described significant harms to the public interest if injunctive relief is denied. A brief
+
+submitted by military leaders warns that the Challenged Actions “will materially detract from
+
+military readiness and operational safety.” (Dkt. No 58 at 14.) Employees from other major
+
+companies in the AI field explain that the Challenged Actions threaten to “chill open
+
+
+                                                 40
+        Case 3:26-cv-01996-RFL         Document 134        Filed 03/26/26      Page 41 of 43
+
+
+
+
+deliberation” and “professional debate” amongst the people best positioned to understand AI
+
+technology and its potential for “catastrophic misuse.” (Dkt. 24-1 at 6, 8, 9.) A nonprofit
+
+advocacy group for small developers explains that their members are particularly vulnerable to
+
+sudden, large changes in government procedures, and the confusion and ambiguity created by the
+
+Challenged Actions will impose significant costs on them. (Dkt. No. 73 at 4–5.)
+
+         For all these reasons, the balance of equities and public interest favor Anthropic.
+
+VI.      REQUEST FOR BOND AND FOR A STAY
+         In light of Anthropic’s non-opposition, Defendants’ request for an administrative stay for
+
+seven days to allow the United States to seek an emergency, expedited stay from the court of
+
+appeals is GRANTED.
+
+         Defendants also seek to have the Court impose a bond under Federal Rule of Civil
+
+Procedure 65(c) because “any preliminary relief would potentially mandate that the Executive
+
+spend money on unneeded and unwanted uses of Anthropic’s technology that may be lost forever
+
+once distributed.” (Dkt. No. 96 at 39.) Under Rule 65(c), it is up to the Court’s discretion what
+
+amount of security is required, if any. Johnson v. Couturier, 572 F.3d 1067, 1086 (9th Cir.
+
+2009). The preliminary injunction does not mandate that the government purchase Anthropic’s
+
+products, so Defendants have not made any showing of the costs or damages they will sustain as
+
+a result of the injunction. Id.; see also Fed. R. Civ. P. 65(c). In light of Anthropic’s showing on
+
+the merits, and the lack of evidence of harm to Defendants, the Court sets a nominal bond of
+
+$100.
+
+VII.     SCOPE OF INJUNCTIVE RELIEF
+         Anthropic seeks to enjoin the following Agencies: DoW, U.S. Department of State,
+
+HHS, U.S. Office of Personnel Management, U.S. Nuclear Regulatory Commission, U.S.
+
+Department of the Treasury, U.S. Department of Commerce, U.S. Social Security
+
+Administration, U.S. Department of Homeland Security, Securities and Exchange Commission,
+
+National Aeronautics and Space Administration, U.S. Department of Energy, Federal Reserve
+
+Board of Governors, National Endowment for the Arts, Federal Housing Finance Agency, U.S.
+
+
+                                                  41
+     Case 3:26-cv-01996-RFL            Document 134        Filed 03/26/26      Page 42 of 43
+
+
+
+
+Department of Veterans Affairs, and GSA (together with their respective agency heads, the
+
+“Defendant Agencies”). Anthropic also seeks to enjoin the Executive Office of the President
+
+(“EOP”).
+
+       Anthropic has introduced evidence that all of the Defendant Agencies either (1) “have
+
+contracts to use Anthropic’s technology or use Anthropic’s technology through a third-party
+
+provider,” (2) “have indicated they would be terminating the contracts or terminating uses of
+
+Anthropic’s technology since February 27, 2026,” or (3) facilitate other agencies’ access to
+
+Anthropic’s technology. (Dkt. No. 126 ¶ 3–5.) Because the Presidential Directive orders all
+
+federal agencies to immediately and permanently cease all use of Anthropic’s technology,
+
+Anthropic has made the necessary showing that the Court may enjoin each of the Defendant
+
+Agencies from implementing the Presidential Directive. Anthropic has also shown that it is
+
+entitled to injunctive relief against DoW and Defendant Secretary Hegseth with respect to the
+
+Hegseth Directive and the Supply Chain Designation.21
+
+       At oral argument, Counsel for Anthropic indicated that it was seeking an injunction
+
+against the EOP because of “its likely role in carrying out” the Presidential Directive. (Dkt. No.
+
+128 at 47.) However, because there is no record evidence that EOP has taken any action to carry
+
+out the Presidential Directive, no injunctive relief will issue as to EOP at this time. Like all other
+
+persons, EOP is barred from acting for, with, by, through, or under authority from any enjoined
+
+Defendant, or in concert or participation with any enjoined Defendant, in any manner
+
+inconsistent with the preliminary injunction order.
+
+
+
+
+21
+   Defendants argue that no jurisdiction exists over Anthropic’s “challenge to an agency’s
+termination of any contractual relationship with Anthropic” because such claims belong in the
+Court of Federal Claims. (Dkt. No. 131 at 2.) But Anthropic seeks to enjoin policies rather than
+to undo contract terminations, and it asserts constitutional challenges. Therefore, the Court has
+jurisdiction to issue injunctive relief. See Nat’l Insts. of Health v. Am. Pub. Health Ass’n, 145 S.
+Ct. 2658, 2661 (2025) (Barrett, J., concurring) (stating that policy guidance related to contracts
+could likely be challenged in district court); Cooper v. United States, 771 F. App’x 997, 1000–01
+(Fed. Cir. 2019) (holding that Due Process Clause and First Amendment claims did not provide a
+cause of action under the Tucker Act because they were not “money mandating”).
+
+
+                                                 42
+     Case 3:26-cv-01996-RFL           Document 134        Filed 03/26/26      Page 43 of 43
+
+
+
+VIII. CONCLUSION
+       For the forgoing reasons, Anthropic’s Motion for Preliminary Injunction (Dkt. No. 6) is
+
+GRANTED as modified. A separate order concerning Anthropic’s request for a Section 705
+
+stay and preliminary injunctive relief will issue, but is hereby stayed for seven days.
+
+
+
+       IT IS SO ORDERED.
+
+Dated: March 26, 2026
+
+
+                                                              RITA F. LIN
+                                                              United States District Judge
+
+
+
+
+                                                 43
+

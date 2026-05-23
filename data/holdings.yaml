@@ -1,0 +1,133 @@
+# Court rulings, chronological.
+# court: ndcal | dccir | ca9
+
+- date: 2026-03-26
+  court: ndcal
+  judge: Rita F. Lin
+  caption: Order granting motion for preliminary injunction
+  docket_entries: [134, 135]
+  bottom_line: |
+    Preliminary injunction granted against all named Defendant Agencies and Secretary
+    Hegseth. The order restores the status quo as of February 27, 2026, by enjoining
+    the Presidential Directive, the Hegseth Directive's contractor blacklist, and the
+    10 U.S.C. § 3252 Supply Chain Designation. The Hegseth Directive and Supply Chain
+    Designation are also stayed under 5 U.S.C. § 705. Bond: $100. Seven-day administrative
+    stay (expired April 2, 2026). EOP not enjoined for lack of record evidence of
+    implementing action.
+  theories:
+    - issue: First Amendment retaliation
+      issue_slug: first-amendment-retaliation
+      result: Likelihood of success
+    - issue: Fifth Amendment due process
+      issue_slug: due-process
+      result: Likelihood of success
+    - issue: APA (§ 3252 — text, procedure, pretext)
+      issue_slug: apa-supply-chain
+      result: Likelihood of success
+    - issue: Ultra vires (Presidential Directive)
+      issue_slug: ultra-vires
+      result: Not reached
+  key_quotes:
+    - quote: |
+        Reading "supply chain risk" to reach a vendor's negotiating posture would make
+        Section 3252's restrictions on the Secretary's discretion meaningless.
+      page: ~
+    - quote: |
+        The Court is not required to "exhibit a naiveté from which ordinary citizens are
+        free." (citing Dep't of Commerce v. New York)
+      page: ~
+  local_doc: source-docs/134-pi-opinion.txt
+  courtlistener_url: https://www.courtlistener.com/docket/72379655/134/anthropic-pbc-v-us-department-of-war/
+  sources:
+    - kind: opinion
+      label: PI Order
+      cite: Dkt. 134, N.D. Cal., Mar. 26, 2026
+      url: https://www.courtlistener.com/docket/72379655/134/anthropic-pbc-v-us-department-of-war/
+      local_path: source-docs/ndcal-134.pdf
+    - kind: order
+      label: Preliminary Injunction
+      cite: Dkt. 135, N.D. Cal., Mar. 26, 2026
+      url: https://www.courtlistener.com/docket/72379655/135/anthropic-pbc-v-us-department-of-war/
+      local_path: source-docs/ndcal-135.pdf
+    - kind: filing
+      label: Anthropic's motion for TRO, PI, and § 705 stay
+      cite: Dkt. 6, N.D. Cal., Mar. 9, 2026
+      url: https://www.courtlistener.com/docket/72379655/6/anthropic-pbc-v-us-department-of-war/
+      local_path: source-docs/ndcal-6.pdf
+    - kind: filing
+      label: Government's opposition
+      cite: Dkt. 96, N.D. Cal., Mar. 17, 2026
+      url: https://www.courtlistener.com/docket/72379655/96/anthropic-pbc-v-us-department-of-war/
+      local_path: source-docs/ndcal-96.pdf
+    - kind: filing
+      label: Anthropic's reply
+      cite: Dkt. 113, N.D. Cal., Mar. 20, 2026
+      url: https://www.courtlistener.com/docket/72379655/113/anthropic-pbc-v-us-department-of-war/
+      local_path: source-docs/ndcal-113.pdf
+
+- date: 2026-04-20
+  court: dccir
+  panel: Wilkins, Katsas, Rao
+  caption: Per curiam order denying motion for emergency stay
+  bottom_line: |
+    Anthropic's emergency stay motion denied per curiam. Decision is procedural rather
+    than a merits signal. The FASCSA designation accordingly remains in some operational
+    effect during the pendency of the petition, subject to Anthropic's parallel § 3252
+    injunction in N.D. Cal.
+  sources:
+    - kind: order
+      label: Per Curiam Order denying emergency stay
+      cite: D.C. Cir. No. 26-1049, Apr. 20, 2026
+      url: https://www.courtlistener.com/docket/72380208/anthropic-pbc-v-united-states-department-of-war/
+    - kind: filing
+      label: Anthropic's emergency motion for stay
+      cite: D.C. Cir. No. 26-1049, Mar. 11, 2026
+      local_path: source-docs/dccir-01208829653.pdf
+    - kind: filing
+      label: Government's response in opposition
+      cite: D.C. Cir. No. 26-1049, Mar. 19, 2026
+      local_path: source-docs/dccir-01208832389.pdf
+    - kind: filing
+      label: Anthropic's reply
+      cite: D.C. Cir. No. 26-1049, Mar. 23, 2026
+      local_path: source-docs/dccir-01208833581.pdf
+
+- date: 2026-04-27
+  court: ca9
+  caption: Order staying appellate proceedings
+  bottom_line: |
+    Government's unopposed motion to stay the interlocutory appeal granted. Appeal is
+    dormant pending resolution of D.C. Cir. No. 26-1049. Government must move for relief
+    within 21 days after the D.C. Cir. resolves the parallel case.
+  sources:
+    - kind: order
+      label: Order Staying Proceedings
+      cite: 9th Cir. No. 26-2011, Apr. 27, 2026
+      local_path: source-docs/ca9-17.pdf
+    - kind: filing
+      label: Government's motion to stay
+      cite: 9th Cir. No. 26-2011, Apr. 22, 2026
+      local_path: source-docs/ca9-13.pdf
+
+- date: 2026-05-21
+  court: dccir
+  panel: Henderson, Katsas, Rao
+  caption: Order for supplemental briefing
+  bottom_line: |
+    Following the May 19 oral argument, the panel ordered supplemental briefs (not to
+    exceed 2,500 words). Originally due May 28; extended to June 4 on joint motion.
+    The order is consistent with the panel actively working through one or more of the
+    three pre-ordered argument issues.
+  sources:
+    - kind: order
+      label: Per Curiam Order for supplemental briefing
+      cite: D.C. Cir. No. 26-1049, May 21, 2026
+      local_path: source-docs/dccir-01208852327.pdf
+    - kind: order
+      label: Per Curiam Order granting extension to June 4
+      cite: D.C. Cir. No. 26-1049
+      local_path: source-docs/dccir-01208852954.pdf
+    - kind: filing
+      label: Oral argument minute entry (May 19, 2026)
+      cite: D.C. Cir. No. 26-1049
+      local_path: source-docs/dccir-01208851556.pdf

@@ -1,0 +1,88 @@
+# Auto-generated from ninth-cir-entries.tsv.
+# Source of truth for descriptions: the underlying TSV in /dockets/.
+# Add manual notes by appending `notes:` keys to individual entries;
+# do not re-run scripts/build_docket_yaml.py after annotating, or your
+# notes will be overwritten.
+#
+# Importance heuristic: 'high' | 'medium' | 'low'. Reviewer should
+# promote/demote as needed.
+#
+# CourtListener docket: https://www.courtlistener.com/docket/73136734/
+- entry: '1'
+  date: '2026-04-02'
+  description: CASE OPENED. A copy of your notice of appeal / petition filed in 3:26-cv-01996-RFL has been received in the Clerk's office of the United States Court of Appeals for the Ninth Circuit. The
+    U.S. Court of Appeals docket nu…
+  importance: low
+- entry: '2'
+  date: '2026-04-02'
+  description: PRELIMINARY INJUNCTION SCHEDULE NOTICE. Mediation Questionnaire due (Appellant) 4/7/2026, Preliminary Injunction Opening Brief Due (Appellant) 4/30/2026, Preliminary Injunction Answering
+    Brief Due (Appellee) 5/28/2026.…
+  importance: low
+- entry: '3'
+  date: '2026-04-02'
+  description: NOTICE OF APPEARANCE by Sharon Swingle for Appellant Board of Governors of the Federal Reserve System, Appellant Chris Wright, Appellant Douglas A. Collins, Appellant Edward C. Forst, Appellant
+    Executive Office of the P…
+  importance: low
+- entry: '4'
+  date: '2026-04-02'
+  description: NOTICE OF APPEARANCE by Sean Janda for Appellant Board of Governors of the Federal Reserve System, Appellant Chris Wright, Appellant Douglas A. Collins, Appellant Edward C. Forst, Appellant
+    Executive Office of the Presi…
+  importance: low
+- entry: '5'
+  date: '2026-04-02'
+  description: 'Attorney Sharon Swingle as Counsel for Appellant, Sean Janda as Counsel for Appellant substituted for Attorney James W. Harlow. [Entered: 04/02/2026 01:54 PM]'
+  importance: low
+- entry: '6'
+  date: '2026-04-03'
+  description: NOTICE OF APPEARANCE by Brian J Springer for Appellant Board of Governors of the Federal Reserve System, Appellant Chris Wright, Appellant Douglas A. Collins, Appellant Edward C. Forst, Appellant
+    Executive Office of the…
+  importance: low
+- entry: '7'
+  date: '2026-04-03'
+  description: 'ADDED Counsel for Appellant Brian J Springer [Entered: 04/03/2026 10:43 AM]'
+  importance: low
+- entry: '8'
+  date: '2026-04-06'
+  description: 'NOTICE OF APPEARANCE by Michael J. Mongan for Appellee Anthropic, PBC. [Entered: 04/06/2026 06:21 AM]'
+  importance: low
+- entry: '9'
+  date: '2026-04-06'
+  description: 'ADDED Counsel for Appellee Michael J. Mongan [Entered: 04/06/2026 10:56 AM]'
+  importance: low
+- entry: '10'
+  date: '2026-04-08'
+  description: MEDIATION QUESTIONNAIRE filed by Appellant United States Department of War, Appellant United States Department of the Treasury, Appellant Federal Housing Finance Agency, Appellant United
+    States Department of State, Appe…
+  importance: low
+- entry: '11'
+  date: '2026-04-09'
+  description: 'MEDIATION ORDER: By 4/16/2026, counsel to email Circuit Mediator regarding settlement potential. Include Ninth Circuit case name and number in subject line. This communication will be kept
+    confidential, if requested, an…'
+  importance: medium
+- entry: '12'
+  date: '2026-04-15'
+  description: 'DISCLOSURE STATEMENT pursuant to FRAP 26.1 and CR 26.1-1 filed by Appellee Anthropic, PBC. [Entered: 04/15/2026 05:49 PM]'
+  importance: low
+- entry: '13'
+  date: '2026-04-22'
+  description: MOTION to Stay Proceedings in this Court filed by Appellant United States Department of War, Appellant United States Department of the Treasury, Appellant Federal Housing Finance Agency,
+    Appellant United States Departme…
+  importance: medium
+- entry: '14'
+  date: '2026-04-22'
+  description: MOTION to Extend Time to File Brief filed by Appellant United States Department of War, Appellant United States Department of the Treasury, Appellant Federal Housing Finance Agency, Appellant
+    United States Department of…
+  importance: medium
+- entry: '15'
+  date: '2026-04-24'
+  description: 'RESPONSE to Motion to Stay Proceedings in this Court (DE 13) filed by Appellee Anthropic, PBC. [Entered: 04/24/2026 01:34 PM]'
+  importance: medium
+- entry: '16'
+  date: '2026-04-24'
+  description: 'RESPONSE to Motion to Extend Time to File Brief (DE 14) filed by Appellee Anthropic, PBC. [Entered: 04/24/2026 01:35 PM]'
+  importance: medium
+- entry: '17'
+  date: '2026-04-27'
+  description: ORDER FILED. The unopposed motion (Docket Entry No. 13) to stay appellate proceedings is granted. Any party may move to lift the stay of proceedings at any time. Appellants must file a motion
+    for appropriate relief with…
+  importance: medium

@@ -1,0 +1,418 @@
+# Auto-generated from dccir-entries.tsv.
+# Source of truth for descriptions: the underlying TSV in /dockets/.
+# Add manual notes by appending `notes:` keys to individual entries;
+# do not re-run scripts/build_docket_yaml.py after annotating, or your
+# notes will be overwritten.
+#
+# Importance heuristic: 'high' | 'medium' | 'low'. Reviewer should
+# promote/demote as needed.
+#
+# CourtListener docket: https://www.courtlistener.com/docket/72380208/
+- entry: '-'
+  date: '2026-03-09'
+  description: 'PETITION FOR REVIEW CASE docketed. [26-1049] [Entered: 03/09/2026 12:26 PM]'
+  importance: high
+- entry: '1208828684'
+  date: '2026-03-09'
+  description: 'PETITION FOR REVIEW [2162687] of a decision by federal agency filed by Anthropic PBC [Service Date: 03/09/2026] Disclosure Statement: Attached. [26-1049] [Entered: 03/09/2026 12:27 PM]'
+  importance: high
+- entry: '1208828687'
+  date: '2026-03-09'
+  description: 'CERTIFIED COPY [2162688] of Petition for Review sent to respondent [2162687-2]. [26-1049] [Entered: 03/09/2026 12:28 PM]'
+  importance: low
+- entry: '1208828702'
+  date: '2026-03-09'
+  description: 'CLERK''S ORDER [2162695] filed directing the parties to file initial submissions: PETITIONER docketing statement due 04/08/2026. PETITIONER certificate as to parties due 04/08/2026. PETITIONER
+    statement of issues due 04/…'
+  importance: low
+- entry: '1208829345'
+  date: '2026-03-10'
+  description: 'ENTRY OF APPEARANCE [2163025] filed by Sharon Swingle and co-counsel Sean R. Janda; Brian J. Springer on behalf of Respondents Peter B. Hegseth and United States Department of War. [26-1049]
+    (Janda, Sean) [Entered: 03/1…'
+  importance: low
+- entry: '1208829653'
+  date: '2026-03-11'
+  description: 'EMERGENCY MOTION [2163176] to stay underlying order pending appeal filed by Anthropic PBC (Service Date: 03/11/2026 by CM/ECF NDA) Length Certification: 5,188 Words. [26-1049] (Dunbar, Kelly)
+    [Entered: 03/11/2026 11:15…'
+  importance: high
+- entry: '1208829661'
+  date: '2026-03-12'
+  description: 'MOTION [2163178] to participate as amicus curiae [Disclosure Listing: Attached] filed by Foundation for American Innovation, Fifty Years, Fathom, ChinaTalk, Martin Chorzempa, Alex Imas,
+    Pangram, Institute for Progress,…'
+  importance: medium
+- entry: '1208829735'
+  date: '2026-03-12'
+  description: AMICUS FOR PETITIONER BRIEF [2163215] lodged by Dean Ball, ChinaTalk, Martin Chorzempa, Fathom, Fifty Years, Foundation for American Innovation, Alex Imas, Institute for Progress, Saif Khan,
+    Pangram, Dwarkesh Patel and…
+  importance: medium
+- entry: '1208829854'
+  date: '2026-03-12'
+  description: 'MOTION [2163273] to participate as amicus curiae [Disclosure Listing: Not Applicable to this Party] filed by Former Service Secretaries and Retired Senior Military Officers [Service Date:
+    03/12/2026 ] [26-1049] (Harring…'
+  importance: medium
+- entry: '1208829888'
+  date: '2026-03-12'
+  description: 'AMICUS FOR PETITIONER BRIEF [2163300] lodged by Former Service Secretaries and Retired Senior Military Officers [Service Date: 03/12/2026 ] Length of Brief: 3,755 words. [26-1049] [Entered:
+    03/12/2026 02:41 PM]'
+  importance: medium
+- entry: '1208830023'
+  date: '2026-03-12'
+  description: 'CONSENT NOTICE [2163366] of intention to participate as amicus curiae [Disclosure Listing: Attached] filed by Employees of Open AI and Google in Their Personal Capacities [Service Date:
+    03/12/2026 ] [26-1049] (Lev, Ori)…'
+  importance: medium
+- entry: '1208830045'
+  date: '2026-03-12'
+  description: AMICUS FOR PETITIONER BRIEF [2163373] filed by Foundation for Individual Rights and Expression, Electronic Frontier Foundation, Cato Institute, Chamber of Progress, and First Amendment Lawyers
+    Association [Service Date:…
+  importance: medium
+- entry: '1208830127'
+  date: '2026-03-13'
+  description: 'CONSENT AMICUS FOR PETITIONER BRIEF [2163420] filed by Employees of OpenAI and Google in Their Personal Capacities [Service Date: 03/13/2026 ] Length of Brief: 3,282. [26-1049] (Lev, Ori)
+    [Entered: 03/13/2026 09:28 AM]'
+  importance: medium
+- entry: '1208830145'
+  date: '2026-03-13'
+  description: 'PER CURIAM ORDER [2163428] filed ORDERED that respondents file a response to the emergency motion for a stay [2163176-2] by March 19, 2026. Petitioner’s reply is due by March 23, 2026. Before
+    Judges: Wilkins, Katsas and…'
+  importance: high
+- entry: '1208830425'
+  date: '2026-03-13'
+  description: 'CONSENT NOTICE [2163584] of intention to participate as amicus curiae [Disclosure Listing: Not Applicable to this Party] filed by Professor Alan Z. Rozenshtein [Service Date: 03/13/2026
+    ] [26-1049] (Theodore, Elisabeth)…'
+  importance: medium
+- entry: '1208830434'
+  date: '2026-03-13'
+  description: 'AMICUS FOR PETITIONER BRIEF [2163588] filed by Professor Alan Z. Rozenshtein [Service Date: 03/13/2026 ] Length of Brief: 4,383 Words. [26-1049] (Theodore, Elisabeth) [Entered: 03/13/2026
+    03:54 PM]'
+  importance: medium
+- entry: '1208830529'
+  date: '2026-03-13'
+  description: 'AMICUS FOR PETITIONER BRIEF [2163623] filed by Freedom Economy Business Association [Service Date: 03/13/2026 ] Length of Brief: 2,449. [26-1049] (Harris, George) [Entered: 03/13/2026 11:56
+    PM]'
+  importance: medium
+- entry: '1208830718'
+  date: '2026-03-13'
+  description: ENTRY OF APPEARANCE [2163740] filed by Mr. George C. Harris for Freedom Economy Business Association, Candide Group, Howard Fischer, Thomas Haslett, Investor Advocates for Social Justice,
+    Mission Driven Finance, The Nat…
+  importance: low
+- entry: '1208831045'
+  date: '2026-03-16'
+  description: 'MOTION [2163901] to participate as amicus curiae [Disclosure Listing: Attached] filed by Former Senior National Security Government Officials [Service Date: 03/16/2026 ] [26-1049] (Loeb,
+    Alexis) [Entered: 03/16/2026 05:…'
+  importance: medium
+- entry: '1208831066'
+  date: '2026-03-16'
+  description: 'MOTION [2163907] to participate as amicus curiae [Disclosure Listing: Attached] filed by American Civil Liberties Union and Center for Democracy & Technology [Service Date: 03/16/2026 ]
+    [26-1049] (Gorski, Ashley) [Enter…'
+  importance: medium
+- entry: '1208831071'
+  date: '2026-03-16'
+  description: 'AMICUS FOR PETITIONER BRIEF [2163908] lodged by Former Senior National Security Government Officials [Service Date: 03/16/2026 ] Length of Brief: 6,132 Words. [26-1049] [Edited 03/17/2026
+    by EKC--MODIFIED EVENT FROM FIL…'
+  importance: medium
+- entry: '1208831083'
+  date: '2026-03-16'
+  description: 'AMENDED AMICUS FOR PETITIONER BRIEF [2163912] filed by Freedom Economy Business Association [Service Date: 03/16/2026 ] Length of Brief: 2,449. [26-1049]--[Edited 03/17/2026 by EKC] (Harris,
+    George) [Entered: 03/16/2026…'
+  importance: medium
+- entry: '1208831087'
+  date: '2026-03-16'
+  description: 'MOTION [2163913] to participate as amicus curiae [Disclosure Listing: Not Applicable to this Party] filed by Catholic Theologians and Ethicists [Service Date: 03/16/2026 ] [26-1049] (Klubes,
+    Benjamin) [Entered: 03/16/20…'
+  importance: medium
+- entry: '1208831090'
+  date: '2026-03-16'
+  description: 'AMICUS FOR PETITIONER BRIEF [2163914] lodged by Catholic Theologians and Ethicists [Service Date: 03/16/2026 ] Length of Brief: 2,580 words. [26-1049] [Edited 03/17/2026 by EKC--MODIFIED
+    EVENT FROM FILED TO LODGED] (Klu…'
+  importance: medium
+- entry: '1208831117'
+  date: '2026-03-16'
+  description: 'MOTION [2163923] to participate as amicus curiae [Disclosure Listing: Attached] filed by TechNet, Software & Information Industry Association, Computer & Communications Industry Association,
+    Information Technology Indus…'
+  importance: medium
+- entry: '1208831120'
+  date: '2026-03-16'
+  description: 'AMICUS FOR PETITIONER BRIEF [2163924] lodged by TechNet, Software & Information Industry Association, Computer & Communications Industry Association, Information Technology Industry Council
+    [Service Date: 03/16/2026 ] L…'
+  importance: medium
+- entry: '1208831430'
+  date: '2026-03-16'
+  description: ENTRY OF APPEARANCE [2164097] filed by Ashley Gorski for American Civil Liberties Union and Center for Democracy and Technology and Patrick Toomey for American Civil Liberties Union and Center
+    for Democracy and Technolo…
+  importance: low
+- entry: '1208831436'
+  date: '2026-03-16'
+  description: 'AMICUS FOR PETITIONER BRIEF [2164098] lodged by American Civil Liberties Union and Center for Democracy and Technology [Service Date: 03/16/2026 ] Length of Brief: 6,486 words. [26-1049]
+    [Entered: 03/17/2026 03:18 PM]'
+  importance: medium
+- entry: '1208831446'
+  date: '2026-03-17'
+  description: 'NOTICE [2164108] of intention to participate as amicus curiae [Disclosure Listing: Attached] filed by ACT | The App Association [Service Date: 03/17/2026 ] [26-1049] (Scarpelli, Brian) [Entered:
+    03/17/2026 03:25 PM]'
+  importance: medium
+- entry: '1208831460'
+  date: '2026-03-17'
+  description: 'MOTION [2164113] to participate as amicus curiae [Disclosure Listing: Attached] filed by ACT | The App Association [Service Date: 03/17/2026 ] [26-1049] (Scarpelli, Brian) [Entered: 03/17/2026
+    03:36 PM]'
+  importance: medium
+- entry: '1208831539'
+  date: '2026-03-17'
+  description: 'CORRECTED AMICUS FOR PETITIONER BRIEF [2164145] lodged by Former Senior National Security Government Officials [Service Date: 03/17/2026 ] Length of Brief: 6,132 Words. [26-1049] [Edited
+    03/18/2026 by EKC--MODIFIED EVEN…'
+  importance: medium
+- entry: '1208831564'
+  date: '2026-03-17'
+  description: 'MOTION [2164155] to participate as amicus curiae [Disclosure Listing: Attached] filed by 149 Former Judges and Democracy Defenders Fund [Service Date: 03/17/2026 ] [26-1049] (Brill, Sophia)
+    [Entered: 03/17/2026 08:14 PM]'
+  importance: medium
+- entry: '1208831569'
+  date: '2026-03-17'
+  description: 'AMICUS FOR PETITIONER BRIEF [2164156] lodged by 149 Former Judges and Democracy Defenders Fund [Service Date: 03/17/2026 ] Length of Brief: 4,224 words. [26-1049] [Edited 03/18/2026 by EKC--MODIFIED
+    EVENT FROM FILED TO…'
+  importance: medium
+- entry: '1208831708'
+  date: '2026-03-17'
+  description: 'AMICUS FOR PETITIONER BRIEF [2164233] lodged by ACT | The App Association [Service Date: 03/17/2026 ] Length of Brief: 2,103 words. [26-1049] [Entered: 03/18/2026 01:05 PM]'
+  importance: medium
+- entry: '1208832389'
+  date: '2026-03-19'
+  description: 'RESPONSE IN OPPOSITION [2164558] to motion [2163176-2] filed by Peter B. Hegseth and United States Department of War [Service Date: 03/19/2026 by CM/ECF NDA] Length Certification: 5162 words.
+    [26-1049] (Janda, Sean) [En…'
+  importance: high
+- entry: '1208833581'
+  date: '2026-03-23'
+  description: 'REPLY [2165167] filed by Anthropic PBC to response [Service Date: 03/23/2026 by CM/ECF NDA] Length Certification: 2,600 Words. [26-1049] (Dunbar, Kelly) [Entered: 03/23/2026 08:19 PM]'
+  importance: low
+- entry: '1208834843'
+  date: '2026-03-26'
+  description: 'LETTER [2165837] pursuant to FRAP 28j advising of additional authorities filed by Anthropic PBC [Service Date: 03/26/2026 ] [26-1049] (Dunbar, Kelly) [Entered: 03/26/2026 10:08 PM]'
+  importance: low
+- entry: '-'
+  date: '2026-04-06'
+  description: '[DENIED BY ORDER FILED 4/20/26] MOTION 2167990 to participate as amicus curiae combined with AMICUS FOR PETITIONER BRIEF lodged by James Lakner [Service Date: 04/02/2026] Length of Brief:
+    1 page. [26-1049] [Entered: 04/…'
+  importance: medium
+- entry: '1208839342'
+  date: '2026-04-06'
+  description: 'MOTION [2167990] to participate as amicus curiae combined with AMICUS FOR PETITIONER BRIEF lodged by James Lakner [Service Date: 04/02/2026] Length of Brief: 1 page. [26-1049] [Entered:
+    04/10/2026 11:41 AM]'
+  importance: medium
+- entry: '1208838607'
+  date: '2026-04-08'
+  description: 'DOCKETING STATEMENT [2167654] filed by Anthropic PBC [Service Date: 04/08/2026 ] [26-1049] (Dunbar, Kelly) [Entered: 04/08/2026 03:32 PM]'
+  importance: low
+- entry: '1208838607'
+  date: '2026-04-08'
+  description: 'DOCKETING STATEMENT [2167654] filed by Anthropic PBC [Service Date: 04/08/2026 ] [26-1049] (Dunbar, Kelly) [Entered: 04/08/2026 03:32 PM]'
+  importance: low
+- entry: '1208838610'
+  date: '2026-04-08'
+  description: 'CERTIFICATE AS TO PARTIES, RULINGS AND RELATED CASES [2167655] filed by Anthropic PBC [Service Date: 04/08/2026 ] [26-1049] (Dunbar, Kelly) [Entered: 04/08/2026 03:34 PM]'
+  importance: low
+- entry: '1208838613'
+  date: '2026-04-08'
+  description: 'STATEMENT OF ISSUES [2167656] filed by Anthropic PBC [Service Date: 04/08/2026 ] [26-1049] (Dunbar, Kelly) [Entered: 04/08/2026 03:38 PM]'
+  importance: low
+- entry: '1208838616'
+  date: '2026-04-08'
+  description: 'UNDERLYING DECISION IN CASE [2167657] submitted by Anthropic PBC [Service Date: 04/08/2026 ] [26-1049] (Dunbar, Kelly) [Entered: 04/08/2026 03:40 PM]'
+  importance: low
+- entry: '1208838622'
+  date: '2026-04-08'
+  description: 'STATEMENT OF INTENT REGARDING APPENDIX DEFERRAL [2167658] filed by Anthropic PBC [Service Date: 04/08/2026 ] Intent: AppxDeferred [26-1049] (Dunbar, Kelly) [Entered: 04/08/2026 03:42 PM]'
+  importance: low
+- entry: '1208838678'
+  date: '2026-04-08'
+  description: PER CURIAM ORDER (with Per Curiam Statement attached) [2167684] filed granting motions to participate as amicus curiae [2164155-2], [2164113-2], [2163923-2], [2163913-2], [2163907-2], granting
+    motion to participate as a…
+  importance: high
+- entry: '-'
+  date: '2026-04-08'
+  description: PER ABOVE ORDER lodged Amicus brief [2164233-2], Amicus brief [2164156-2], Amicus brief [2164145-2], Amicus brief [2164098-2], Amicus brief [2163924-2], Amicus brief [2163914-2], Amicus brief
+    [2163300-2], Amicus brief […
+  importance: medium
+- entry: '1208842447'
+  date: '2026-04-20'
+  description: 'PER CURIAM ORDER [2169502] filed denying motion of James Lakner to participate as amicus curiae [2167990-2]. The Clerk is directed to note the docket accordingly. Before Judges: Henderson,
+    Katsas and Rao. [26-1049] [Ent…'
+  importance: high
+- entry: '1208843021'
+  date: '2026-04-22'
+  description: AMICUS FOR PETITIONER BRIEF [2169767] filed by Foundation for American Innovation, Fifty Years, Fathom, ChinaTalk, Martin Chorzempa, Alex Imas, Pangram, Institute for Progress, Dean Ball,
+    Dwarkesh Patel, Roots of Progre…
+  importance: medium
+- entry: '1208843139'
+  date: '2026-04-22'
+  description: 'CONSENT AMICUS FOR PETITIONER BRIEF [2169853] filed by Taxpayers Protection Alliance Foundation [Service Date: 04/22/2026 ] Length of Brief: 3822 words. [26-1049] (Smith, Barbara) [Entered:
+    04/22/2026 01:35 PM]'
+  importance: medium
+- entry: '1208843177'
+  date: '2026-04-22'
+  description: ENTRY OF APPEARANCE [2169865] filed by Josephine K. Petrick on behalf of Amici Curiae for Petitioner Freedom Economy Business Association, The Nathan Cummings Foundation, Inc., Candide Group,
+    Howard Fischer, Thomas Hasl…
+  importance: low
+- entry: '1208843183'
+  date: '2026-04-22'
+  description: AMICUS FOR PETITIONER BRIEF [2169868] filed by Freedom Economy Business Association, Candide Group, Howard Fischer, Thomas Haslett, Humanize Wealth, Investor Advocates for Social Justice,
+    Mission Driven Finance, John O'…
+  importance: medium
+- entry: '1208843262'
+  date: '2026-04-22'
+  description: 'AMICUS FOR PETITIONER FINAL BRIEF [2169900] filed by Catholic Moral Theologians and Ethicists Catholic Theologians and Ethicists [Service Date: 04/22/2026 ] Length of Brief: 2,605 words.
+    [26-1049] (Klubes, Benjamin) [En…'
+  importance: medium
+- entry: '1208843288'
+  date: '2026-04-22'
+  description: 'AMICUS FOR PETITIONER BRIEF [2169913] filed by Former Senior National Security Government Officials [Service Date: 04/22/2026 ] Length of Brief: 6,490 words. [26-1049] (Loeb, Alexis) [Entered:
+    04/22/2026 04:55 PM]'
+  importance: medium
+- entry: '1208843319'
+  date: '2026-04-22'
+  description: 'CONSENT NOTICE [2169923] of intention to participate as amicus curiae [Disclosure Listing: Attached] filed by Employees of Open AI and Google in Their Personal Capacities [Service Date:
+    04/22/2026 ] [26-1049] (Lev, Ori)…'
+  importance: medium
+- entry: '1208843334'
+  date: '2026-04-22'
+  description: 'CONSENT AMICUS FOR PETITIONER BRIEF [2169928] filed by Employees of OpenAI and Google in their personal capacities [Service Date: 04/22/2026 ] Length of Brief: 3,282 Words. [26-1049] (Lev,
+    Ori) [Entered: 04/22/2026 05:2…'
+  importance: medium
+- entry: '1208843337'
+  date: '2026-04-22'
+  description: 'CONSENT AMICUS FOR PETITIONER BRIEF [2169929] filed by American Civil Liberties Union and Center for Democracy and Technology [Service Date: 04/22/2026 ] Length of Brief: 6,496 words. [26-1049]
+    (Gorski, Ashley) [Entered…'
+  importance: medium
+- entry: '1208843343'
+  date: '2026-04-22'
+  description: 'AMICUS FOR PETITIONER BRIEF [2169931] filed by Former Service Secretaries [Service Date: 04/22/2026 ] Length of Brief: 3,776 Words. [26-1049] (Harrington, Sarah) [Entered: 04/22/2026 05:43
+    PM]'
+  importance: medium
+- entry: '1208843391'
+  date: '2026-04-22'
+  description: 'AMICUS FOR PETITIONER BRIEF [2169949] filed by ACT | The App Association [Service Date: 04/22/2026 ] Length of Brief: This brief complies with Fed. R. App. P. 29(a)(5) and 32(f) because
+    it con-tains 2103 words, excludin…'
+  importance: medium
+- entry: '1208843394'
+  date: '2026-04-22'
+  description: 'PETITIONER BRIEF [2169950] filed by Anthropic PBC [Service Date: 04/22/2026 ] Length of Brief: 12,890 words. [26-1049] (Dunbar, Kelly) [Entered: 04/22/2026 06:45 PM]'
+  importance: medium
+- entry: '1208843397'
+  date: '2026-04-22'
+  description: 'CONSENT AMICUS FOR PETITIONER BRIEF [2169951] filed by Leon Panetta and the Institute for Security and Technology [Service Date: 04/22/2026 ] Length of Brief: 34 Pages. [26-1049] (Klapper,
+    Matthew) [Entered: 04/22/2026…'
+  importance: medium
+- entry: '1208843409'
+  date: '2026-04-22'
+  description: 'APPENDIX [2169955] filed by Anthropic PBC [Volumes: 4] [Service Date: 04/22/2026 ] [26-1049] (Dunbar, Kelly) [Entered: 04/22/2026 07:11 PM]'
+  importance: low
+- entry: '1208843421'
+  date: '2026-04-22'
+  description: 'AMICUS FOR PETITIONER BRIEF [2169958] filed by 149 Former Judges and Democracy Defenders Fund [Service Date: 04/22/2026 ] Length of Brief: 5592. [26-1049] (Costa, Gregg) [Entered: 04/22/2026
+    07:47 PM]'
+  importance: medium
+- entry: '1208843442'
+  date: '2026-04-22'
+  description: CONSENT AMICUS FOR PETITIONER BRIEF [2169965] filed by Foundation for Individual Rights and Expression, Cato Institute, First Amendment Lawyers Association, Electronic Frontier Foundation
+    and Chamber of Progress [Servic…
+  importance: medium
+- entry: '1208843451'
+  date: '2026-04-22'
+  description: 'NOTICE [2169968] of intention to participate as amicus curiae [Disclosure Listing: Attached] filed by TechNet, Software & Information Industry Association, Computer & Communications Industry
+    Association, Information Tec…'
+  importance: medium
+- entry: '1208843454'
+  date: '2026-04-22'
+  description: 'CONSENT AMICUS FOR PETITIONER BRIEF [2169969] filed by Faith Family Technology Network [Service Date: 04/22/2026 ] Length of Brief: 3530 Words.. [26-1049] (Kilaru, Rakesh) [Entered: 04/22/2026
+    08:45 PM]'
+  importance: medium
+- entry: '1208843463'
+  date: '2026-04-22'
+  description: 'CONSENT AMICUS FOR PETITIONER BRIEF [2169972] filed by TechNet, Software & Information Industry Association, Computer & Communications Industry Association and Information Technology Industry
+    Council [Service Date: 04/2…'
+  importance: medium
+- entry: '1208843469'
+  date: '2026-04-22'
+  description: 'CONSENT AMICUS FOR PETITIONER BRIEF [2169974] filed by Alan Z. Rozenshtein [Service Date: 04/22/2026 ] Length of Brief: 4,386 words. [26-1049] (Theodore, Elisabeth) [Entered: 04/22/2026
+    09:27 PM]'
+  importance: medium
+- entry: '1208843643'
+  date: '2026-04-23'
+  description: 'AMICUS FOR RESPONDENT BRIEF [2170051] filed by JOEL THAYER, SENIOR FELLOW AT THE AMERICA FIRST POLICY INSTITUTE [Service Date: 04/23/2026 ] Length of Brief: 3,157 words. [26-1049] (Thayer,
+    Joel) [Entered: 04/23/2026 01:…'
+  importance: medium
+- entry: '1208843910'
+  date: '2026-04-23'
+  description: 'CERTIFIED INDEX TO RECORD [2170179] filed by Peter B. Hegseth and United States Department of War [Service Date: 04/23/2026 ] [26-1049] (Janda, Sean) [Entered: 04/23/2026 06:00 PM]'
+  importance: low
+- entry: '1208844849'
+  date: '2026-04-27'
+  description: 'CORRECTED AMICUS FOR PETITIONER BRIEF [2170651] filed by Former Service Secretaries [Service Date: 04/27/2026 ] Length of Brief: 3,765 Words. [26-1049] (Harrington, Sarah) [Entered: 04/27/2026
+    05:57 PM]'
+  importance: medium
+- entry: '1208845354'
+  date: '2026-04-28'
+  description: CORRECTED AMICUS FOR PETITIONER BRIEF [2170925] filed by Freedom Economy Business Association, Candide Group, Howard Fischer, Thomas Haslett, Humanize Wealth, Institute for Progress, Investor
+    Advocates for Social Justic…
+  importance: medium
+- entry: '1208847713'
+  date: '2026-05-06'
+  description: 'PER CURIAM ORDER [2172079] filed allocating oral argument time as follows: Petitioner - 15 Minutes, Respondents - 15 Minutes. One counsel per side to argue; directing party to file Form
+    72 notice of arguing attorney by…'
+  importance: high
+- entry: '1208847824'
+  date: '2026-05-06'
+  description: NOTICE [2172136] to withdraw attorney Sopen B. Shah who represented Cato Institute, Chamber of Progress, Electronic Frontier Foundation, First Amendment Lawyers Association and Foundation
+    for Individual Rights and Expre…
+  importance: medium
+- entry: '1208847842'
+  date: '2026-05-06'
+  description: 'RESPONDENT BRIEF [2172140] filed by Peter B. Hegseth and United States Department of War [Service Date: 05/06/2026 ] Length of Brief: 12,966 words. [26-1049] (Janda, Sean) [Entered: 05/06/2026
+    08:54 PM]'
+  importance: medium
+- entry: '-'
+  date: '2026-05-08'
+  description: 'FORM 72 submitted by arguing attorney, Sharon Swingle, on behalf of Respondents Peter B. Hegseth and United States Department of War (For Internal Use Only: Form is restricted to protect
+    counsel''s personal contact infor…'
+  importance: low
+- entry: '-'
+  date: '2026-05-08'
+  description: 'FORM 72 submitted by arguing attorney, Kelly P. Dunbar, on behalf of Petitioner Anthropic PBC (For Internal Use Only: Form is restricted to protect counsel''s personal contact information).
+    [26-1049] (Dunbar, Kelly) [Ent…'
+  importance: low
+- entry: '-'
+  date: '2026-05-08'
+  description: 'FORM 72 submitted by arguing attorney, Sharon Swingle, on behalf of Respondents Peter B. Hegseth and United States Department of War (For Internal Use Only: Form is restricted to protect
+    counsel''s personal contact infor…'
+  importance: low
+- entry: '1208849217'
+  date: '2026-05-12'
+  description: 'LETTER [2172918] Update statements in response brief and declaration filed by Peter B. Hegseth and United States Department of War [Service Date: 05/12/2026 ] [26-1049] (Swingle, Sharon)
+    [Entered: 05/12/2026 11:24 AM]'
+  importance: medium
+- entry: '1208849337'
+  date: '2026-05-12'
+  description: NOTICE [2172982] to withdraw attorney Alexander A. Berengaut who represented Former Service Secretaries and Retired Senior Military Officers in 26-1049 filed by Former Service Secretaries
+    and Retired Senior Military Off…
+  importance: medium
+- entry: '1208849633'
+  date: '2026-05-13'
+  description: 'PETITIONER REPLY BRIEF [2173124] filed by Anthropic PBC [Service Date: 05/13/2026 ] Length of Brief: 6,465 words. [26-1049] (Dunbar, Kelly) [Entered: 05/13/2026 01:39 PM]'
+  importance: medium
+- entry: '1208851556'
+  date: '2026-05-19'
+  description: 'ORAL ARGUMENT HELD before Judges Henderson, Katsas and Rao. [26-1049] [Entered: 05/19/2026 03:41 PM]'
+  importance: high
+- entry: '1208852485'
+  date: '2026-05-21'
+  description: 'JOINT UNOPPOSED MOTION [2174576] to extend time to file brief to 06/04/2026 filed by Peter B. Hegseth, United States Department of War and Anthropic PBC [Service Date: 05/21/2026 ] Length
+    Certification: 357 words. [26-1…'
+  importance: medium
+- entry: '1208852327'
+  date: '2026-05-21'
+  description: PER CURIAM ORDER [2174506] filed on the court's own motion, that the parties file supplemental briefs (see order for details). The supplemental briefs, not to exceed 2,500 words, are due
+    by 4:00 p.m. on May 28, 2026. In…
+  importance: high
+- entry: '1208852954'
+  date: '2026-05-22'
+  description: 'PER CURIAM ORDER [2174795] filed granting joint motionfor extension of time [2174576-2]. The parties'' supplemental briefs are now due by 4:00 p.m. on 06/04/2026. Before Judges: Henderson,
+    Katsas and Rao. [26-1049]'
+  importance: high

@@ -1,0 +1,1061 @@
+# Auto-generated from ndcal-entries-full.tsv.
+# Source of truth for descriptions: the underlying TSV in /dockets/.
+# Add manual notes by appending `notes:` keys to individual entries;
+# do not re-run scripts/build_docket_yaml.py after annotating, or your
+# notes will be overwritten.
+#
+# Importance heuristic: 'high' | 'medium' | 'low'. Reviewer should
+# promote/demote as needed.
+#
+# CourtListener docket: https://www.courtlistener.com/docket/72379655/
+- entry: '1'
+  date: '2026-03-09'
+  description: COMPLAINT for Declaratory and Injunctive Relief against All Defendants ( Filing fee $ 405, receipt number ACANDC-21731347.). Injunction against the US government/official or APA vacatur requested.
+    Filed by Anthropic PBC…
+  importance: high
+  documents:
+  - title: Complaint
+  - title: Exhibit 1
+  - title: Exhibit 2
+  - title: Exhibit 3
+- entry: '2'
+  date: '2026-03-09'
+  description: 'Proposed Summons. (Mongan, Michael) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Proposed Summons
+- entry: '3'
+  date: '2026-03-09'
+  description: Corporate Disclosure Statement by Anthropic PBC identifying Other Affiliate Google LLC, Other Affiliate Amazon Web Services, Inc. for Anthropic PBC. / Anthropic PBC's Disclosure Statement
+    Pursuant to Federal Rule of Civ…
+  importance: low
+  documents:
+  - title: Certificate of Interested Entities
+- entry: '4'
+  date: '2026-03-09'
+  description: 'CONSENT/DECLINATION to Proceed Before a US Magistrate Judge by Anthropic PBC.. (Mongan, Michael) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Consent/Declination to Proceed Before a US Magistrate Judge
+- entry: '5'
+  date: '2026-03-09'
+  description: Case assigned to Judge Rita F. Lin. Counsel for plaintiff or the removing party is responsible for serving the Complaint or Notice of Removal, Summons and the assigned judge's standing orders
+    and all other new case docu…
+  importance: high
+  documents:
+  - title: Case Assigned by Intake
+- entry: '6'
+  date: '2026-03-09'
+  description: 'MOTION for Temporary Restraining Order, MOTION for Preliminary Injunction, MOTION to Stay Pursuant to Section 705 filed by Anthropic PBC. Responses due by 3/11/2026. Replies due by 3/12/2026.
+    (Attachments: # 1 Declarati…'
+  importance: high
+  documents:
+  - title: Motion for TRO
+  - title: Declaration of Jared Kaplan in Support
+  - title: Declaration of Sarah Heck in Support
+  - title: Declaration of Thiyagu Ramasamy in Support
+  - title: Declaration of Paul Smith in Support
+  - title: Declaration of Krishna Rao in Support
+  - title: Declaration of Michael J. Mongan in Support
+  - title: Exhibit 1 to Declaration of Michael J. Mongan
+  - title: Exhibit 2 to Declaration of Michael J. Mongan
+  - title: Exhibit 3 to Declaration of Michael J. Mongan
+  - title: Exhibit 4 to Declaration of Michael J. Mongan
+  - title: Exhibit 5 to Declaration of Michael J. Mongan
+  - title: Exhibit 6 to Declaration of Michael J. Mongan
+  - title: Exhibit 7 to Declaration of Michael J. Mongan
+  - title: Exhibit 8 to Declaration of Michael J. Mongan
+  - title: Exhibit 9 to Declaration of Michael J. Mongan
+  - title: Exhibit 10 to Declaration of Michael J. Mongan
+  - title: Exhibit 11 to Declaration of Michael J. Mongan
+  - title: Exhibit 12 to Declaration of Michael J. Mongan
+  - title: Exhibit 13 to Declaration of Michael J. Mongan
+  - title: Exhibit 14 to Declaration of Michael J. Mongan
+  - title: Exhibit 15 to Declaration of Michael J. Mongan
+  - title: Exhibit 16 to Declaration of Michael J. Mongan
+  - title: Exhibit 17 to Declaration of Michael J. Mongan
+  - title: Exhibit 18 to Declaration of Michael J. Mongan
+  - title: Exhibit 19 to Declaration of Michael J. Mongan
+  - title: Exhibit 20 to Declaration of Michael J. Mongan
+  - title: Exhibit 21 to Declaration of Michael J. Mongan
+  - title: Exhibit 22 to Declaration of Michael J. Mongan
+  - title: Exhibit 23 to Declaration of Michael J. Mongan
+  - title: Exhibit 24 to Declaration of Michael J. Mongan
+  - title: Exhibit 25 to Declaration of Michael J. Mongan
+  - title: Exhibit 26 to Declaration of Michael J. Mongan
+  - title: Exhibit 27 to Declaration of Michael J. Mongan
+  - title: Proposed Order
+- entry: '7'
+  date: '2026-03-09'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21731784.) filed by Anthropic PBC. (Barnet, Emily) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '8'
+  date: '2026-03-09'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21731872.) filed by Anthropic PBC. (Geltzer, Joshua) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '9'
+  date: '2026-03-09'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21731904.) filed by Anthropic PBC. (Dunbar, Kelly) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '10'
+  date: '2026-03-09'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21731945.) filed by Anthropic PBC. (Lamb, Kevin) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '11'
+  date: '2026-03-09'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21731978.) filed by Anthropic PBC. (Powell, Laura) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '12'
+  date: '2026-03-09'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21732012.) filed by Anthropic PBC. (Data, Sonika) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '13'
+  date: '2026-03-09'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21732041.) filed by Anthropic PBC. (Hennessey, Susan) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '14'
+  date: '2026-03-09'
+  description: 'ORDER by Judge Rita F. Lin granting 7 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '15'
+  date: '2026-03-09'
+  description: 'ORDER by Judge Rita F. Lin granting 8 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '16'
+  date: '2026-03-09'
+  description: 'ORDER by Judge Rita F. Lin granting 9 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '17'
+  date: '2026-03-09'
+  description: 'ORDER by Judge Rita F. Lin granting 10 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '18'
+  date: '2026-03-09'
+  description: 'ORDER by Judge Rita F. Lin granting 11 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '19'
+  date: '2026-03-09'
+  description: 'ORDER by Judge Rita F. Lin granting 12 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '20'
+  date: '2026-03-09'
+  description: 'ORDER by Judge Rita F. Lin granting 13 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '21'
+  date: '2026-03-09'
+  description: ADMINISTRATIVE MOTION to Increase Page Limits Pursuant to L.R. 7-11 for Motion for a Temporary Restraining Order, Preliminary Injunction, or Section 705 Stay filed by Anthropic PBC. Responses
+    due by 3/13/2026. (Attachme…
+  importance: high
+  documents:
+  - title: Administrative Motion per Civil Local Rule 7-11
+  - title: Declaration of Michael J. Mongan in Support
+  - title: Proposed Order
+- entry: '22'
+  date: '2026-03-09'
+  description: 'NOTICE of Appearance filed by Nicole Lynn Schneidman on behalf of Employees of OpenAI and Google in Their Personal Capacities (Schneidman, Nicole) (Filed on 3/9/2026) (Entered: 03/09/2026)'
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '23'
+  date: '2026-03-09'
+  description: ORDER SETTING STATUS CONFERENCE re 6 . Status Conference set for 3/10/2026 03:00 PM in San Francisco, - Videoconference Only before Judge Rita F. Lin. Signed by Judge Rita F. Lin on 3/9/2026.
+    (afm, COURT STAFF) (Filed o…
+  importance: low
+  documents:
+  - title: Order
+- entry: '24'
+  date: '2026-03-09'
+  description: 'MOTION to File Amicus Curiae Brief filed by Employees of OpenAI and Google in Their Personal Capacities. Responses due by 3/23/2026. Replies due by 3/30/2026. (Attachments: # 1 Exhibit Amici
+    Curiae Brief of Employees of…'
+  importance: medium
+  documents:
+  - title: Motion to File Amicus Curiae Brief
+  - title: Exhibit Amici Curiae Brief of Employees of OpenAI and Google in Their Personal C
+  - title: Proposed Order
+- entry: '25'
+  date: '2026-03-09'
+  description: 'CLERK''S NOTICE SETTING STATUS CONFERENCE HEARING. This proceeding will be held on March 10, 2026 at 3:00PM (PST) via a Zoom webinar.Webinar Access: All counsel, members of the public, and
+    media may access the webinar in…'
+  importance: low
+  documents:
+  - title: Clerk's Notice Setting Zoom Hearing.
+- entry: '26'
+  date: '2026-03-09'
+  description: Summons Issued as to Paul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President, Federal Housing Finance Agency, Federal Reserve
+    Board of Governors, Edward…
+  importance: low
+  documents:
+  - title: Summons Issued
+- entry: '27'
+  date: '2026-03-09'
+  description: MOTION to File Amicus Curiae Brief filed by Foundation for Individual Rights and Expression, Electronic Frontier Foundation, Cato Institute, Chamber of Progress, First Amendment Lawyers Association.
+    Responses due by 3/2…
+  importance: medium
+  documents:
+  - title: Motion to File Amicus Curiae Brief
+  - title: Exhibit Amicus Brief
+  - title: Proposed Order Proposed Order
+- entry: '28'
+  date: '2026-03-09'
+  description: NOTICE of Appearance filed by Addison W. Bennett on behalf of Cato Institute, Chamber of Progress, Electronic Frontier Foundation, First Amendment Lawyers Association, Foundation for Individual
+    Rights and Expression (Be…
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '29'
+  date: '2026-03-10'
+  description: NOTICE of Appearance filed by James William Harlow on behalf of Paul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President,
+    Federal Housing Finance Agency,…
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '30'
+  date: '2026-03-10'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21738632.) filed by Employees of OpenAI and Google in Their Personal Capacities. (Attachments: # 1 Exhibit
+    - Certificate of Good Stand…'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+  - title: Exhibit - Certificate of Good Standing
+- entry: '31'
+  date: '2026-03-10'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21738673.) filed by Employees of OpenAI and Google in Their Personal Capacities. (Attachments: # 1 Exhibit
+    - Certificate of Good Stand…'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+  - title: Exhibit - Certificate of Good Standing
+- entry: '32'
+  date: '2026-03-10'
+  description: 'MOTION for leave to appear in Pro Hac Vice Sharmistha Das ( Filing fee $ 328, receipt number ACANDC-21738767.) filed by Microsoft Corporation. (Das, Sharmistha) (Filed on 3/10/2026) (Entered:
+    03/10/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '33'
+  date: '2026-03-10'
+  description: 'MOTION for leave to appear in Pro Hac Vice Matthew F. Ferraro ( Filing fee $ 328, receipt number ACANDC-21738897.) filed by Microsoft Corporation. (Ferraro, Matthew) (Filed on 3/10/2026)
+    (Entered: 03/10/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '34'
+  date: '2026-03-10'
+  description: 'ADMINISTRATIVE MOTION LEAVE TO FILE BRIEF OF AMICUS CURIAE filed by Microsoft Corporation. Responses due by 3/16/2026. (Attachments: # 1 Exhibit 1, # 2 Proposed Order RE ADMINISTRATIVE MOTION
+    FOR LEAVE TO FILE AN AMICUS…'
+  importance: high
+  documents:
+  - title: Administrative Motion per Civil Local Rule 7-11
+  - title: Exhibit 1
+  - title: Proposed Order RE ADMINISTRATIVE MOTION FOR LEAVE TO FILE AN AMICUS CURIAE BRIEF
+- entry: '35'
+  date: '2026-03-10'
+  description: 'ORDER by Judge Rita F. Lin granting 30 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/10/2026) (Entered: 03/10/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '36'
+  date: '2026-03-10'
+  description: 'ORDER by Judge Rita F. Lin granting 31 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/10/2026) (Entered: 03/10/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '37'
+  date: '2026-03-10'
+  description: 'ORDER by Judge Rita F. Lin granting 32 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/10/2026) (Entered: 03/10/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '38'
+  date: '2026-03-10'
+  description: 'Minute Entry for proceedings held before Judge Rita F. Lin: Status Conference re: TRO held on 3/10/2026. Preliminary Injunction Motion Hearing set for 3/24/2026 01:30 PM in San Francisco,
+    Courtroom 15, 18th Floor before…'
+  importance: high
+  documents:
+  - title: Status Conference
+- entry: '39'
+  date: '2026-03-10'
+  description: 'NOTICE of Appearance filed by Clara J. Shin on behalf of Former Service Secretaries and Retired Senior Military Officers (Shin, Clara) (Filed on 3/10/2026) (Entered: 03/10/2026)'
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '40'
+  date: '2026-03-10'
+  description: 'Consent MOTION to File Amicus Curiae Brief filed by Former Service Secretaries and Retired Senior Military Officers. Responses due by 3/24/2026. Replies due by 3/31/2026. (Attachments: #
+    1 Proposed Brief of Amici, # 2 P…'
+  importance: medium
+  documents:
+  - title: Motion to File Amicus Curiae Brief
+  - title: Proposed Brief of Amici
+  - title: Proposed Order
+- entry: '41'
+  date: '2026-03-10'
+  description: MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21741598.) filed by Former Service Secretaries and Retired Senior Military Officers. (Harrington, Sarah)
+    (Filed on 3/10/2026) (Entered…
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '42'
+  date: '2026-03-10'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21741622.) filed by Former Service Secretaries and Retired Senior Military Officers. (Zionts, David)
+    (Filed on 3/10/2026) (Entered: 03…'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '43'
+  date: '2026-03-10'
+  description: MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21741639.) filed by Former Service Secretaries and Retired Senior Military Officers. (Berengaut, Alexander)
+    (Filed on 3/10/2026) (Ente…
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '44'
+  date: '2026-03-10'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21741668.) filed by Former Service Secretaries and Retired Senior Military Officers. (Jain, Mishi) (Filed
+    on 3/10/2026) (Entered: 03/1…'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '45'
+  date: '2026-03-10'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21741678.) filed by Former Service Secretaries and Retired Senior Military Officers. (Crowley, Megan)
+    (Filed on 3/10/2026) (Entered: 0…'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '46'
+  date: '2026-03-10'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21741689.) filed by Former Service Secretaries and Retired Senior Military Officers. (Ujayli, Laila)
+    (Filed on 3/10/2026) (Entered: 03…'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '47'
+  date: '2026-03-11'
+  description: 'TRANSCRIPT ORDER for proceedings held on 03/10/2026 before Judge Rita F. Lin by Anthropic PBC, for Court Reporter Ana Dub. (Mongan, Michael) (Filed on 3/11/2026) (Entered: 03/11/2026)'
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '48'
+  date: '2026-03-11'
+  description: 'ORDER by Judge Rita F. Lin granting 41 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/11/2026) (Entered: 03/11/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '49'
+  date: '2026-03-11'
+  description: 'ORDER by Judge Rita F. Lin granting 42 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/11/2026) (Entered: 03/11/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '50'
+  date: '2026-03-11'
+  description: 'ORDER by Judge Rita F. Lin granting 43 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/11/2026) (Entered: 03/11/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '51'
+  date: '2026-03-11'
+  description: 'ORDER by Judge Rita F. Lin granting 44 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/11/2026) (Entered: 03/11/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '52'
+  date: '2026-03-11'
+  description: 'ORDER by Judge Rita F. Lin granting 45 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/11/2026) (Entered: 03/11/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '53'
+  date: '2026-03-11'
+  description: 'ORDER by Judge Rita F. Lin granting 46 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/11/2026) (Entered: 03/11/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '54'
+  date: '2026-03-11'
+  description: ADMINISTRATIVE MOTION OF ALAN Z. ROZENSHTEIN FOR LEAVE TO FILE AS AMICUS CURIAE A BRIEF IN SUPPORT OF PLAINTIFFS MOTION FOR A TEMPORARY RESTRAINING ORDER, PRELIMINARY INJUNCTION, OR SECTION
+    705 STAY -(UNOPPOSED) filed b…
+  importance: high
+  documents:
+  - title: Administrative Motion per Civil Local Rule 7-11
+  - title: Exhibit [PROPOSED] BRIEF OF AMICUS CURIAE ALAN Z. ROZENSHTEIN IN SUPPORT OF PLAI
+  - title: Proposed Order
+- entry: '56'
+  date: '2026-03-12'
+  description: NOTICE of Appearance filed by Paul Steven Jasper on behalf of Cato Institute, Chamber of Progress, Electronic Frontier Foundation, First Amendment Lawyers Association, Foundation for Individual
+    Rights and Expression (Ja…
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '57'
+  date: '2026-03-12'
+  description: Transcript of Remote Zoom Video Conference Proceedings held on March 10, 2026, before Judge Rita F. Lin. Stenographic Court Reporter Ana Dub, RDR, CRR, telephone number 415-290-1651, ana_dub@cand.uscourts.gov.
+    Per Gener…
+  importance: medium
+  documents:
+  - title: Transcript
+- entry: '58'
+  date: '2026-03-12'
+  description: 'Brief of Amici Curiae filed byFormer Service Secretaries and Retired Senior Military Officers. (Shin, Clara) (Filed on 3/12/2026) (Entered: 03/12/2026)'
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '59'
+  date: '2026-03-12'
+  description: MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21750142.) filed by Cato Institute, Chamber of Progress, Electronic Frontier Foundation, First Amendment
+    Lawyers Association, Foundati…
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '60'
+  date: '2026-03-12'
+  description: MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21750305.) filed by Cato Institute, Chamber of Progress, Electronic Frontier Foundation, First Amendment
+    Lawyers Association, Foundati…
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '61'
+  date: '2026-03-13'
+  description: 'ORDER by Judge Rita F. Lin denying 59 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '62'
+  date: '2026-03-13'
+  description: 'ORDER by Judge Rita F. Lin denying 60 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '63'
+  date: '2026-03-13'
+  description: Amended MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21750142.) Filing fee previously paid on 3/12/2026 filed by Cato Institute, Chamber of Progress,
+    Electronic Frontier Foundatio…
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+  - title: Certificate of Good Standing
+- entry: '64'
+  date: '2026-03-13'
+  description: 'ORDER by Judge Rita F. Lin granting 63 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '65'
+  date: '2026-03-13'
+  description: Amended MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21750305.) Filing fee previously paid on 3/12/2026 filed by Cato Institute, Chamber of Progress,
+    Electronic Frontier Foundatio…
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+  - title: Certificate of Good Standing
+- entry: '66'
+  date: '2026-03-13'
+  description: 'ORDER by Judge Rita F. Lin granting 65 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '67'
+  date: '2026-03-13'
+  description: Brief of Amici Curiae filed byCato Institute, Chamber of Progress, Electronic Frontier Foundation, First Amendment Lawyers Association, Foundation for Individual Rights and Expression. (Bennett,
+    Addison) (Filed on 3/13/…
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '68'
+  date: '2026-03-13'
+  description: 'NOTICE of Appearance filed by Anthony Paul Schoenberg on behalf of Former Senior National Security Government Officials (Schoenberg, Anthony) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '69'
+  date: '2026-03-13'
+  description: 'NOTICE of Appearance filed by Alexis Jane Loeb on behalf of Former Senior National Security Government Officials (Loeb, Alexis) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '70'
+  date: '2026-03-13'
+  description: 'NOTICE of Appearance filed by John Michael Ugai on behalf of Former Senior National Security Government Officials (Ugai, John) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '71'
+  date: '2026-03-13'
+  description: 'MOTION to File Amicus Curiae Brief filed by Catholic Moral Theologians and Ethicists. Responses due by 3/27/2026. Replies due by 4/3/2026. (Miller, Matthew) (Filed on 3/13/2026) (Entered:
+    03/13/2026)'
+  importance: medium
+  documents:
+  - title: Motion to File Amicus Curiae Brief
+- entry: '72'
+  date: '2026-03-13'
+  description: 'Brief of Amici Curiae filed byIndustry Trade Associations. (Parker, Warrington) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '73'
+  date: '2026-03-13'
+  description: MOTION to File Amicus Curiae Brief in Support of Preliminary Injunction filed by ACT The App Association. Motion Hearing set for 3/24/2026 01:30 PM in San Francisco, Courtroom 15, 18th Floor
+    before Judge Rita F. Lin. Re…
+  importance: high
+  documents:
+  - title: Motion to File Amicus Curiae Brief
+- entry: '74'
+  date: '2026-03-13'
+  description: Brief re 6 MOTION for Temporary Restraining Order MOTION for Preliminary Injunction MOTION to Stay Pursuant to Section 705, 55 Order on Motion to File Amicus Curiae Brief,,,, Order on Administrative
+    Motion per Civil Loc…
+  importance: high
+  documents:
+  - title: Brief
+- entry: '75'
+  date: '2026-03-13'
+  description: Brief re 55 Order on Motion to File Amicus Curiae Brief,,,, Order on Administrative Motion per Civil Local Rule 7-11,,,,, Brief of Amicus Curiae filed byMicrosoft Corporation. (Related document(s)
+    55 ) (Parker, Warringt…
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '76'
+  date: '2026-03-13'
+  description: 'NOTICE of Appearance filed by William Fred Norton on behalf of Freedom Economy Business Association (Norton, William) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '77'
+  date: '2026-03-13'
+  description: ADMINISTRATIVE MOTION for FOR LEAVE TO FILE BRIEF OF AMICI CURIAE FREEDOM ECONOMY BUSINESS ASSOCIATION AND OTHER VALUES-LED INVESTORS IN SUPPORT OF PLAINTIFFS MOTION FOR PRELIMINARY INJUNCTION
+    filed by Freedom Economy B…
+  importance: high
+  documents:
+  - title: Administrative Motion per Civil Local Rule 7-11
+  - title: Exhibit Amici Curiae Brief
+  - title: Proposed Order
+- entry: '78'
+  date: '2026-03-13'
+  description: '***ERRONEOUSLY E-FILED, DISREGARD SEE DOC 80 *** MOTION to File Amicus Curiae Brief filed by Anthropic PBC. Responses due by 3/27/2026. Replies due by 4/3/2026. (Leyton, Stacey) (Filed on
+    3/13/2026) Modified on 3/18/202…'
+  importance: medium
+  documents:
+  - title: Motion to File Amicus Curiae Brief
+- entry: '79'
+  date: '2026-03-13'
+  description: '***ERRONEOUSLY E-FILED, DISREGARD SEE DOC 80 *** Amicus Curiae APPEARANCE entered by Stacey M. Leyton on behalf of American Federation of Government Employees. (Leyton, Stacey) (Filed on
+    3/13/2026) Modified on 3/18/2026…'
+  importance: medium
+  documents:
+  - title: Amicus Curiae Appearance
+- entry: '80'
+  date: '2026-03-13'
+  description: 'Brief Amicus Curiae filed byAmerican Federation of Government Employees. (Leyton, Stacey) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '81'
+  date: '2026-03-13'
+  description: MOTION for leave to appear in Pro Hac Vice of Sharmistha Das ( Filing fee $ 328, receipt number ACANDC-21738767.) Filing fee previously paid on 03/10/2026 filed by Industry Trade Associations.
+    (Das, Sharmistha) (Filed o…
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '82'
+  date: '2026-03-13'
+  description: 'Third Party MOTION to File Amicus Curiae Brief in Favor of Neither Party filed by Abolitionist Law Center. Responses due by 3/27/2026. Replies due by 4/3/2026. (Doost, Sadaf) (Filed on 3/13/2026)
+    (Entered: 03/13/2026)'
+  importance: medium
+  documents:
+  - title: Motion to File Amicus Curiae Brief
+- entry: '83'
+  date: '2026-03-13'
+  description: 'Brief Corrected Amicus Curiae Brief filed byCatholic Moral Theologians and Ethicists. (Miller, Matthew) (Filed on 3/13/2026) (Entered: 03/13/2026)'
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '84'
+  date: '2026-03-13'
+  description: ORDER by Judge Rita F. Lin granting 71, 73, 77, and 82 Motions to File Amicus Curiae Briefs. The 80 Brief Amicus Curiae filed by American Federation of Government Employees is also accepted.
+    The 78 Motion to File Amicus…
+  importance: medium
+  documents:
+  - title: Order on Motion to File Amicus Curiae Brief
+- entry: '85'
+  date: '2026-03-14'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-21756529.) filed by Former Senior National Security Government Officials. (Attachments: # 1 Exhibit Certificate
+    of Good Standing)(Swar…'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+  - title: Exhibit Certificate of Good Standing
+- entry: '86'
+  date: '2026-03-16'
+  description: NOTICE of Appearance filed by Christian Dibblee on behalf of Paul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President, Federal
+    Housing Finance Agency, Fed…
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Withdrawal of Attorney
+- entry: '87'
+  date: '2026-03-16'
+  description: 'ORDER by Judge Rita F. Lin granting 81 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/16/2026) (Entered: 03/16/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '88'
+  date: '2026-03-16'
+  description: 'ORDER by Judge Rita F. Lin granting 85 Motion for Pro Hac Vice. (afm, COURT STAFF) (Filed on 3/16/2026) (Entered: 03/16/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '89'
+  date: '2026-03-16'
+  description: 'MOTION for leave to appear in Pro Hac Vice of Alexandra Barbee-Garrett ( Filing fee $ 328, receipt number ACANDC-21760191.) filed by Microsoft Corporation. (Barbee-Garrett, Alexandra) (Filed
+    on 3/16/2026) (Entered: 03/1…'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '90'
+  date: '2026-03-16'
+  description: MOTION for leave to appear in Pro Hac Vice of Alexandra Barbee-Garrett ( Filing fee $ 328, receipt number ACANDC-21760191.) Filing fee previously paid on 03/16/2026 filed by Industry Trade
+    Associations. (Barbee-Garrett,…
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '91'
+  date: '2026-03-16'
+  description: 'MOTION for leave to appear in Pro Hac Vice of Stephanie Crawford ( Filing fee $ 328, receipt number ACANDC-21760479.) filed by Microsoft Corporation. (Crawford, Stephanie) (Filed on 3/16/2026)
+    (Entered: 03/16/2026)'
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '92'
+  date: '2026-03-16'
+  description: MOTION for leave to appear in Pro Hac Vice of Stephanie Crawford (Industry Trade Associations)
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '93'
+  date: '2026-03-16'
+  description: First MOTION for leave to appear in Pro Hac Vice Katherine Gallagher (Abolitionist Law Center)
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '94'
+  date: '2026-03-17'
+  description: ORDER granting 89 Motion for Pro Hac Vice
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '95'
+  date: '2026-03-17'
+  description: ORDER granting 91 Motion for Pro Hac Vice
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '96'
+  date: '2026-03-17'
+  description: 'OPPOSITION/RESPONSE (re 6 MOTION for TRO/PI/Section 705 stay) by Defendants (Atkins, Bessent, Hegseth, all defendant officials and agencies). Attachments: Decl. of James W. Harlow; Exhibit
+    A: Dep''t of War Documents (Red…'
+  importance: high
+  documents:
+  - title: Opposition/Response
+  - title: Decl. Harlow
+  - title: Ex. A (Redacted)
+  - title: Decl. Michael
+  - title: Proposed Order
+- entry: '97'
+  date: '2026-03-17'
+  description: Administrative Motion to File Under Seal (Dep't of War Documents - Unredacted) by Defendants
+  importance: medium
+  documents:
+  - title: Admin Mot. to Seal
+  - title: Proposed Order
+  - title: Ex. Unredacted Documents
+- entry: '98'
+  date: '2026-03-18'
+  description: MOTION for leave to appear in Pro Hac Vice (Koh, Harold) (Former Senior National Security Government Officials)
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+  - title: Ex. Cert. of Good Standing
+- entry: '99'
+  date: '2026-03-18'
+  description: Amended MOTION for leave to appear in Pro Hac Vice Katherine Gallagher (Abolitionist Law Center)
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '100'
+  date: '2026-03-18'
+  description: NOTICE of Appearance by Meetali Jain on behalf of Tech Justice Law Project
+  importance: low
+  documents:
+  - title: Notice of Appearance
+- entry: '101'
+  date: '2026-03-18'
+  description: ORDER granting 98 Motion for Pro Hac Vice
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '102'
+  date: '2026-03-18'
+  description: ORDER granting 99 Motion for Pro Hac Vice
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '103'
+  date: '2026-03-18'
+  description: First MOTION for leave to appear in Pro Hac Vice Bassel El-Rewini (Abolitionist Law Center)
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '104'
+  date: '2026-03-18'
+  description: ORDER granting 103 Motion for Pro Hac Vice
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '105'
+  date: '2026-03-18'
+  description: NOTICE of Appearance by Saja Spearman-Weaver (Freedom Economy Business Association)
+  importance: low
+  documents:
+  - title: Notice of Appearance
+- entry: '106'
+  date: '2026-03-19'
+  description: First MOTION for leave to appear in Pro Hac Vice (ACT The App Association) (Gregor)
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+  - title: Cert. of Good Standing
+- entry: '107'
+  date: '2026-03-19'
+  description: ORDER granting 106 Motion for Pro Hac Vice
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '108'
+  date: '2026-03-19'
+  description: First MOTION for leave to appear in Pro Hac Vice (ACT The App Association) (Scarpelli)
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+- entry: '109'
+  date: '2026-03-19'
+  description: First MOTION for leave to appear in Pro Hac Vice (Scarpelli; fee previously paid)
+  importance: medium
+  documents:
+  - title: Motion for Pro Hac Vice
+  - title: Cert. of Good Standing
+- entry: '110'
+  date: '2026-03-20'
+  description: ORDER granting 109 Motion for Pro Hac Vice
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '111'
+  date: '2026-03-20'
+  description: 'CLERK''S NOTICE OF COURTROOM CHANGE: PI hearing 3/24/2026 1:30 PM in Courtroom 12, 19th Floor SF'
+  importance: low
+  documents:
+  - title: Text-only entry
+- entry: '112'
+  date: '2026-03-20'
+  description: 'CLERK''S NOTICE RE: ZOOM ACCESS for PI hearing 3/24/2026'
+  importance: low
+  documents:
+  - title: Text-only entry
+- entry: '113'
+  date: '2026-03-20'
+  description: REPLY (re 6 MOTION for TRO/PI/Section 705 stay) by Anthropic PBC
+  importance: high
+  documents:
+  - title: Reply
+- entry: '114'
+  date: '2026-03-20'
+  description: Decl. of Sarah Heck in Support of 113 Reply by Anthropic; Exhibits 1-2
+  importance: low
+  documents:
+  - title: Declaration
+  - title: Exhibits
+- entry: '115'
+  date: '2026-03-20'
+  description: Decl. of Thiyagu Ramasamy in Support of 113 Reply by Anthropic
+  importance: low
+  documents:
+  - title: Declaration
+- entry: '116'
+  date: '2026-03-20'
+  description: Decl. of Michael J. Mongan in Support of 113 Reply by Anthropic; Exhibit 1
+  importance: low
+  documents:
+  - title: Declaration
+  - title: Exhibit
+- entry: '117'
+  date: '2026-03-20'
+  description: 'ORDER: Defendants may submit declarations/evidence in response by 3/24/2026 at 9:00 a.m. (text-only)'
+  importance: medium
+  documents:
+  - title: Text-only entry
+- entry: '118'
+  date: '2026-03-23'
+  description: NOTICE OF QUESTIONS FOR HEARING by Judge Lin
+  importance: medium
+  documents:
+  - title: Notice of Questions
+- entry: '119'
+  date: '2026-03-23'
+  description: NOTICE of Appearance by Eric J. Hamilton for Defendants
+  importance: low
+  documents:
+  - title: Notice of Appearance
+- entry: '120'
+  date: '2026-03-24'
+  description: NOTICE of Filing the Second Declaration of Emil Michael in Opposition to PI Motion by Defendants
+  importance: medium
+  documents:
+  - title: Notice
+  - title: Decl. Emil Michael (Second)
+- entry: '121'
+  date: '2026-03-20'
+  description: MOTION for Leave to File Amicus Curiae Brief by David F. Brochu (filed after deadline)
+  importance: medium
+  documents:
+  - title: Motion for Leave
+- entry: '122'
+  date: '2026-03-20'
+  description: CLERK'S NOTICE re Dkt. 121 amicus brief filed after deadline
+  importance: low
+  documents:
+  - title: Text-only entry
+- entry: '123'
+  date: '2026-03-24'
+  description: 'Minute Entry: PI Motion Hearing held 3/24/2026 (1h 35m). Court took matter under submission. Plaintiff to file decl. by 6PM; Govt response due 3/25 6PM. Plaintiff attorneys: Mongan, Geltzer,
+    Beatty, Hennessey, Data, Isr…'
+  importance: medium
+  documents:
+  - title: Minute Entry
+- entry: '124'
+  date: '2026-03-24'
+  description: TRANSCRIPT ORDER for 3/24/2026 proceedings by Anthropic
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '125'
+  date: '2026-03-24'
+  description: TRANSCRIPT ORDER for 3/24/2026 proceedings by Defendants
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '126'
+  date: '2026-03-24'
+  description: Decl. of Thiyagu Ramasamy in Support of 6 MOTION by Anthropic
+  importance: medium
+  documents:
+  - title: Declaration
+- entry: '127'
+  date: '2026-03-25'
+  description: TRANSCRIPT ORDER for 3/24/2026 proceedings by Ekhaus
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '128'
+  date: '2026-03-25'
+  description: TRANSCRIPT of 3/24/2026 Proceedings before Judge Lin (Court Reporter Ekhaus). Release of Transcript Restriction 6/23/2026
+  importance: low
+  documents:
+  - title: Transcript
+- entry: '129'
+  date: '2026-03-25'
+  description: TRANSCRIPT ORDER for 3/24/2026 proceedings
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '130'
+  date: '2026-03-25'
+  description: TRANSCRIPT ORDER for 3/24/2026 proceedings
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '131'
+  date: '2026-03-25'
+  description: OPPOSITION/RESPONSE re 6 MOTION - Response to Third Declaration of Thiyagu Ramasamy by Defendants
+  importance: medium
+  documents:
+  - title: Opposition Response
+- entry: '132'
+  date: '2026-03-26'
+  description: TRANSCRIPT ORDER for 3/24/2026 proceedings by Ekhaus
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '133'
+  date: '2026-03-26'
+  description: CORRECTED TRANSCRIPT of 3/24/2026 Proceedings (fix typos) by Ekhaus. Release of Restriction 6/24/2026
+  importance: low
+  documents:
+  - title: Transcript (Corrected)
+- entry: '134'
+  date: '2026-03-26'
+  description: ORDER GRANTING MOTION FOR PRELIMINARY INJUNCTION 6 (43 pages). Signed by Judge Rita F. Lin
+  importance: high
+  documents:
+  - title: Order Granting PI (Opinion)
+- entry: '135'
+  date: '2026-03-26'
+  description: PRELIMINARY INJUNCTION ORDER. Signed by Judge Rita F. Lin
+  importance: high
+  documents:
+  - title: Preliminary Injunction (3 pages)
+- entry: '136'
+  date: '2026-03-27'
+  description: Order granting unopposed 121 Motion to File Amicus Curiae Brief (text-only)
+  importance: high
+  documents:
+  - title: Text-only entry
+- entry: '137'
+  date: '2026-03-27'
+  description: 'ORDER re 97 Admin Motion to Seal: insufficient showing for compelling reason; may submit further evidence by April 3, 2026 (text-only)'
+  importance: medium
+  documents:
+  - title: Text-only entry
+- entry: '138'
+  date: '2026-03-30'
+  description: NOTICE of Appearance by Celine Georges Purcell (Freedom Economy Business Association and Values-Led Investors)
+  importance: low
+  documents:
+  - title: Notice of Appearance
+- entry: '139'
+  date: '2026-04-01'
+  description: 'ORDER: parties to submit joint stipulation and proposed order setting case schedule by 4/21/2026 (text-only)'
+  importance: medium
+  documents:
+  - title: Text-only entry
+- entry: '140'
+  date: '2026-04-01'
+  description: TRANSCRIPT ORDER for 3/24/2026 proceedings
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '141'
+  date: '2026-04-02'
+  description: NOTICE OF APPEAL to the 9th Circuit by Defendants (Appeal fee FEE WAIVED)
+  importance: high
+  documents:
+  - title: Notice of Appeal
+- entry: '142'
+  date: '2026-04-02'
+  description: NOTICE of Appearance by Kristina Wolfe for Defendants
+  importance: low
+  documents:
+  - title: Notice of Appearance
+- entry: '143'
+  date: '2026-04-01'
+  description: Receipt $100.00 from Anthropic (bond) via pay.gov 280SSE4P
+  importance: low
+  documents:
+  - title: Receipt
+- entry: '144'
+  date: '2026-04-03'
+  description: TRANSCRIPT ORDER by amici (Cato, Chamber of Progress, EFF, FALA, FIRE)
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '145'
+  date: '2026-04-03'
+  description: USCA Case Number 26-2011 (9th Cir.) for 141 Notice of Appeal
+  importance: high
+  documents:
+  - title: USCA Case Number Notice
+- entry: '146'
+  date: '2026-04-06'
+  description: STATUS REPORT by Defendants (per PI Order para. requiring April 6 compliance status report)
+  importance: medium
+  documents:
+  - title: Status Report
+- entry: '147'
+  date: '2026-04-09'
+  description: 'ORDER: Defendants'' 97 Admin Motion to Seal DENIED; file unredacted ECF 97-2 on public docket by April 13, 2026 (text-only)'
+  importance: medium
+  documents:
+  - title: Text-only entry
+- entry: '148'
+  date: '2026-04-10'
+  description: NOTICE of Filing Unredacted Copy of ECF No. 97-2 by Defendants
+  importance: medium
+  documents:
+  - title: Notice
+  - title: Exhibit (Unredacted)
+- entry: '149'
+  date: '2026-04-21'
+  description: JOINT STIPULATION WITH PROPOSED ORDER Regarding Case Schedule by Defendants
+  importance: medium
+  documents:
+  - title: Stipulation
+  - title: Proposed Order (Def)
+  - title: Proposed Order (Pl)
+- entry: '150'
+  date: '2026-04-23'
+  description: 'ORDER RE 149 STIPULATION: CAR due 5/22/2026; Def Answer 6/8; Pl MSJ 6/10; Def Opp/Cross-MSJ 6/24; Pl Reply 7/8; Def Reply 7/15; Hearing 7/30/2026 10:00 AM Courtroom 15'
+  importance: medium
+  documents:
+  - title: Order on Stipulation
+- entry: '151'
+  date: '2026-05-06'
+  description: NOTICE of Withdrawal by Sopen B. Shah (Cato/Chamber/EFF/FALA/FIRE amici)
+  importance: medium
+  documents:
+  - title: Notice of Withdrawal
+- entry: '152'
+  date: '2026-05-12'
+  description: 'NOTICE of Change in Counsel: A. Berengaut no longer representing Former Service Secretaries/Retired Senior Military Officers'
+  importance: medium
+  documents:
+  - title: Notice of Change in Counsel
+- entry: '153'
+  date: '2026-05-22'
+  description: STIPULATION WITH PROPOSED ORDER to Extend Deadline for Submission of Partial Administrative Record (DHS) by Defendants
+  importance: medium
+  documents:
+  - title: Stipulation
+  - title: Declaration
+  - title: Proposed Order
+- entry: '154'
+  date: '2026-05-22'
+  description: 'Order granting 153 Stipulation: DHS administrative record due 5/29/2026 (text-only)'
+  importance: high
+  documents:
+  - title: Text-only entry
+- entry: '155'
+  date: '2026-05-22'
+  description: 'NOTICE by Defendants - Filing Certified Index of Administrative Record. Attachments: Cert. Index of Admin Record; Decl. Monken; Decl. Starr; Decl. Tunnessen'
+  importance: medium
+  documents:
+  - title: Notice
+  - title: Cert. Index of AR
+  - title: Decl. Monken
+  - title: Decl. Starr
+  - title: Decl. Tunnessen

@@ -1,0 +1,192 @@
+plaintiff:
+  name: Anthropic PBC
+  type: Public benefit corporation
+  state_of_incorporation: Delaware
+  hq: San Francisco, CA
+  counsel:
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Michael J. Mongan
+      role: Lead trial counsel (N.D. Cal.)
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Kelly P. Dunbar
+      role: Lead appellate counsel (D.C. Cir.)
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Joshua A. Geltzer
+      role: Counsel of record
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Susan Hennessey
+      role: Counsel of record
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Kevin M. Lamb
+      role: Counsel of record
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Lauren Moxley Beatty
+      role: Counsel of record
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Laura E. Powell
+      role: Counsel of record
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Sonika R. Data
+      role: Counsel of record
+    - firm: Wilmer Cutler Pickering Hale and Dorr LLP
+      lead: Emily Barnet
+      role: Counsel of record
+
+defendants:
+  - name: U.S. Department of War
+    type: Federal agency
+    official: Pete Hegseth (Secretary)
+    role: Principal defendant; issued the Hegseth Directive and Supply Chain Designation
+
+  - name: Executive Office of the President
+    type: White House office
+    role: Named as to the Presidential Directive; not enjoined on PI for lack of specific implementing action
+
+  - name: U.S. Department of the Treasury
+    type: Federal agency
+    official: Scott Bessent
+  - name: U.S. Department of State
+    type: Federal agency
+  - name: U.S. Department of Health and Human Services
+    type: Federal agency
+    official: Robert F. Kennedy, Jr.
+  - name: U.S. Department of Homeland Security
+    type: Federal agency
+  - name: U.S. Department of Energy
+    type: Federal agency
+    official: Chris Wright
+  - name: U.S. Department of Commerce
+    type: Federal agency
+    official: Howard W. Lutnick
+  - name: U.S. Department of Veterans Affairs
+    type: Federal agency
+    official: Douglas A. Collins
+  - name: Social Security Administration
+    type: Federal agency
+    official: Frank Bisignano
+  - name: General Services Administration
+    type: Federal agency
+    official: Scott Kupor
+  - name: Nuclear Regulatory Commission
+    type: Independent agency
+    official: Ho K. Nieh
+  - name: National Endowment for the Arts
+    type: Independent agency
+    official: Mary Anne Carter
+  - name: National Aeronautics and Space Administration
+    type: Federal agency
+    official: Jared Isaacman
+  - name: Federal Reserve Board of Governors
+    type: Independent agency
+    official: Jerome H. Powell
+  - name: Federal Housing Finance Agency
+    type: Independent agency
+    official: Edward C. Forst
+  - name: Securities and Exchange Commission
+    type: Independent agency
+    official: Paul S. Atkins
+  - name: Office of Personnel Management
+    type: Federal agency
+
+counsel_for_defendants:
+  trial:
+    firm: U.S. Department of Justice — Civil Division, Federal Programs Branch
+    attorneys:
+      - James W. Harlow
+      - Eric J. Hamilton
+      - Christian Dibblee
+      - Kristina Wolfe
+  appellate:
+    firm: U.S. Department of Justice — Civil Appellate Staff
+    attorneys:
+      - Sharon Swingle
+      - Sean R. Janda
+      - Brian J. Springer
+    notes: Sharon Swingle argued for the government in the D.C. Cir.
+
+amici:
+  - name: Microsoft Corporation
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Employees of OpenAI and Google (personal capacities)
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Former Service Secretaries and Retired Senior Military Officers
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Former Senior National Security Government Officials
+    side: petitioner
+    in: [ndcal, dccir]
+    notes: Includes Harold Hongju Koh (Yale), pro hac counsel for the group.
+  - name: Foundation for Individual Rights and Expression (FIRE)
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Electronic Frontier Foundation
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Cato Institute
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Chamber of Progress
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: First Amendment Lawyers Association
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: American Civil Liberties Union
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Center for Democracy & Technology
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: 149 Former Judges + Democracy Defenders Fund
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Catholic Theologians and Ethicists
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: TechNet
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Software & Information Industry Association
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Computer & Communications Industry Association
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Information Technology Industry Council
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: ACT | The App Association
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Freedom Economy Business Association (and values-led investors)
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: American Federation of Government Employees
+    side: petitioner
+    in: [ndcal]
+  - name: Tech Justice Law Project
+    side: petitioner
+    in: [ndcal]
+  - name: Faith Family Technology Network
+    side: petitioner
+    in: [ndcal]
+  - name: Foundation for American Innovation et al.
+    side: petitioner
+    in: [dccir]
+    notes: Coalition including Fifty Years, Fathom, ChinaTalk, Pangram, Institute for
+      Progress, Dean Ball, Dwarkesh Patel, Roots of Progress, Alex Imas, Martin Chorzempa,
+      Saif Khan, Michael Sobolik, Steve Newman, Taren Stinebrickner-Kauffman.
+  - name: Leon Panetta + Institute for Security and Technology
+    side: petitioner
+    in: [ndcal, dccir]
+  - name: Prof. Alan Z. Rozenshtein
+    side: petitioner
+    in: [dccir]
+  - name: Abolitionist Law Center
+    side: neither
+    in: [ndcal, dccir]
+  - name: Joel Thayer (America First Policy Institute)
+    side: respondent
+    in: [dccir]

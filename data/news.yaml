@@ -1,0 +1,32 @@
+# Auto-aggregated news items.
+# - The news monitor (/api/cron/news-poll) appends new items with `approved: false`.
+# - The maintainer flips `approved: true` after manual review.
+# - Items with `approved: false` are stored but hidden from /news.
+# - No automatic AI summarization — `summary` is added by the maintainer.
+
+- title: "Anthropic sues the Trump administration over 'supply chain risk' label"
+  source: NPR
+  date: 2026-03-09
+  url: https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth
+  approved: true
+  summary: |
+    Mainstream coverage of the simultaneous filings in N.D. Cal. and D.C. Cir.
+    on the day the two complaints landed.
+
+- title: "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'"
+  source: CNBC
+  date: 2026-03-26
+  url: https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html
+  approved: true
+  summary: |
+    Mainstream coverage of Judge Lin's PI ruling.
+
+- title: "Appeals court hears Anthropic's Pentagon AI suit"
+  source: The Hill
+  date: 2026-05-19
+  url: https://thehill.com/policy/technology/5885923-appeals-court-hears-anthropics-pentagon-ai-suit/
+  approved: true
+  summary: |
+    Coverage of the May 19, 2026 oral argument in D.C. Cir. No. 26-1049,
+    including questioning from Judges Rao and Katsas of Anthropic counsel
+    Kelly Dunbar.

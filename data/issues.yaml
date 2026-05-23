@@ -1,0 +1,274 @@
+- slug: first-amendment-retaliation
+  title: First Amendment retaliation
+  doctrinal_framework: |
+    Arizona Students' Ass'n v. Arizona Bd. of Regents, 824 F.3d 858 (9th Cir. 2016) —
+    three-prong test: (1) protected activity; (2) chilling effect; (3) protected activity
+    was a substantial motivating factor. Burden shifts under Hartman v. Moore, 547 U.S. 250
+    (2006), to defendant to show it would have taken the action regardless.
+
+    Snyder v. Phelps, 562 U.S. 443 (2011), confirms speech on matters of public concern
+    is "at the heart of" First Amendment protection.
+  status_at_pi: |
+    Judge Lin found likelihood of success. Defendants did not dispute prong 2; prongs 1
+    and 3 were supported by Trump's and Hegseth's own contemporaneous statements
+    ("arrogance," "sanctimonious rhetoric," "Silicon Valley ideology," "RADICAL LEFT,
+    WOKE COMPANY") and the Michael Memo's express reliance on Anthropic's "increasingly
+    hostile manner through the press."
+  open_questions: |
+    Whether the Ninth Circuit will apply the Pickering framework instead (Lin noted in a
+    footnote that the result would be the same under Pickering because the government made
+    no balancing argument).
+
+    Whether NRA v. Vullo (2024) further bolsters the result in the government-as-procurer
+    context.
+
+    Whether the alternative viewpoint-discrimination theory survives MSJ.
+  related_holdings: ['2026-03-26']
+  related_claims: ['IV']
+  sources:
+    - kind: opinion
+      label: "PI Opinion (Dkt. 134, N.D. Cal., Mar. 26, 2026)"
+      local_path: source-docs/134-pi-opinion.txt
+      url: https://www.courtlistener.com/docket/72379655/134/anthropic-pbc-v-us-department-of-war/
+    - kind: authority
+      label: "Arizona Students' Ass'n v. Arizona Bd. of Regents"
+      cite: 824 F.3d 858 (9th Cir. 2016)
+    - kind: authority
+      label: Hartman v. Moore
+      cite: 547 U.S. 250 (2006)
+    - kind: authority
+      label: Snyder v. Phelps
+      cite: 562 U.S. 443 (2011)
+    - kind: authority
+      label: AFGE v. Trump
+      cite: 167 F.4th 1247 (9th Cir. 2026)
+    - kind: authority
+      label: NRA v. Vullo
+      cite: 602 U.S. 175 (2024)
+
+- slug: due-process
+  title: Fifth Amendment procedural due process
+  doctrinal_framework: |
+    Mathews v. Eldridge, 424 U.S. 319 (1976) — three-factor balancing of private interest,
+    risk of erroneous deprivation, and government interest.
+
+    Liberty interest in federal-contracting eligibility and reputation under Greene v.
+    McElroy, 360 U.S. 474 (1959); Trifax Corp. v. District of Columbia, 314 F.3d 641
+    (D.C. Cir. 2003); Old Dominion Dairy Prods. v. Sec'y of Defense, 631 F.2d 953
+    (D.C. Cir. 1980).
+  status_at_pi: |
+    Likelihood of success found. Court rejected the government's argument that a
+    "complete prohibition" of the right to engage in a calling is required; under the
+    D.C. Circuit's "reputation plus" test, a "broad preclusion" that "seriously affect[s],
+    if not destroy[s]" the company's ability to obtain contracts is sufficient.
+
+    Court rejected the government's exigency theory based on contradictory record evidence
+    (six-month transition plan; continued Claude use in Iran operations; days-earlier DPA
+    threat treating Anthropic as essential).
+  open_questions: |
+    Whether § 3252's stripped-down procedure can ever satisfy Mathews when applied to a
+    domestic, non-adversary contractor.
+
+    Whether a more elaborate notice-and-comment process would change the outcome.
+  related_holdings: ['2026-03-26']
+  related_claims: ['III']
+  sources:
+    - kind: opinion
+      label: "PI Opinion (Dkt. 134, N.D. Cal., Mar. 26, 2026)"
+      local_path: source-docs/134-pi-opinion.txt
+      url: https://www.courtlistener.com/docket/72379655/134/anthropic-pbc-v-us-department-of-war/
+    - kind: authority
+      label: Mathews v. Eldridge
+      cite: 424 U.S. 319 (1976)
+    - kind: authority
+      label: Greene v. McElroy
+      cite: 360 U.S. 474 (1959)
+    - kind: authority
+      label: Trifax Corp. v. District of Columbia
+      cite: 314 F.3d 641 (D.C. Cir. 2003)
+    - kind: authority
+      label: Old Dominion Dairy Prods. v. Sec'y of Defense
+      cite: 631 F.2d 953 (D.C. Cir. 1980)
+
+- slug: apa-supply-chain
+  title: APA — Supply Chain Designation (10 U.S.C. § 3252)
+  doctrinal_framework: |
+    APA § 706(2)(A), (C), (D). Statutory authority must come from the text of § 3252,
+    which targets risk that an "adversary may sabotage, maliciously introduce unwanted
+    function, or otherwise subvert" a covered system.
+
+    Procedural requirements at § 3252(b)(2)(B) and (b)(3)(B) include a written
+    determination that less intrusive measures are not reasonably available; 48 C.F.R.
+    § 239.7304(a) requires risk assessment from the Under Secretary of Defense for
+    Intelligence.
+  status_at_pi: |
+    Three independent APA problems found.
+
+    (a) The designation falls outside the statute's text — government counsel could not
+    identify record evidence that Anthropic has technical capability to alter or stop
+    Claude in DoW environments after deployment.
+
+    (b) Procedural defects — the six identical letters to congressional committees did
+    not discuss less intrusive measures, and the assessment came from the wrong Under
+    Secretary (Michael, who led contract negotiations).
+
+    (c) Arbitrary and capricious / pretextual under Department of Commerce v. New York.
+  open_questions: |
+    Whether the major questions doctrine applies (Lawfare argument, drawing on the
+    Roberts plurality in the SCOTUS IEEPA tariffs decision earlier in 2026).
+
+    Whether the Acronis AG designation (Sept. 2025) is the only meaningful precedent
+    and how much weight to give that.
+  related_holdings: ['2026-03-26']
+  related_claims: ['I']
+  sources:
+    - kind: opinion
+      label: "PI Opinion (Dkt. 134, N.D. Cal., Mar. 26, 2026)"
+      local_path: source-docs/134-pi-opinion.txt
+      url: https://www.courtlistener.com/docket/72379655/134/anthropic-pbc-v-us-department-of-war/
+    - kind: authority
+      label: "10 U.S.C. § 3252 — DoD Supply Chain Risk authority"
+      url: https://www.law.cornell.edu/uscode/text/10/3252
+    - kind: authority
+      label: "48 C.F.R. § 239.7304 — Risk assessment requirement"
+      url: https://www.ecfr.gov/current/title-48/chapter-2/subchapter-E/part-239
+    - kind: authority
+      label: Motor Vehicle Mfrs. Ass'n v. State Farm
+      cite: 463 U.S. 29 (1983)
+    - kind: authority
+      label: Department of Commerce v. New York
+      cite: 588 U.S. 752 (2019)
+
+- slug: ultra-vires
+  title: Ultra vires — Presidential Directive
+  doctrinal_framework: |
+    Equitable cause of action available against executive officials acting beyond
+    statutory or constitutional authority — Larson v. Domestic & Foreign Commerce Corp.,
+    337 U.S. 682 (1949); American School of Magnetic Healing v. McAnnulty, 187 U.S. 94
+    (1902). Distinct from APA review and not subject to APA preclusion provisions.
+  status_at_pi: |
+    Not reached. Court found three independent merits problems and declined to address
+    ultra vires.
+  open_questions: |
+    Whether the Presidential Directive is reviewable at all (Trump v. Hawaii, Franklin v.
+    Massachusetts). Whether the Take Care Clause supports independent claim. Available
+    as a backstop for declaratory relief on MSJ.
+  related_claims: ['V']
+  sources:
+    - kind: authority
+      label: Larson v. Domestic & Foreign Commerce Corp.
+      cite: 337 U.S. 682 (1949)
+    - kind: authority
+      label: American School of Magnetic Healing v. McAnnulty
+      cite: 187 U.S. 94 (1902)
+    - kind: authority
+      label: Trump v. Hawaii
+      cite: 585 U.S. 667 (2018)
+    - kind: authority
+      label: Franklin v. Massachusetts
+      cite: 505 U.S. 788 (1992)
+
+- slug: fascsa-jurisdiction
+  title: D.C. Cir. jurisdiction under 41 U.S.C. § 1327
+  doctrinal_framework: |
+    FASCSA (41 U.S.C. § 4713) — Federal Acquisition Supply Chain Security Act. Provides
+    30 days' notice, opportunity to respond, interagency review, and direct judicial
+    review in the D.C. Circuit under 41 U.S.C. § 1327 over "covered procurement actions."
+  status_at_pi: |
+    D.C. Cir. denied Anthropic's emergency stay in April 2026 (per curiam, Wilkins,
+    Katsas, Rao); commentary reads denial as procedurally driven, not a merits signal.
+
+    Panel pre-ordered three argument issues: § 1327 jurisdiction; whether the Notice
+    "directs or takes" a covered procurement action; whether Anthropic can affect Claude's
+    functioning after delivery.
+  open_questions: |
+    Whether jurisdiction over § 4713 actions extends to the form of action taken here.
+
+    How the panel weighs the third issue, which echoes the factual question Judge Lin
+    answered against the government on the § 3252 designation.
+  related_holdings: ['2026-04-20', '2026-05-21']
+  sources:
+    - kind: order
+      label: Per Curiam Order denying emergency stay (D.C. Cir., Apr. 20, 2026)
+      url: https://www.courtlistener.com/docket/72380208/anthropic-pbc-v-united-states-department-of-war/
+    - kind: order
+      label: Per Curiam Order for supplemental briefing (D.C. Cir., May 21, 2026)
+      url: https://www.courtlistener.com/docket/72380208/anthropic-pbc-v-united-states-department-of-war/
+    - kind: authority
+      label: "41 U.S.C. § 4713 (FASCSA)"
+      url: https://www.law.cornell.edu/uscode/text/41/4713
+    - kind: authority
+      label: "41 U.S.C. § 1327 (judicial review)"
+      url: https://www.law.cornell.edu/uscode/text/41/1327
+
+- slug: webster-doe-carveout
+  title: Webster v. Doe and constitutional carveouts
+  doctrinal_framework: |
+    Webster v. Doe, 486 U.S. 592 (1988) — even broad statutory preclusion-of-review
+    provisions are read not to preclude constitutional claims unless Congress clearly
+    intends to do so.
+  status_at_pi: |
+    Lin did not need to reach the carveout because the government did not press the
+    preclusion argument and the APA route was open. Available as a backstop should the
+    government argue § 3252's reviewability bar extends to constitutional claims.
+  open_questions: |
+    Whether the principle extends to the FASCSA review framework in the D.C. Cir. case.
+  sources:
+    - kind: authority
+      label: Webster v. Doe
+      cite: 486 U.S. 592 (1988)
+
+- slug: bill-of-attainder
+  title: Bill of Attainder (Koh et al.)
+  doctrinal_framework: |
+    U.S. Const. art. I, §§ 9 cl. 3 and 10 cl. 1.
+
+    Modern attainder test (Selective Service System v. Minnesota PIRG, 468 U.S. 841
+    (1984); Nixon v. Administrator, 433 U.S. 425 (1977)) requires (1) specificity —
+    singles out an identifiable person; and (2) punishment without judicial process.
+  status_at_pi: |
+    Not pleaded by Anthropic, but raised by Koh, Swartz, Gupta, and Worthington on
+    Just Security (Mar. 6, 2026). Available as a potential amendment.
+  open_questions: |
+    Whether Anthropic adds a Bill of Attainder count on amendment, and how the modern
+    attainder doctrine — rarely applied to corporate entities — would map to the facts.
+  sources:
+    - kind: article
+      label: "The Anthropic Designation and the Bill of Attainder Doctrine (Just Security, Mar. 6, 2026)"
+      url: https://www.justsecurity.org/
+    - kind: authority
+      label: Selective Service System v. Minnesota PIRG
+      cite: 468 U.S. 841 (1984)
+    - kind: authority
+      label: Nixon v. Administrator
+      cite: 433 U.S. 425 (1977)
+
+- slug: pretext-doctrine
+  title: Pretext under Department of Commerce v. New York
+  doctrinal_framework: |
+    Department of Commerce v. New York, 588 U.S. 752 (2019) — courts "are not required
+    to exhibit a naiveté from which ordinary citizens are free." Even where an agency
+    has statutory authority, courts must reject action where the stated rationale is a
+    "contrived" pretext for the actual motive.
+  status_at_pi: |
+    Applied to the Supply Chain Designation. The "story" the record tells does not match
+    the explanation given: Michael's same-day cordial emails to Amodei ("I think we are
+    very close here") cannot be squared with his contemporaneous characterization of
+    Anthropic as an "unacceptable national security threat"; Hegseth's days-earlier
+    Defense Production Act threat treats Anthropic as essential and contradicts the
+    "supply chain risk" framing.
+  open_questions: |
+    How the doctrine plays in the FASCSA case, where the record before the D.C. Cir. is
+    narrower.
+
+    Whether the OpenAI parallel deal further strengthens pretext on disparate treatment.
+  related_holdings: ['2026-03-26']
+  related_claims: ['I']
+  sources:
+    - kind: authority
+      label: Department of Commerce v. New York
+      cite: 588 U.S. 752 (2019)
+    - kind: opinion
+      label: "PI Opinion (Dkt. 134, N.D. Cal., Mar. 26, 2026)"
+      local_path: source-docs/134-pi-opinion.txt
+      url: https://www.courtlistener.com/docket/72379655/134/anthropic-pbc-v-us-department-of-war/
