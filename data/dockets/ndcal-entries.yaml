@@ -1059,3 +1059,12 @@
   - title: Decl. Monken
   - title: Decl. Starr
   - title: Decl. Tunnessen
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-05-24 ---
+- entry: '55'
+  date: '2026-03-12'
+  description: ORDER RE AMICUS CURIAE BRIEFS. Amicus briefs in support of the motion for preliminary injunction must be filed by 3/13/2026 at 5:00 p.m. Amicus briefs oppositions due 3/17/2026 at 5:00 p.m.
+    Signed by Judge Rita F. Lin o…
+  importance: high
+  documents:
+  - title: Order on Motion to File Amicus Curiae Brief
