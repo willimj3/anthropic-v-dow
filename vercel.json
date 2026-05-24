@@ -1,14 +1,3 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "_comment_crons": "Cron jobs are intentionally disabled until the maintainer has reviewed the monitor scripts and added the COURTLISTENER_TOKEN and email-provider env vars in Vercel. To enable, uncomment the `crons` array below and redeploy.",
-  "_disabled_crons": [
-    {
-      "path": "/api/cron/recap-poll",
-      "schedule": "0 12 * * *"
-    },
-    {
-      "path": "/api/cron/news-poll",
-      "schedule": "0 13 * * *"
-    }
-  ]
+  "$schema": "https://openapi.vercel.sh/vercel.json"
 }

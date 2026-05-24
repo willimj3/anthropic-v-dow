@@ -1,0 +1,8 @@
+{
+  "_comment": "Sample cron schedule for the monitor handlers. Vercel's vercel.json schema rejects unknown properties, so this lives in a separate file. To enable: merge the `crons` array below into vercel.json and push. The handlers require CRON_SECRET, COURTLISTENER_TOKEN, and optionally GITHUB_TOKEN/GITHUB_REPO and RESEND_API_KEY/POSTMARK_TOKEN — see README.md.",
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "crons": [
+    { "path": "/api/cron/recap-poll", "schedule": "0 12 * * *" },
+    { "path": "/api/cron/news-poll",  "schedule": "0 13 * * *" }
+  ]
+}
