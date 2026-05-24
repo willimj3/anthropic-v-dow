@@ -23,7 +23,7 @@ const config: Config = {
       },
       maxWidth: {
         prose: '68ch',
-        page: '72rem',
+        page: '84rem',
       },
       typography: {
         DEFAULT: {

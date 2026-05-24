@@ -27,7 +27,7 @@ export function DocketEntryRow({
   return (
     <li
       data-importance={entry.importance}
-      className={`border-b border-rule py-4 grid grid-cols-[3.5rem,7rem,1fr] gap-x-4 items-start ${IMPORTANCE_ROW[entry.importance]}`}
+      className={`border-b border-rule py-5 grid grid-cols-[6rem,7rem,1fr] gap-x-5 items-start ${IMPORTANCE_ROW[entry.importance]}`}
     >
       <div className="ui text-sm text-muted tabular-nums">
         {entryUrl ? (
