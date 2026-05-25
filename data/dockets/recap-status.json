@@ -815,6 +815,14 @@
     "is_available_flag": true,
     "page_count": 42
   },
+  "dccir-d:motion to participate as amicus curiae [disclosure listing: attached] filed by t": {
+    "available": true,
+    "document_number": "01208831117",
+    "file_size": 182828,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
+  },
   "dccir-d:motion to participate as amicus curiae [disclosure listing: not applicable to th": {
     "available": true,
     "document_number": "01208831087",
@@ -904,6 +912,14 @@
     "page_count": 1
   },
   "dccir-d:per curiam order filed on the court's own motion, that the parties file suppleme": {
+    "available": true,
+    "document_number": "01208852327",
+    "file_size": 48533,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-d:per curiam order filed on the court\u2019s own motion, that the parties file suppleme": {
     "available": true,
     "document_number": "01208852327",
     "file_size": 48533,
@@ -1182,6 +1198,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 21
+  },
+  "dccir-doc:01208831117": {
+    "available": true,
+    "document_number": "01208831117",
+    "file_size": 182828,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-doc:01208831120": {
     "available": true,
@@ -1790,6 +1814,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 21
+  },
+  "dccir-doc:1208831117": {
+    "available": true,
+    "document_number": "01208831117",
+    "file_size": 182828,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-doc:1208831120": {
     "available": true,
@@ -2712,12 +2744,12 @@
     "page_count": null
   },
   "ndcal-155": {
-    "available": false,
+    "available": true,
     "document_number": "155",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 105767,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
   },
   "ndcal-16": {
     "available": false,
@@ -2903,9 +2935,25 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-43": {
+    "available": false,
+    "document_number": "43",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-44": {
     "available": false,
     "document_number": "44",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-46": {
+    "available": false,
+    "document_number": "46",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -3159,6 +3207,14 @@
     "is_available_flag": true,
     "page_count": 5
   },
+  "ndcal-78": {
+    "available": true,
+    "document_number": "78",
+    "file_size": 398901,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
   "ndcal-79": {
     "available": false,
     "document_number": "79",
@@ -3174,6 +3230,22 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "ndcal-82": {
+    "available": true,
+    "document_number": "82",
+    "file_size": 2694258,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 18
+  },
+  "ndcal-83": {
+    "available": true,
+    "document_number": "83",
+    "file_size": 187670,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
   },
   "ndcal-84": {
     "available": false,
@@ -3311,6 +3383,14 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-d:***erroneously e-filed, disregard see doc 80 *** motion to file amicus curiae br": {
+    "available": true,
+    "document_number": "78",
+    "file_size": 398901,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
   "ndcal-d:administrative motion for for leave to file brief of amici curiae freedom econom": {
     "available": true,
     "document_number": "77",
@@ -3358,6 +3438,14 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "ndcal-d:brief corrected amicus curiae brief filed bycatholic moral theologians and ethic": {
+    "available": true,
+    "document_number": "83",
+    "file_size": 187670,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
   },
   "ndcal-d:brief of amici curiae filed bycato institute, chamber of progress, electronic fr": {
     "available": true,
@@ -3497,7 +3585,7 @@
   },
   "ndcal-d:first motion for leave to appear in pro hac vice ( filing fee $ 328, receipt num": {
     "available": false,
-    "document_number": "106",
+    "document_number": "109",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -3561,7 +3649,7 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice of alexandra barbee-garrett ( filing ": {
     "available": false,
-    "document_number": "89",
+    "document_number": "90",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -3641,8 +3729,8 @@
   },
   "ndcal-d:notice by paul s. atkins, scott bessent, frank j. bisigano, mary anne carter, do": {
     "available": true,
-    "document_number": "148",
-    "file_size": 105787,
+    "document_number": "155",
+    "file_size": 105767,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
@@ -4166,6 +4254,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 6
+  },
+  "ndcal-d:third party motion to file amicus curiae brief in favor of neither party filed b": {
+    "available": true,
+    "document_number": "82",
+    "file_size": 2694258,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 18
   },
   "ndcal-d:transcript of proceedings held on 03/24/2026, before judge rita f. lin. court re": {
     "available": false,
@@ -4728,12 +4824,12 @@
     "page_count": null
   },
   "ndcal-doc:155": {
-    "available": false,
+    "available": true,
     "document_number": "155",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 105767,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
   },
   "ndcal-doc:16": {
     "available": false,
@@ -4919,9 +5015,25 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-doc:43": {
+    "available": false,
+    "document_number": "43",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-doc:44": {
     "available": false,
     "document_number": "44",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:46": {
+    "available": false,
+    "document_number": "46",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -5175,6 +5287,14 @@
     "is_available_flag": true,
     "page_count": 5
   },
+  "ndcal-doc:78": {
+    "available": true,
+    "document_number": "78",
+    "file_size": 398901,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
   "ndcal-doc:79": {
     "available": false,
     "document_number": "79",
@@ -5190,6 +5310,22 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "ndcal-doc:82": {
+    "available": true,
+    "document_number": "82",
+    "file_size": 2694258,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 18
+  },
+  "ndcal-doc:83": {
+    "available": true,
+    "document_number": "83",
+    "file_size": 187670,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
   },
   "ndcal-doc:84": {
     "available": false,
