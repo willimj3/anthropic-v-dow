@@ -81,6 +81,14 @@ export interface Amicus {
   side: 'petitioner' | 'respondent' | 'neither';
   in: string[];
   notes?: string;
+  /**
+   * Case-insensitive substrings used to match docket-entry descriptions to
+   * this amicus (in addition to "amicus" in the description). If omitted,
+   * the amicus's `name` is used as a single match term — works for
+   * unambiguous names but fails when the amicus is one of several listed on
+   * a single joint brief.
+   */
+  match?: string[];
 }
 
 export interface Parties {
@@ -247,6 +255,53 @@ export function loadUpdates(): UpdateEntry[] {
 
 export function loadGlossary(): GlossaryEntry[] {
   return readYaml<GlossaryEntry[]>('glossary.yaml');
+}
+
+// ---------- amicus brief discovery ----------
+
+export interface AmicusBrief {
+  court: 'ndcal' | 'dccir' | 'ca9';
+  date: string;
+  entry: string | null;
+  description: string;
+  recap?: RecapStatus | null;
+}
+
+/**
+ * Scan all three dockets for entries whose description mentions both
+ * "amicus" and the amicus's name (or one of its `match` aliases). Dedupes
+ * by (court, date) so a "motion to file" plus a separately-docketed "lodged
+ * brief" only count once.
+ */
+export function briefsForAmicus(amicus: Amicus): AmicusBrief[] {
+  const terms = (amicus.match && amicus.match.length > 0 ? amicus.match : [amicus.name])
+    .map((t) => t.toLowerCase());
+
+  const all = loadAllDocketEntries();
+  const found: AmicusBrief[] = [];
+  const seen = new Set<string>();
+
+  for (const court of ['ndcal', 'dccir', 'ca9'] as const) {
+    for (const entry of all[court]) {
+      const desc = (entry.description || '').toLowerCase();
+      if (!desc.includes('amicus')) continue;
+      const hit = terms.some((t) => desc.includes(t));
+      if (!hit) continue;
+      const dedupeKey = `${court}-${entry.date}`;
+      if (seen.has(dedupeKey)) continue;
+      seen.add(dedupeKey);
+      found.push({
+        court,
+        date: entry.date,
+        entry: entry.entry,
+        description: entry.description,
+        recap: recapStatusFor(court, entry),
+      });
+    }
+  }
+
+  found.sort((a, b) => (a.date < b.date ? -1 : 1));
+  return found;
 }
 
 export function loadDocketEntries(id: 'ndcal' | 'dccir' | 'ca9'): DocketEntry[] {

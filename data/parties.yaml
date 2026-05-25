@@ -108,85 +108,112 @@ amici:
   - name: Microsoft Corporation
     side: petitioner
     in: [ndcal, dccir]
+    match: [microsoft]
   - name: Employees of OpenAI and Google (personal capacities)
     side: petitioner
     in: [ndcal, dccir]
+    match: [openai and google]
   - name: Former Service Secretaries and Retired Senior Military Officers
     side: petitioner
     in: [ndcal, dccir]
+    match: [former service secretaries, retired senior military]
   - name: Former Senior National Security Government Officials
     side: petitioner
     in: [ndcal, dccir]
+    match: [national security government officials, former senior national security]
     notes: Includes Harold Hongju Koh (Yale), pro hac counsel for the group.
   - name: Foundation for Individual Rights and Expression (FIRE)
     side: petitioner
     in: [ndcal, dccir]
+    match: [individual rights and expression]
   - name: Electronic Frontier Foundation
     side: petitioner
     in: [ndcal, dccir]
+    match: [electronic frontier]
   - name: Cato Institute
     side: petitioner
     in: [ndcal, dccir]
+    match: [cato institute]
   - name: Chamber of Progress
     side: petitioner
     in: [ndcal, dccir]
+    match: [chamber of progress]
   - name: First Amendment Lawyers Association
     side: petitioner
     in: [ndcal, dccir]
+    match: [first amendment lawyers]
   - name: American Civil Liberties Union
     side: petitioner
     in: [ndcal, dccir]
+    match: [american civil liberties union]
   - name: Center for Democracy & Technology
     side: petitioner
     in: [ndcal, dccir]
+    match: [center for democracy]
   - name: 149 Former Judges + Democracy Defenders Fund
     side: petitioner
     in: [ndcal, dccir]
+    match: [former judges, democracy defenders]
   - name: Catholic Theologians and Ethicists
     side: petitioner
     in: [ndcal, dccir]
+    match: [catholic moral theologians, catholic theologians]
   - name: TechNet
     side: petitioner
     in: [ndcal, dccir]
+    match: [technet]
   - name: Software & Information Industry Association
     side: petitioner
     in: [ndcal, dccir]
+    match: [software & information industry, software and information industry]
   - name: Computer & Communications Industry Association
     side: petitioner
     in: [ndcal, dccir]
+    match: [computer & communications, computer and communications]
   - name: Information Technology Industry Council
     side: petitioner
     in: [ndcal, dccir]
+    match: [information technology industry council]
   - name: ACT | The App Association
     side: petitioner
     in: [ndcal, dccir]
+    match: [app association]
   - name: Freedom Economy Business Association (and values-led investors)
     side: petitioner
     in: [ndcal, dccir]
+    match: [freedom economy]
   - name: American Federation of Government Employees
     side: petitioner
     in: [ndcal]
+    match: [american federation of government employees]
   - name: Tech Justice Law Project
     side: petitioner
     in: [ndcal]
+    match: [tech justice]
   - name: Faith Family Technology Network
     side: petitioner
     in: [ndcal]
+    match: [faith family]
   - name: Foundation for American Innovation et al.
     side: petitioner
     in: [dccir]
+    match: [foundation for american innovation]
     notes: Coalition including Fifty Years, Fathom, ChinaTalk, Pangram, Institute for
       Progress, Dean Ball, Dwarkesh Patel, Roots of Progress, Alex Imas, Martin Chorzempa,
       Saif Khan, Michael Sobolik, Steve Newman, Taren Stinebrickner-Kauffman.
   - name: Leon Panetta + Institute for Security and Technology
     side: petitioner
     in: [ndcal, dccir]
+    match: [leon panetta, institute for security and technology]
   - name: Prof. Alan Z. Rozenshtein
     side: petitioner
     in: [dccir]
+    match: [rozenshtein]
   - name: Abolitionist Law Center
     side: neither
     in: [ndcal, dccir]
+    match: [abolitionist law center]
   - name: Joel Thayer (America First Policy Institute)
     side: respondent
     in: [dccir]
+    match: [joel thayer, america first policy institute]
