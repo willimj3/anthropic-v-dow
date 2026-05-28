@@ -25,8 +25,6 @@ export default function HomePage() {
         <p className="text-muted mt-4 text-lg whitespace-pre-line">{meta.status_summary}</p>
         <p className="mt-6">
           <Link href="#the-case-in-full">Read the full explainer ↓</Link>
-          <span className="text-muted mx-3">·</span>
-          <Link href="/study-guide">Study guide →</Link>
         </p>
       </section>
 

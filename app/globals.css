@@ -101,33 +101,6 @@
            px-1.5 py-0.5 rounded border border-rule text-muted whitespace-nowrap;
   }
 
-  /* Study-guide details/summary styling. */
-  .study-card {
-    @apply border border-rule rounded-sm px-5 py-4 my-3 bg-white/30 transition-colors;
-  }
-  .study-card[open] {
-    @apply bg-white/70;
-  }
-  .study-card > summary {
-    @apply cursor-pointer font-semibold leading-snug list-none;
-  }
-  .study-card > summary::-webkit-details-marker {
-    display: none;
-  }
-  .study-card > summary::before {
-    content: '＋';
-    @apply text-muted font-normal mr-3 inline-block w-3;
-  }
-  .study-card[open] > summary::before {
-    content: '−';
-  }
-  .study-card > summary > .badge {
-    @apply mr-2;
-  }
-  .study-card p:first-of-type {
-    @apply mt-3;
-  }
-
   /* Filter chip used on docket pages. */
   .chip {
     @apply ui inline-flex items-center text-xs uppercase tracking-wider

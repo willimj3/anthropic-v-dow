@@ -119,21 +119,19 @@ export default function PartiesPage() {
                     No filing matched on the docket yet.
                   </p>
                 ) : (
-                  <ul className="mt-3 space-y-2 list-none p-0">
+                  <ul className="mt-3 space-y-4 list-none p-0">
                     {briefs.map((b, i) => {
                       const url = clEntryUrl(b.court, b.entry, b.recap?.document_number ?? undefined);
                       return (
-                        <li
-                          key={`${b.court}-${b.date}-${i}`}
-                          className="text-sm leading-snug grid grid-cols-[5rem,4.5rem,1fr] gap-x-3"
-                        >
-                          <span className="ui text-xs uppercase tracking-widest text-muted whitespace-nowrap pt-0.5">
+                        <li key={`${b.court}-${b.date}-${i}`} className="text-sm">
+                          <p className="ui text-xs uppercase tracking-widest text-muted mb-1">
                             {courtLabel(b.court)}
-                          </span>
-                          <span className="ui text-muted whitespace-nowrap tabular-nums pt-0.5">
-                            {shortDate(b.date)}
-                          </span>
-                          <span>
+                            <span className="mx-2">·</span>
+                            <span className="tabular-nums normal-case tracking-normal">
+                              {shortDate(b.date)}
+                            </span>
+                          </p>
+                          <p className="leading-relaxed m-0 max-w-prose">
                             {url ? (
                               <a href={url} target="_blank" rel="noopener noreferrer">
                                 {b.description}
@@ -151,7 +149,7 @@ export default function PartiesPage() {
                                 PDF not in RECAP
                               </span>
                             ) : null}
-                          </span>
+                          </p>
                         </li>
                       );
                     })}

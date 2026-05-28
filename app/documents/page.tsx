@@ -47,7 +47,7 @@ export default function DocumentsPage() {
             return (
               <li
                 key={i}
-                className="border-b border-rule py-3 grid grid-cols-[6rem,3.5rem,7rem,1fr] gap-x-4 items-baseline"
+                className="border-b border-rule py-3 grid grid-cols-[1fr] sm:grid-cols-[8rem,5rem,8rem,minmax(0,1fr)] gap-x-8 gap-y-0.5 items-baseline"
               >
                 <span className="ui text-xs uppercase tracking-widest text-muted">
                   {courtLabel(r.court)}

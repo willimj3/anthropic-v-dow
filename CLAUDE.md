@@ -16,7 +16,6 @@ Python data scripts — use `python3` (not `python`). All are run from the repo 
 
 ```bash
 python3 scripts/build_docket_yaml.py        # dockets/*.tsv  → data/dockets/*-entries.yaml (DESTRUCTIVE)
-python3 scripts/build_study_guide.py        # 02-anki-deck.csv → data/study-guide.mdx (idempotent)
 COURTLISTENER_TOKEN=xxx python3 scripts/sync_dockets.py [--dry-run] [--court ndcal|dccir|ca9]
 COURTLISTENER_TOKEN=xxx python3 scripts/check_recap.py  [--court ndcal|dccir|ca9]
 COURTLISTENER_TOKEN=xxx python3 scripts/fetch_pdfs.py   [--court ndcal|dccir|ca9]
@@ -37,14 +36,12 @@ COURTLISTENER_TOKEN=xxx python3 scripts/fetch_pdfs.py   [--court ndcal|dccir|ca9
 
 ### Routes and content
 
-The long-form case explainer is MDX at `components/CaseExplainer.mdx`, rendered inline on the home page (`app/page.tsx`) inside a two-column grid alongside the sticky `WhatsNextRail`. Data-driven pages — `/timeline`, `/dockets`, `/dockets/[id]`, `/parties`, `/law`, `/issues/[slug]`, `/press`, `/study-guide`, `/glossary`, `/documents`, `/updates`, `/about` — are `.tsx` and read from `data/`.
+The long-form case explainer is MDX at `components/CaseExplainer.mdx`, rendered inline on the home page (`app/page.tsx`) inside a two-column grid alongside the sticky `WhatsNextRail`. Data-driven pages — `/timeline`, `/dockets`, `/dockets/[id]`, `/parties`, `/law`, `/issues/[slug]`, `/press`, `/glossary`, `/documents`, `/updates`, `/about` — are `.tsx` and read from `data/`.
 
 Two consolidated routes hold the bulk of the substance:
 
 - **`/law`** — Holdings, Claims, Issues as one page with `#holdings`, `#claims`, `#issues` anchors. Per-issue detail pages still live at `/issues/[slug]` for deep-linking.
 - **`/press`** — Commentary and News with `#commentary`, `#news` anchors.
-
-`data/study-guide.mdx` is **generated** by `scripts/build_study_guide.py` from `02-anki-deck.csv`. Edit the CSV (or the script's section grouping), not the MDX.
 
 Inline case-name and statute citations are auto-linked via `lib/citations.ts` + `<Prose linkify>` (Cornell LII for SCOTUS, eCFR for CFR, CourtListener search URLs for circuit cases). Add a new authority by adding a key to `AUTHORITIES`; longest-key wins so case names with subphrases sort correctly.
 

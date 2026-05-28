@@ -36,9 +36,8 @@ export default function AboutPage() {
           Every fact on the site lives in a YAML or MDX file under <code>data/</code> or{' '}
           <code>content/</code>. The build process reads those files; there is no database. The
           long-form explainer on the <Link href="/">overview page</Link> traces directly to a memo synthesized
-          from the complaint and Judge Lin's PI opinion. The study guide at{' '}
-          <Link href="/study-guide">/study-guide</Link> is generated from the underlying Anki deck. The
-          doctrinal substance lives at <Link href="/law">/law</Link>; press coverage and commentary at{' '}
+          from the complaint and Judge Lin's PI opinion. The doctrinal substance lives at{' '}
+          <Link href="/law">/law</Link>; press coverage and commentary at{' '}
           <Link href="/press">/press</Link>.
         </p>
         <p>

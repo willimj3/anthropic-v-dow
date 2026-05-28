@@ -37,6 +37,8 @@ except ImportError as e:
     print(f"missing dep: {e} (pip install pyyaml requests)", file=sys.stderr)
     sys.exit(1)
 
+from docket_classifier import classify  # shared with build_docket_yaml.py
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DOCKETS = ROOT / "data" / "dockets"
 
@@ -46,78 +48,6 @@ DOCKET_IDS = {
     "ca9": 73136734,
 }
 CL_API = "https://www.courtlistener.com/api/rest/v4"
-
-# Mirror build_docket_yaml.py classifier.
-HIGH_PATTERNS = [
-    re.compile(p, re.IGNORECASE) for p in [
-        r"\bopinion\b",
-        r"\border granting\b",
-        r"\border denying\b",
-        r"\bjudgment\b",
-        r"\bpreliminary injunction\b",
-        r"\btemporary restraining order\b",
-        r"\bmotion to stay\b.*\bpending\b",
-        r"\bemergency motion\b",
-        r"\bemergency stay\b",
-        r"\bcomplaint\b",
-        r"\bpetition for review\b",
-        r"\bnotice of appeal\b",
-        r"\bmotion for summary judgment\b",
-        r"\bcross[- ]motion\b",
-        r"\bsupplemental brief\b",
-        r"\boral argument\b",
-        r"\bopposition\b.*\b(stay|injunction|preliminary)\b",
-        r"\breply\b.*\b(stay|injunction|preliminary)\b",
-        r"\bresponse in opposition\b",
-        r"\bper curiam order\b",
-        r"\bmandamus\b",
-    ]
-]
-
-EXCLUDE_PATTERNS = [
-    re.compile(p, re.IGNORECASE) for p in [
-        r"order on motion for pro hac vice",
-        r"order granting.{0,5}motion for pro hac vice",
-        r"order setting status",
-        r"order setting briefing schedule",
-        r"clerk.s notice",
-        r"transcript order",
-        r"notice of appearance",
-        r"certified copy",
-        r"docketing statement",
-        r"summons issued",
-        r"motion for pro hac vice",
-        r"corporate disclosure",
-        r"case opened",
-        r"mediation questionnaire",
-    ]
-]
-
-MEDIUM_PATTERNS = [
-    re.compile(p, re.IGNORECASE) for p in [
-        r"\bamicus\b",
-        r"\bmotion\b",
-        r"\bbrief\b",
-        r"\border\b",
-        r"\bstipulation\b",
-        r"\bdeclaration\b",
-        r"\bnotice\b",
-        r"\badministrative record\b",
-    ]
-]
-
-
-def classify(description: str) -> str:
-    for p in EXCLUDE_PATTERNS:
-        if p.search(description):
-            return "low"
-    for p in HIGH_PATTERNS:
-        if p.search(description):
-            return "high"
-    for p in MEDIUM_PATTERNS:
-        if p.search(description):
-            return "medium"
-    return "low"
 
 
 def auth_headers() -> dict[str, str]:

@@ -35,7 +35,7 @@ The site has no admin UI. Everything is committed text.
 | News item promoted from auto-queue | flip `approved: true` in `data/news.yaml` |
 | New section in the long-form explainer | `content/case/*.mdx` |
 | Site-level changelog entry | `data/updates.yaml` |
-| Anki deck refresh | edit `02-anki-deck.csv` (study guide rebuilds automatically) |
+| Anki deck refresh | edit `02-anki-deck.csv` |
 
 After editing, commit and push to `main`. Vercel deploys on push.
 
@@ -99,7 +99,7 @@ for human review. See `spec §11`.
 ## Sources
 
 - `01-CASE-SUMMARY.md` — analytical memo across all three dockets
-- `02-anki-deck.csv` — 54-card study deck (drives `/study-guide`)
+- `02-anki-deck.csv` — 54-card study deck (downloadable Anki import)
 - `source-docs/01-complaint.txt`, `source-docs/134-pi-opinion.txt`
 - `dockets/*.tsv` — RECAP docket sheets
 
