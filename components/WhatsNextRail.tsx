@@ -1,20 +1,58 @@
+'use client';
+
+import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import type { WhatsNextEntry } from '@/lib/data';
-import { daysFromToday, longDate, shortDate, courtLabel } from '@/lib/format';
+import { longDate, shortDate, courtLabel } from '@/lib/format';
+
+/** Viewer-local calendar date as YYYY-MM-DD. */
+function localTodayISO(): string {
+  const d = new Date();
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const day = String(d.getDate()).padStart(2, '0');
+  return `${y}-${m}-${day}`;
+}
+
+/** Whole calendar days from one ISO date to another. Negative if `to` is past. */
+function daysBetween(fromISO: string, toISO: string): number {
+  const from = new Date(`${fromISO}T00:00:00`).getTime();
+  const to = new Date(`${toISO}T00:00:00`).getTime();
+  return Math.round((to - from) / (24 * 60 * 60 * 1000));
+}
 
 /**
  * The "What's next" sidebar shown alongside the home-page case explainer.
  * Renders a large countdown card for the very next deadline plus a compact
  * list of the subsequent ones. Sticky on lg+ viewports; stacks below the
  * explainer on smaller screens.
+ *
+ * The countdown is relative to *now*, so it must be computed against the
+ * viewer's clock — not the build/deploy time. We seed state with the server's
+ * `serverToday` so the first client render matches the SSR markup (no
+ * hydration mismatch), then switch to the viewer's local date after mount.
  */
-export function WhatsNextRail({ entries }: { entries: WhatsNextEntry[] }) {
-  if (entries.length === 0) return null;
+export function WhatsNextRail({
+  entries,
+  serverToday,
+}: {
+  entries: WhatsNextEntry[];
+  serverToday: string;
+}) {
+  const [today, setToday] = useState(serverToday);
+  useEffect(() => {
+    setToday(localTodayISO());
+  }, []);
 
-  const sorted = [...entries].sort((a, b) => (a.date < b.date ? -1 : 1));
-  const next = sorted[0];
-  const rest = sorted.slice(1, 6);
-  const nextDays = daysFromToday(next.date);
+  const upcoming = entries
+    .filter((e) => e.date >= today)
+    .sort((a, b) => (a.date < b.date ? -1 : 1));
+
+  if (upcoming.length === 0) return null;
+
+  const next = upcoming[0];
+  const rest = upcoming.slice(1, 6);
+  const nextDays = daysBetween(today, next.date);
 
   function relativeShort(days: number): string {
     if (days === 0) return 'today';

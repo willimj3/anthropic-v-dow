@@ -49,30 +49,6 @@ export function courtLabel(id: string): string {
   }
 }
 
-/** Number of days from today to the given ISO date. Negative if past. */
-export function daysFromToday(iso: string): number {
-  try {
-    const target = parseISO(iso);
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-    const diff = target.getTime() - today.getTime();
-    return Math.round(diff / (24 * 60 * 60 * 1000));
-  } catch {
-    return NaN;
-  }
-}
-
-/** "in 12 days" / "today" / "5 days ago" / "" (if NaN). */
-export function relativeDays(iso: string): string {
-  const d = daysFromToday(iso);
-  if (Number.isNaN(d)) return '';
-  if (d === 0) return 'today';
-  if (d === 1) return 'tomorrow';
-  if (d === -1) return 'yesterday';
-  if (d > 0) return `in ${d} days`;
-  return `${Math.abs(d)} days ago`;
-}
-
 const CASE_SLUGS: Record<string, string> = {
   ndcal: 'anthropic-pbc-v-us-department-of-war',
   dccir: 'anthropic-pbc-v-united-states-department-of-war',

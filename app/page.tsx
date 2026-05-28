@@ -5,9 +5,15 @@ import { WhatsNextRail } from '@/components/WhatsNextRail';
 import { longDate } from '@/lib/format';
 import CaseExplainer from '@/components/CaseExplainer.mdx';
 
+// Re-render at most hourly so the server-rendered "What's next" seed and the
+// upcoming-event filter don't freeze at deploy time. The countdown itself is
+// finalized against the viewer's clock client-side (see WhatsNextRail).
+export const revalidate = 3600;
+
 export default function HomePage() {
   const meta = loadCaseMeta();
-  const upcoming = loadWhatsNext().filter((e) => e.date >= new Date().toISOString().slice(0, 10));
+  const entries = loadWhatsNext();
+  const serverToday = new Date().toISOString().slice(0, 10);
 
   return (
     <div className="space-y-16">
@@ -53,7 +59,7 @@ export default function HomePage() {
         >
           <CaseExplainer />
         </article>
-        <WhatsNextRail entries={upcoming} />
+        <WhatsNextRail entries={entries} serverToday={serverToday} />
       </div>
 
       <section className="max-w-prose">
