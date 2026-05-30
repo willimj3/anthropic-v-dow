@@ -1068,3 +1068,16 @@
   importance: high
   documents:
   - title: Order on Motion to File Amicus Curiae Brief
+
+# --- Manually added 2026-05-30 (backfill; sync now pulls all importances) ---
+- entry: '156'
+  date: '2026-05-29'
+  description: NOTICE OF FILING CERTIFIED INDEX OF AMENDED ADMINISTRATIVE RECORD by Defendants — certified index of the amended administrative record, adding the Department of Homeland Security per ECF 150 & 154. Covers DoW, Treasury, FHFA, State, HHS, SEC, OPM, NRC, NASA, GSA, DOE, VA, Commerce, and DHS.
+  importance: medium
+  notes: >-
+    The administrative record the cross-motions for summary judgment will be decided on
+    (MSJ hearing 7/30/2026). DHS's record was added here per the May 22 order (ECF 154).
+    Promote to high if you want it surfaced in the docket-page highlights.
+  documents:
+  - title: Notice of Filing
+  - title: Exhibit — Certified Index of Amended Administrative Record

@@ -1,9 +1,16 @@
 """Pull new docket entries from CourtListener and append them to the
 data/dockets/*-entries.yaml files. Run by .github/workflows/sync-dockets.yml.
 
-Only appends entries classified as `medium` or `high` importance; `low`
-(notices of appearance, pro hac vice, clerk's notices, summons issued, etc.)
-are silently dropped.
+Appends every new entry, regardless of importance. Each row still gets an
+`importance` label ('high' | 'medium' | 'low') from docket_classifier so the
+docket page's importance filter can sort them — but nothing is dropped.
+(Earlier versions dropped `low` rows such as notices of appearance, pro hac
+vice, and clerk's notices; we now pull everything.) The only thing skipped is
+a genuinely empty RSS phantom row — no description and no attached documents.
+
+When CourtListener hasn't populated an entry's `description` yet (common for
+same-day filings), the text is taken from the attached documents instead, so
+the entry still classifies and renders correctly rather than coming in blank.
 
 Also refreshes data/dockets/recap-status.json so the docket pages can show the
 "PDF not in RECAP" indicator on new rows.
@@ -131,6 +138,26 @@ def already_present(entry: dict, court: str, existing: list[dict], existing_desc
     return False
 
 
+def effective_description(entry: dict) -> str:
+    """Entry-level description, or a fallback built from the attached documents.
+
+    Freshly-filed entries (and RSS-sourced rows) often arrive with an empty
+    `description` while the meaningful text sits on `recap_documents`. Reading
+    only the entry field would mislabel them `low` and — under the old
+    medium/high filter — silently drop them (e.g. a Notice of Filing the
+    certified administrative-record index would vanish from the tracker).
+    """
+    desc = re.sub(r"\s+", " ", (entry.get("description") or "")).strip()
+    if desc:
+        return desc
+    parts: list[str] = []
+    for d in entry.get("recap_documents") or []:
+        t = (d.get("description") or "").strip()
+        if t and t.lower() not in ("main document", "document"):
+            parts.append(t)
+    return " — ".join(dict.fromkeys(parts))  # de-dupe, preserve order
+
+
 def build_new_row(entry: dict, court: str, importance: str) -> dict:
     """Build a YAML row mirroring the schema in data/dockets/*-entries.yaml."""
     docs = entry.get("recap_documents") or []
@@ -146,7 +173,7 @@ def build_new_row(entry: dict, court: str, importance: str) -> dict:
     row: dict = {
         "entry": entry_id,
         "date": entry.get("date_filed"),
-        "description": short_description(entry.get("description") or ""),
+        "description": short_description(effective_description(entry)),
         "importance": importance,
     }
     document_titles = [
@@ -245,9 +272,14 @@ def main() -> None:
 
             if already_present(entry, court, existing, existing_descs):
                 continue
-            importance = classify(entry.get("description") or "")
-            if importance == "low":
+            docs = entry.get("recap_documents") or []
+            desc = effective_description(entry)
+            # Skip only genuine RSS phantoms: no text and nothing attached.
+            if not desc and not any((d.get("description") or "").strip() for d in docs):
                 continue
+            # Pull everything — low-importance rows (notices, pro hac vice,
+            # clerk's notices) are kept and labeled, not dropped.
+            importance = classify(desc)
             new_rows.append(build_new_row(entry, court, importance))
 
         print(f"== {court}: {scanned} scanned, {len(new_rows)} new {','.join(sorted({r['importance'] for r in new_rows}))} to append")
