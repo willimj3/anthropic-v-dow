@@ -214,7 +214,27 @@ export interface DocketEntry {
 // ---------- loaders ----------
 
 export function loadCaseMeta(): CaseMeta {
-  return readYaml<CaseMeta>('case-meta.yaml');
+  const meta = readYaml<CaseMeta>('case-meta.yaml');
+  // Derive "last updated" from the freshest dated fact actually on the site,
+  // so it can't drift from the data the way the hand-maintained field did.
+  // When a sync appends a new docket entry, this advances on its own.
+  return { ...meta, last_updated: latestActivityDate(meta.last_updated) };
+}
+
+/**
+ * Max date across all docket entries plus the updates changelog. ISO date
+ * strings sort lexicographically, so the last element is the most recent. The
+ * stored case-meta value is included as a floor, so this never regresses or
+ * returns empty.
+ */
+function latestActivityDate(stored: string): string {
+  const dates: string[] = [stored];
+  const all = loadAllDocketEntries();
+  for (const court of ['ndcal', 'dccir', 'ca9'] as const) {
+    for (const e of all[court]) if (e?.date) dates.push(e.date);
+  }
+  for (const u of loadUpdates()) if (u?.date) dates.push(u.date);
+  return dates.filter(Boolean).sort().at(-1) ?? stored;
 }
 
 export function loadTimeline(): TimelineEvent[] {
