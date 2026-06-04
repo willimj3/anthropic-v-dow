@@ -3641,7 +3641,7 @@
   },
   "ndcal-d:first motion for leave to appear in pro hac vice ( filing fee $ 328, receipt num": {
     "available": false,
-    "document_number": "106",
+    "document_number": "108",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -3705,7 +3705,7 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice of alexandra barbee-garrett ( filing ": {
     "available": false,
-    "document_number": "90",
+    "document_number": "89",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -3923,6 +3923,14 @@
     "available": true,
     "document_number": "156",
     "file_size": 104394,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "ndcal-d:notice of filing corrected certification of administrative record by paul s. atk": {
+    "available": true,
+    "document_number": "157",
+    "file_size": 101694,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
