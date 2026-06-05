@@ -727,6 +727,14 @@
     "is_available_flag": true,
     "page_count": 33
   },
+  "dccir-d:entry of appearance filed by ashley gorski for american civil liberties union an": {
+    "available": false,
+    "document_number": "01208831430",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "dccir-d:entry of appearance filed by josephine k. petrick on behalf of amici curiae for ": {
     "available": false,
     "document_number": "01208843177",
@@ -782,6 +790,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 1
+  },
+  "dccir-d:letter regarding petitioner's receipt of the government's decision regarding rec": {
+    "available": true,
+    "document_number": "01208857024",
+    "file_size": 225680,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
   },
   "dccir-d:letter update statements in response brief and declaration filed by peter b. heg": {
     "available": true,
@@ -967,6 +983,14 @@
     "is_available_flag": true,
     "page_count": 39
   },
+  "dccir-d:petitioner supplemental brief filed by anthropic pbc [service date: 06/04/2026 ]": {
+    "available": true,
+    "document_number": "01208856734",
+    "file_size": 229182,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
   "dccir-d:reply filed by anthropic pbc to response [service date: 03/23/2026 by cm/ecf nda": {
     "available": true,
     "document_number": "01208833581",
@@ -982,6 +1006,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 83
+  },
+  "dccir-d:respondent supplemental brief filed by peter b. hegseth and united states depart": {
+    "available": true,
+    "document_number": "01208856765",
+    "file_size": 1770597,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 22
   },
   "dccir-d:response in opposition to motion filed by peter b. hegseth and united states dep": {
     "available": true,
@@ -1214,6 +1246,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 24
+  },
+  "dccir-doc:01208831430": {
+    "available": false,
+    "document_number": "01208831430",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "dccir-doc:01208831436": {
     "available": true,
@@ -1631,6 +1671,30 @@
     "is_available_flag": true,
     "page_count": 1
   },
+  "dccir-doc:01208856734": {
+    "available": true,
+    "document_number": "01208856734",
+    "file_size": 229182,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-doc:01208856765": {
+    "available": true,
+    "document_number": "01208856765",
+    "file_size": 1770597,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 22
+  },
+  "dccir-doc:01208857024": {
+    "available": true,
+    "document_number": "01208857024",
+    "file_size": 225680,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -1830,6 +1894,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 24
+  },
+  "dccir-doc:1208831430": {
+    "available": false,
+    "document_number": "01208831430",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "dccir-doc:1208831436": {
     "available": true,
@@ -2246,6 +2318,30 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 1
+  },
+  "dccir-doc:1208856734": {
+    "available": true,
+    "document_number": "01208856734",
+    "file_size": 229182,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-doc:1208856765": {
+    "available": true,
+    "document_number": "01208856765",
+    "file_size": 1770597,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 22
+  },
+  "dccir-doc:1208857024": {
+    "available": true,
+    "document_number": "01208857024",
+    "file_size": 225680,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
   },
   "ndcal-1": {
     "available": true,

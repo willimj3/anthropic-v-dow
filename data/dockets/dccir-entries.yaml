@@ -416,3 +416,25 @@
   description: 'PER CURIAM ORDER [2174795] filed granting joint motionfor extension of time [2174576-2]. The parties'' supplemental briefs are now due by 4:00 p.m. on 06/04/2026. Before Judges: Henderson,
     Katsas and Rao. [26-1049]'
   importance: high
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-06-05 ---
+- entry: 01208856734
+  date: '2026-06-04'
+  description: 'PETITIONER SUPPLEMENTAL BRIEF [2176752] filed by Anthropic PBC [Service Date: 06/04/2026 ] Length of Brief: 2,499 Words. [26-1049] (Dunbar, Kelly) [Entered: 06/04/2026 12:22 PM]'
+  importance: high
+  documents:
+  - title: Appellant/Petitioner Supplemental Brief Filed
+- entry: 01208856765
+  date: '2026-06-04'
+  description: 'RESPONDENT SUPPLEMENTAL BRIEF [2176767] filed by Peter B. Hegseth and United States Department of War [Service Date: 06/04/2026 ] Length of Brief: 2316 words. [26-1049] (Springer, Brian)
+    [Entered: 06/04/2026 12:44 PM]'
+  importance: high
+  documents:
+  - title: Appellee/Respondent Supplemental Brief Filed
+- entry: 01208857024
+  date: '2026-06-04'
+  description: 'LETTER [2176887] Regarding Petitioner''s Receipt of the Government''s Decision Regarding Reconsideration of Determination filed by Anthropic PBC [Service Date: 06/04/2026 ] [26-1049] (Dunbar,
+    Kelly) [Entered: 06/04/2026 0…'
+  importance: low
+  documents:
+  - title: Letter Filed
