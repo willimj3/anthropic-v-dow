@@ -423,6 +423,14 @@
     "is_available_flag": true,
     "page_count": 27
   },
+  "dccir-d:amicus brief lodged by human flag association [service date: 06/05/2026 ] length": {
+    "available": true,
+    "document_number": "01208857212",
+    "file_size": 7243188,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
   "dccir-d:amicus for petitioner brief filed by 149 former judges and democracy defenders f": {
     "available": true,
     "document_number": "01208843421",
@@ -846,6 +854,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 6
+  },
+  "dccir-d:motion to participate as amicus curiae [disclosure listing: not attached] lodged": {
+    "available": true,
+    "document_number": "01208857200",
+    "file_size": 1580098,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
   },
   "dccir-d:motion to participate as amicus curiae combined with amicus for petitioner brief": {
     "available": false,
@@ -1695,6 +1711,22 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-doc:01208857200": {
+    "available": true,
+    "document_number": "01208857200",
+    "file_size": 1580098,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-doc:01208857212": {
+    "available": true,
+    "document_number": "01208857212",
+    "file_size": 7243188,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -2343,6 +2375,22 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-doc:1208857200": {
+    "available": true,
+    "document_number": "01208857200",
+    "file_size": 1580098,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
+  "dccir-doc:1208857212": {
+    "available": true,
+    "document_number": "01208857212",
+    "file_size": 7243188,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 13
+  },
   "ndcal-1": {
     "available": true,
     "document_number": "1",
@@ -2863,6 +2911,22 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "ndcal-158": {
+    "available": false,
+    "document_number": "158",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-159": {
+    "available": false,
+    "document_number": "159",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-16": {
     "available": false,
     "document_number": "16",
@@ -2870,6 +2934,14 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "ndcal-160": {
+    "available": true,
+    "document_number": "160",
+    "file_size": 324902,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
   },
   "ndcal-17": {
     "available": false,
@@ -3737,7 +3809,7 @@
   },
   "ndcal-d:first motion for leave to appear in pro hac vice ( filing fee $ 328, receipt num": {
     "available": false,
-    "document_number": "108",
+    "document_number": "106",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -3817,7 +3889,7 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice of stephanie crawford ( filing fee $ ": {
     "available": false,
-    "document_number": "91",
+    "document_number": "92",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -5015,6 +5087,22 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "ndcal-doc:158": {
+    "available": false,
+    "document_number": "158",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:159": {
+    "available": false,
+    "document_number": "159",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-doc:16": {
     "available": false,
     "document_number": "16",
@@ -5022,6 +5110,14 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "ndcal-doc:160": {
+    "available": true,
+    "document_number": "160",
+    "file_size": 324902,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
   },
   "ndcal-doc:17": {
     "available": false,

@@ -438,3 +438,18 @@
   importance: low
   documents:
   - title: Letter Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-06-06 ---
+- entry: 01208857212
+  date: '2026-06-03'
+  description: 'AMICUS BRIEF [2176978] lodged by Human Flag Association [Service Date: 06/05/2026 ] Length of Brief: 12 Pages. [26-1049] [Entered: 06/05/2026 10:38 AM]'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: 01208857200
+  date: '2026-06-03'
+  description: 'MOTION [2176974] to participate as amicus curiae [Disclosure Listing: Not Attached] lodged by Human Flag Association [Service Date: 06/05/2026 ] [26-1049][Edited 06/05/2026 by EBL--MODIFIED
+    EVENT FROM FILED TO LODGED] […'
+  importance: medium
+  documents:
+  - title: Motion to Participate as Amicus Curiae Filed

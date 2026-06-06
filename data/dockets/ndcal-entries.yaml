@@ -2140,3 +2140,201 @@
   importance: medium
   documents:
   - title: Order on Stipulation
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-06-06 ---
+- entry: ''
+  date: '2026-03-09'
+  description: ~Util - Case Assigned by Intake
+  importance: low
+  documents:
+  - title: ~Util - Case Assigned by Intake
+- entry: ''
+  date: '2026-03-09'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-09'
+  description: ~Util - Case Assigned by Intake
+  importance: low
+  documents:
+  - title: ~Util - Case Assigned by Intake
+- entry: ''
+  date: '2026-03-09'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-10'
+  description: Status Conference AND ~Util - Set Motion and Deadlines/Hearings
+  importance: medium
+  documents:
+  - title: Status Conference AND ~Util - Set Motion and Deadlines/Hearings
+- entry: ''
+  date: '2026-03-10'
+  description: Status Conference AND ~Util - Set Motion and Deadlines/Hearings
+  importance: medium
+  documents:
+  - title: Status Conference AND ~Util - Set Motion and Deadlines/Hearings
+- entry: ''
+  date: '2026-03-10'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-12'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-13'
+  description: Order on Administrative Motion per Civil Local Rule 7-11 AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus
+    Curiae Brief AND Order on Motio…
+  importance: medium
+  documents:
+  - title: Order on Administrative Motion per Civil Local Rule 7-11 AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus Curiae
+      Brief AND Order on Motion to File Amicus Curiae Brief
+- entry: ''
+  date: '2026-03-13'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-13'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-13'
+  description: Order on Administrative Motion per Civil Local Rule 7-11 AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus
+    Curiae Brief AND Order on Motio…
+  importance: medium
+  documents:
+  - title: Order on Administrative Motion per Civil Local Rule 7-11 AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus Curiae
+      Brief AND Order on Motion to File Amicus Curiae Brief
+- entry: ''
+  date: '2026-03-16'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-18'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-20'
+  description: Clerk's Notice AND ~Util - Teleconference Zoom
+  importance: low
+  documents:
+  - title: Clerk's Notice AND ~Util - Teleconference Zoom
+- entry: ''
+  date: '2026-03-20'
+  description: Clerk's Notice AND ~Util - Set Motion and Deadlines/Hearings
+  importance: low
+  documents:
+  - title: Clerk's Notice AND ~Util - Set Motion and Deadlines/Hearings
+- entry: ''
+  date: '2026-03-20'
+  description: Order
+  importance: medium
+  documents:
+  - title: Order
+- entry: ''
+  date: '2026-03-23'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-03-24'
+  description: Motion Hearing AND Order on Motion for Preliminary Injunction AND Order on Motion for TRO AND Order on Motion to Stay
+  importance: high
+  documents:
+  - title: Motion Hearing AND Order on Motion for Preliminary Injunction AND Order on Motion for TRO AND Order on Motion to Stay
+- entry: ''
+  date: '2026-03-27'
+  description: Order
+  importance: medium
+  documents:
+  - title: Order
+- entry: ''
+  date: '2026-03-27'
+  description: Order on Motion to File Amicus Curiae Brief
+  importance: medium
+  documents:
+  - title: Order on Motion to File Amicus Curiae Brief
+- entry: ''
+  date: '2026-03-30'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-04-01'
+  description: Order
+  importance: medium
+  documents:
+  - title: Order
+- entry: ''
+  date: '2026-04-02'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-04-02'
+  description: Receipt
+  importance: low
+  documents:
+  - title: Receipt
+- entry: ''
+  date: '2026-04-09'
+  description: Order
+  importance: medium
+  documents:
+  - title: Order
+- entry: ''
+  date: '2026-05-06'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-05-12'
+  description: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+  importance: low
+  documents:
+  - title: Notice of Appearance/Substitution/Change/Withdrawal of Attorney
+- entry: ''
+  date: '2026-05-22'
+  description: Order on Stipulation
+  importance: medium
+  documents:
+  - title: Order on Stipulation
+- entry: '160'
+  date: '2026-06-05'
+  description: Pro Hac Vice
+  importance: low
+  documents:
+  - title: Pro Hac Vice
+- entry: '158'
+  date: '2026-06-05'
+  description: Pro Hac Vice
+  importance: low
+  documents:
+  - title: Pro Hac Vice
+- entry: '159'
+  date: '2026-06-05'
+  description: Pro Hac Vice
+  importance: low
+  documents:
+  - title: Pro Hac Vice
