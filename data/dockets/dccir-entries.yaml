@@ -418,20 +418,20 @@
   importance: high
 
 # --- Auto-appended below by scripts/sync_dockets.py on 2026-06-05 ---
-- entry: 01208856734
+- entry: '01208856734'
   date: '2026-06-04'
   description: 'PETITIONER SUPPLEMENTAL BRIEF [2176752] filed by Anthropic PBC [Service Date: 06/04/2026 ] Length of Brief: 2,499 Words. [26-1049] (Dunbar, Kelly) [Entered: 06/04/2026 12:22 PM]'
   importance: high
   documents:
   - title: Appellant/Petitioner Supplemental Brief Filed
-- entry: 01208856765
+- entry: '01208856765'
   date: '2026-06-04'
   description: 'RESPONDENT SUPPLEMENTAL BRIEF [2176767] filed by Peter B. Hegseth and United States Department of War [Service Date: 06/04/2026 ] Length of Brief: 2316 words. [26-1049] (Springer, Brian)
     [Entered: 06/04/2026 12:44 PM]'
   importance: high
   documents:
   - title: Appellee/Respondent Supplemental Brief Filed
-- entry: 01208857024
+- entry: '01208857024'
   date: '2026-06-04'
   description: 'LETTER [2176887] Regarding Petitioner''s Receipt of the Government''s Decision Regarding Reconsideration of Determination filed by Anthropic PBC [Service Date: 06/04/2026 ] [26-1049] (Dunbar,
     Kelly) [Entered: 06/04/2026 0…'
@@ -440,13 +440,13 @@
   - title: Letter Filed
 
 # --- Auto-appended below by scripts/sync_dockets.py on 2026-06-06 ---
-- entry: 01208857212
+- entry: '01208857212'
   date: '2026-06-03'
   description: 'AMICUS BRIEF [2176978] lodged by Human Flag Association [Service Date: 06/05/2026 ] Length of Brief: 12 Pages. [26-1049] [Entered: 06/05/2026 10:38 AM]'
   importance: medium
   documents:
   - title: Amicus for Appellant/Petitioner Brief Filed
-- entry: 01208857200
+- entry: '01208857200'
   date: '2026-06-03'
   description: 'MOTION [2176974] to participate as amicus curiae [Disclosure Listing: Not Attached] lodged by Human Flag Association [Service Date: 06/05/2026 ] [26-1049][Edited 06/05/2026 by EBL--MODIFIED
     EVENT FROM FILED TO LODGED] […'

@@ -5,8 +5,14 @@ Appends every new entry, regardless of importance. Each row still gets an
 `importance` label ('high' | 'medium' | 'low') from docket_classifier so the
 docket page's importance filter can sort them — but nothing is dropped.
 (Earlier versions dropped `low` rows such as notices of appearance, pro hac
-vice, and clerk's notices; we now pull everything.) The only thing skipped is
-a genuinely empty RSS phantom row — no description and no attached documents.
+vice, and clerk's notices; we now pull everything *that carries a docket entry
+number*.) Two things are skipped: a genuinely empty RSS phantom row (no
+description and no attached documents), and — on the trial-court docket
+(ndcal) — rows CourtListener exposes with no entry number at all. Those
+null-entry-number rows are utility/RSS artifacts (case assignment, clerk's
+notices, consolidated "Motion Hearing AND Order on ..." restatements) that
+merely duplicate the numbered entries; the curated docket tracks numbered
+entries only.
 
 When CourtListener hasn't populated an entry's `description` yet (common for
 same-day filings), the text is taken from the attached documents instead, so
@@ -15,9 +21,12 @@ the entry still classifies and renders correctly rather than coming in blank.
 Also refreshes data/dockets/recap-status.json so the docket pages can show the
 "PDF not in RECAP" indicator on new rows.
 
-Does not touch entries that already exist (matched by entry_number for trial
-courts, by description-prefix hash for appellate). Preserves manual `notes:`
-annotations on existing entries — only appends, never rewrites in-place.
+Does not touch entries that already exist (matched by entry_number for the
+trial court, by document number then description for appellate). De-duping by
+entry_number alone on ndcal means distinct filings that share a description —
+several "Pro Hac Vice" motions, say — are never collapsed, which the older
+description-fallback path got wrong. Preserves manual `notes:` annotations on
+existing entries — only appends, never rewrites in-place.
 
 Env: COURTLISTENER_TOKEN required.
 
@@ -45,6 +54,24 @@ except ImportError as e:
     sys.exit(1)
 
 from docket_classifier import classify  # shared with build_docket_yaml.py
+
+
+class QuotedStr(str):
+    """A string that always serializes single-quoted.
+
+    Appellate document numbers can have leading zeros (e.g. ``01208856734``).
+    PyYAML doesn't treat those as numbers and so writes them unquoted, but the
+    site's JS YAML loader *does* read an unquoted leading-zero token as a
+    number — which then crashes the static build when it calls a string method
+    on the `entry` field. Forcing quotes keeps the value a string everywhere.
+    """
+
+
+def _represent_quoted(dumper: "yaml.Dumper", data: QuotedStr):
+    return dumper.represent_scalar("tag:yaml.org,2002:str", str(data), style="'")
+
+
+yaml.add_representer(QuotedStr, _represent_quoted, Dumper=yaml.SafeDumper)
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DOCKETS = ROOT / "data" / "dockets"
@@ -120,22 +147,32 @@ def load_existing(court: str) -> list[dict]:
     return data
 
 
-def already_present(entry: dict, court: str, existing: list[dict], existing_descs: set[str]) -> bool:
-    en = entry.get("entry_number")
-    if court == "ndcal" and en is not None:
-        if any(e.get("entry") == str(en) for e in existing):
-            return True
-    docs = entry.get("recap_documents") or []
-    for d in docs:
+def already_present(
+    entry: dict,
+    court: str,
+    existing_ens: set[str],
+    existing_docs: set[str],
+    existing_descs: set[str],
+) -> bool:
+    """Is this CourtListener entry already in the YAML?
+
+    Trial court (ndcal): match by entry number only. It is stable and unique,
+    so two genuinely distinct filings that happen to share a description (e.g.
+    several same-day "Pro Hac Vice" motions) are never collapsed.
+
+    Appellate (dccir, ca9): match by document number, then — using the
+    *effective* description so freshly-filed rows whose text lives on the
+    attached document still match — by description key.
+    """
+    if court == "ndcal":
+        en = entry.get("entry_number")
+        return en is not None and str(en) in existing_ens
+    for d in entry.get("recap_documents") or []:
         dn = d.get("document_number")
-        if dn:
-            stripped = dn.lstrip("0") or "0"
-            if any(str(e.get("entry") or "") in (dn, stripped) for e in existing):
-                return True
-    dk = desc_key(entry.get("description") or "")
-    if dk and dk in existing_descs:
-        return True
-    return False
+        if dn and (dn in existing_docs or (dn.lstrip("0") or "0") in existing_docs):
+            return True
+    dk = desc_key(effective_description(entry))
+    return bool(dk) and dk in existing_descs
 
 
 def effective_description(entry: dict) -> str:
@@ -171,7 +208,9 @@ def build_new_row(entry: dict, court: str, importance: str) -> dict:
     else:
         entry_id = chosen.get("document_number") if chosen else None
     row: dict = {
-        "entry": entry_id,
+        # QuotedStr so leading-zero document numbers never serialize unquoted
+        # (an unquoted 01208856734 is read back as a number and breaks the build).
+        "entry": QuotedStr(entry_id) if entry_id is not None else None,
         "date": entry.get("date_filed"),
         "description": short_description(effective_description(entry)),
         "importance": importance,
@@ -256,6 +295,13 @@ def main() -> None:
     total_added = 0
     for court in courts:
         existing = load_existing(court)
+        existing_ens = {str(e.get("entry")) for e in existing if e.get("entry") not in (None, "")}
+        existing_docs: set[str] = set()
+        for e in existing:
+            v = e.get("entry")
+            if v not in (None, ""):
+                s = str(v)
+                existing_docs.update({s, s.lstrip("0") or "0"})
         existing_descs = {desc_key(e.get("description") or "") for e in existing if e.get("description")}
         existing_descs.discard("")
 
@@ -270,14 +316,21 @@ def main() -> None:
                     continue
                 sidecar[k] = status
 
-            if already_present(entry, court, existing, existing_descs):
+            if already_present(entry, court, existing_ens, existing_docs, existing_descs):
+                continue
+            # Trial-court docket tracks numbered entries only. CourtListener
+            # also exposes null-entry-number utility/RSS rows (case assignment,
+            # clerk's notices, consolidated "Motion Hearing AND Order on ..."
+            # restatements); those duplicate the numbered entries and, lacking
+            # a stable id, used to be re-appended on every run. Skip them.
+            if court == "ndcal" and entry.get("entry_number") is None:
                 continue
             docs = entry.get("recap_documents") or []
             desc = effective_description(entry)
             # Skip only genuine RSS phantoms: no text and nothing attached.
             if not desc and not any((d.get("description") or "").strip() for d in docs):
                 continue
-            # Pull everything — low-importance rows (notices, pro hac vice,
+            # Pull everything else — low-importance rows (notices, pro hac vice,
             # clerk's notices) are kept and labeled, not dropped.
             importance = classify(desc)
             new_rows.append(build_new_row(entry, court, importance))

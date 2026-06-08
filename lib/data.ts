@@ -378,9 +378,13 @@ export function recapStatusFor(
   const all = loadRecapStatus();
   const keys: string[] = [];
   if (entry.entry) {
-    keys.push(`${court}-${entry.entry}`);
-    keys.push(`${court}-doc:${entry.entry}`);
-    keys.push(`${court}-doc:${entry.entry.replace(/^0+/, '') || '0'}`);
+    // Coerce: an all-digits docket/document number can arrive as a YAML number
+    // (e.g. an unquoted leading-zero appellate doc id), and calling string
+    // methods on it would crash the static build.
+    const id = String(entry.entry);
+    keys.push(`${court}-${id}`);
+    keys.push(`${court}-doc:${id}`);
+    keys.push(`${court}-doc:${id.replace(/^0+/, '') || '0'}`);
   }
   const d = descKey(entry.description);
   if (d) keys.push(`${court}-d:${d}`);
