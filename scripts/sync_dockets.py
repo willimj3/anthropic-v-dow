@@ -99,7 +99,16 @@ def auth_headers() -> dict[str, str]:
 def get_with_backoff(url: str, max_attempts: int = 5) -> dict | None:
     delay = 1.5
     for attempt in range(1, max_attempts + 1):
-        r = requests.get(url, headers=auth_headers(), timeout=30)
+        try:
+            r = requests.get(url, headers=auth_headers(), timeout=30)
+        except requests.exceptions.RequestException as e:
+            # Transient network hiccup (read timeout, connection reset, DNS).
+            # Retry with backoff instead of letting the whole sync crash and
+            # skip the day's update.
+            print(f"    network error: {e} — sleep {delay:.0f}s ({attempt}/{max_attempts})", file=sys.stderr)
+            time.sleep(delay)
+            delay *= 2
+            continue
         if r.status_code == 429:
             wait = float(r.headers.get("Retry-After") or delay)
             print(f"    429 — sleep {wait:.0f}s ({attempt}/{max_attempts})", file=sys.stderr)
