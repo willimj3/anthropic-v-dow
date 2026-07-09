@@ -453,3 +453,41 @@
   importance: medium
   documents:
   - title: Motion to Participate as Amicus Curiae Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-07-09 ---
+- entry: ''
+  date: '2026-06-03'
+  description: '[LEAVE TO FILE DENIED BY ORDER FILED 6/8/26]--AMICUS BRIEF 2176978 lodged by Human Flag Association [Service Date: 06/05/2026 ] Length of Brief: 12 Pages. [26-1049] [Entered: 06/05/2026
+    10:38 AM]'
+  importance: medium
+- entry: ''
+  date: '2026-06-03'
+  description: 'AMICUS BRIEF 2176978 lodged by Human Flag Association [Service Date: 06/05/2026 ] Length of Brief: 12 Pages. [26-1049] [Entered: 06/05/2026 10:38 AM]'
+  importance: medium
+- entry: '01208858021'
+  date: '2026-06-08'
+  description: 'PER CURIAM ORDER [2177388] filed denying motion of Human Flag Association for leave to file a brief amicus curiae out of time [2176974-2] The Clerk is directed to note the docket accordingly.
+    Before Judges: Henderson, K…'
+  importance: high
+  documents:
+  - title: Per Curiam Order Filed (Merits Panel)
+- entry: '01208862136'
+  date: '2026-06-18'
+  description: 'CONSENT MOTION [2179623] to consolidate cases filed by Anthropic PBC (Service Date: 06/18/2026 by CM/ECF NDA) Length Certification: 646 Words. [26-1049] (Dunbar, Kelly) [Entered: 06/18/2026
+    10:36 PM]'
+  importance: medium
+  documents:
+  - title: Motion Filed
+- entry: '01208863429'
+  date: '2026-06-24'
+  description: 'PER CURIAM ORDER [2180359] filed granting petitioner''s consent motion to consolidate [2179623-2] [2179624-2] in 26-1162 (Consolidation started 06/24/2026) with 26-1049, setting supplemental
+    briefing schedule: PETITIONER…'
+  importance: high
+  documents:
+  - title: Per Curiam Order Filed (Merits Panel)
+- entry: '01208866494'
+  date: '2026-07-06'
+  description: 'PETITIONER SUPPLEMENTAL BRIEF [2181876] filed by Anthropic PBC in 26-1049, 26-1162 [Service Date: 07/06/2026 ] Length of Brief: 2,478 words. [26-1049, 26-1162] (Dunbar, Kelly)'
+  importance: high
+  documents:
+  - title: Appellant/Petitioner Supplemental Brief Filed

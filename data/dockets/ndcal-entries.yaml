@@ -1100,3 +1100,501 @@
   importance: low
   documents:
   - title: Pro Hac Vice
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-07-09 ---
+- entry: '162'
+  date: '2026-06-08'
+  description: 'Order by Judge Rita F. Lin granting 159 Motion for Pro Hac Vice as to Bardia Faghihvaseghi. (bxs, COURT STAFF) (Filed on 6/8/2026) (Entered: 06/08/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '161'
+  date: '2026-06-08'
+  description: 'Order by Judge Rita F. Lin granting 158 Motion for Pro Hac Vice as to Matt Morris. (bxs, COURT STAFF) (Filed on 6/8/2026) (Entered: 06/08/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '164'
+  date: '2026-06-08'
+  description: ANSWER to Complaint by Paul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President, Federal Housing Finance Agency, Federal Reserve
+    Board of Governors, Edwar…
+  importance: high
+  documents:
+  - title: Answer to Complaint
+- entry: '163'
+  date: '2026-06-08'
+  description: 'Order by Judge Rita F. Lin granting 160 Motion for Pro Hac Vice as to Dakota Foster. (bxs, COURT STAFF) (Filed on 6/8/2026) (Entered: 06/08/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '170'
+  date: '2026-06-10'
+  description: 'NOTICE of Appearance filed by David Ransom Friedman on behalf of Faith Family Technology Network (Friedman, David) (Filed on 6/10/2026) (Entered: 06/10/2026)'
+  importance: low
+- entry: '166'
+  date: '2026-06-10'
+  description: MOTION for Summary Judgment filed by Anthropic PBC. Motion for Summary Judgment Hearing set for 7/30/2026 10:00 AM in San Francisco, Courtroom 15, 18th Floor before Judge Rita F. Lin. Responses
+    due by 6/24/2026. Replies…
+  importance: high
+  documents:
+  - title: Summary Judgment
+  - title: Declaration of Jared Kaplan in Support
+  - title: Declaration of Paul Smith in Support
+  - title: Declaration of Krishna Rao in Support
+  - title: Declaration of Thiyagu Ramasamy in Support
+  - title: Declaration of Sarah Heck in Support
+  - title: Exhibit 1 to Declaration of Sarah Heck
+  - title: Exhibit 2 to Declaration of Sarah Heck
+  - title: Declaration of Michael J. Mongan in Support
+  - title: Exhibit 1 to Declaration of Michael J. Mongan
+  - title: Exhibit 2 to Declaration of Michael J. Mongan
+  - title: Exhibit 3 to Declaration of Michael J. Mongan
+  - title: Exhibit 4 to Declaration of Michael J. Mongan
+  - title: Exhibit 5 to Declaration of Michael J. Mongan
+  - title: Exhibit 6 to Declaration of Michael J. Mongan
+  - title: Exhibit 7 to Declaration of Michael J. Mongan
+- entry: '168'
+  date: '2026-06-10'
+  description: 'MOTION to File Amicus Curiae Brief filed by Freedom Economy Business Association. Motion Hearing set for 7/30/2026 10:00 AM before Judge Rita F. Lin. Responses due by 6/24/2026. Replies
+    due by 7/1/2026. (Attachments: #…'
+  importance: high
+  documents:
+  - title: File Amicus Curiae Brief
+  - title: Proposed Order
+  - title: Exhibit Amicus Brief in support of Anthropic's Motion for Summary Judgment
+- entry: '169'
+  date: '2026-06-10'
+  description: MOTION to Complete the Administrative Record and to Consider Evidence Outside the Administrative Record filed by Anthropic PBC. Motion Hearing set for 7/30/2026 10:00 AM in San Francisco,
+    Courtroom 15, 18th Floor before…
+  importance: medium
+  documents:
+  - title: Miscellaneous Relief
+- entry: '165'
+  date: '2026-06-10'
+  description: MOTION for leave to appear in Pro Hac Vice on behalf of Patrick Toomey ( Filing fee $ 328, receipt number ACANDC-22084589.) filed by American Civil Liberties Union, American Civil Liberties
+    Union of Northern California,…
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '171'
+  date: '2026-06-10'
+  description: MOTION to File Amicus Curiae Brief filed by Faith Family Technology Network. Motion Hearing set for 7/30/2026 10:00 AM in San Francisco, Courtroom 15, 18th Floor before Judge Rita F. Lin.
+    Responses due by 6/24/2026. Rep…
+  importance: high
+  documents:
+  - title: File Amicus Curiae Brief
+  - title: Exhibit Amicus Brief in support of Anthropic's Motion for Summary Judgment
+  - title: Proposed Order
+- entry: '172'
+  date: '2026-06-10'
+  description: 'Order signed on 6/10/2026 by Judge Rita F. Lin granting 165 Motion for Pro Hac Vice as to Patrick Toomey.(jaf, COURT STAFF) (Filed on 6/10/2026) (Entered: 06/10/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '167'
+  date: '2026-06-10'
+  description: 'Amicus Curiae APPEARANCE entered by Josephine Kendra Petrick on behalf of Freedom Economy Business Association. (Petrick, Josephine) (Filed on 6/10/2026) (Entered: 06/10/2026)'
+  importance: medium
+  documents:
+  - title: Amicus Curiae Appearance
+- entry: '175'
+  date: '2026-06-11'
+  description: 'ORDER by Judge Rita F. Lin: Granting 174 Motion for Pro Hac Vice, Todd M. Hinnen. (ls, COURT STAFF) (Filed on 6/11/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '177'
+  date: '2026-06-11'
+  description: ORDER by Judge Rita F. Lin granting 168 171 173 Motions to File Amicus Curiae Briefs. Any further amicus briefs related to the summary judgment motions must be filed by June 26, 2026 at 5:00
+    p.m. (rfllc3, COURT STAFF) (…
+  importance: high
+  documents:
+  - title: Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus Curiae Brief AND Order on Motion to File Amicus Curiae Brief
+- entry: '173'
+  date: '2026-06-11'
+  description: Consent MOTION to File Amicus Curiae Brief in Support of Anthropic's Motion for Summary Judgment filed by Former Service Secretaries and Retired Senior Military Officers. Motion Hearing set
+    for 7/30/2026 10:00 AM in San…
+  importance: high
+  documents:
+  - title: File Amicus Curiae Brief
+  - title: Proposed Amicus Brief
+  - title: Proposed Order
+- entry: '174'
+  date: '2026-06-11'
+  description: MOTION for leave to appear in Pro Hac Vice for Todd Hinnen ( Filing fee $ 328, receipt number ACANDC-22090788.) filed by Cato Institute, Chamber of Progress, Electronic Frontier Foundation,
+    First Amendment Lawyers Assoc…
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '178'
+  date: '2026-06-11'
+  description: 'MOTION to File Amicus Curiae Brief filed by ACT The App Association. Responses due by 6/25/2026. Replies due by 7/2/2026. (Attachments: # 1 Exhibit Proposed Amicus Brief, # 2 Proposed Order
+    Proposed Order)(Scarpelli, Br…'
+  importance: medium
+  documents:
+  - title: File Amicus Curiae Brief
+  - title: Exhibit Proposed Amicus Brief
+  - title: Proposed Order Proposed Order
+- entry: '176'
+  date: '2026-06-11'
+  description: 'MOTION for Leave to File Brief of Amici Curiae filed by Employees of OpenAI and Google in Their Personal Capacities. (Attachments: # 1 Exhibit Proposed Brief of Amici Curiae, # 2 Proposed
+    Order Proposed Order)(Schneidma…'
+  importance: medium
+  documents:
+  - title: Leave to File Document
+  - title: Exhibit Proposed Brief of Amici Curiae
+  - title: Proposed Order Proposed Order
+- entry: '183'
+  date: '2026-06-12'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22095550.) filed by Simona Grossi. (Feit, Deena) (Filed on 6/12/2026) (Entered: 06/12/2026)'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '182'
+  date: '2026-06-12'
+  description: 'NOTICE of Appearance filed by Jonathan Thomas McMichael on behalf of Simona Grossi (McMichael, Jonathan) (Filed on 6/12/2026) (Entered: 06/12/2026)'
+  importance: low
+- entry: '184'
+  date: '2026-06-12'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22095611.) filed by Simona Grossi. (Placa, Tessa) (Filed on 6/12/2026) (Entered: 06/12/2026)'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '185'
+  date: '2026-06-12'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22095566.) filed by Taxpayers Protection Alliance Foundation. (Schwartz, David) (Filed on 6/12/2026)
+    (Entered: 06/12/2026)'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '186'
+  date: '2026-06-12'
+  description: 'Brief of Amici Curiae filed byFormer Service Secretaries and Retired Senior Military Officers. (Shin, Clara) (Filed on 6/12/2026) (Entered: 06/12/2026)'
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '181'
+  date: '2026-06-12'
+  description: 'NOTICE of Appearance filed by Benjamin Kingsley on behalf of Simona Grossi (Kingsley, Benjamin) (Filed on 6/12/2026) (Entered: 06/12/2026)'
+  importance: low
+- entry: '180'
+  date: '2026-06-12'
+  description: MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22095040.) filed by American Civil Liberties Union, American Civil Liberties Union of Northern California,
+    Center for Democracy and Te…
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '179'
+  date: '2026-06-12'
+  description: MOTION for leave to appear in Pro Hac Vice on behalf of Charlie Hogle ( Filing fee $ 328, receipt number ACANDC-22094794.) filed by American Civil Liberties Union, American Civil Liberties
+    Union of Northern California,…
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '194'
+  date: '2026-06-15'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22100819.) filed by Simona Grossi. (Lenzner, Jonathan) (Filed on 6/15/2026) (Entered: 06/15/2026)'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '195'
+  date: '2026-06-15'
+  description: 'Brief of Amicus Curiae filed byFaith Family Technology Network. (Friedman, David) (Filed on 6/15/2026) (Entered: 06/15/2026)'
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '192'
+  date: '2026-06-15'
+  description: 'NOTICE of Appearance filed by Matthew Ferraro on behalf of Industry Trade Associations (Ferraro, Matthew) (Filed on 6/15/2026) (Entered: 06/15/2026)'
+  importance: low
+- entry: '193'
+  date: '2026-06-15'
+  description: NOTICE of Appearance filed by Jacob Adam Snow on behalf of American Civil Liberties Union, American Civil Liberties Union of Northern California, Center for Democracy and Technology (Snow,
+    Jacob) (Filed on 6/15/2026) (E…
+  importance: low
+- entry: '188'
+  date: '2026-06-15'
+  description: 'ORDER granting 180 Motion for Pro Hac Vice for attorney Ashley Gorski. Signed by Judge Rita F. Lin on 6/15/2026. (afm, COURT STAFF) (Filed on 6/15/2026) (Entered: 06/15/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '187'
+  date: '2026-06-15'
+  description: 'ORDER granting 179 Motion for Pro Hac Vice. Attorney Charles Hogle. Signed by Judge Rita F. Lin on 6/15/2026. (afm, COURT STAFF) (Filed on 6/15/2026) (Entered: 06/15/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '189'
+  date: '2026-06-15'
+  description: 'ORDER granting 183 Motion for Pro Hac Vice for attorney Deena Feit. Signed by Judge Rita F. Lin on 6/15/2026. (afm, COURT STAFF) (Filed on 6/15/2026) (Entered: 06/15/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '191'
+  date: '2026-06-15'
+  description: 'ORDER granting 185 Motion for Pro Hac Vice for attorney David B. Schwartz. Signed by Judge Rita F. Lin on 6/15/2026. (afm, COURT STAFF) (Filed on 6/15/2026) (Entered: 06/15/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '190'
+  date: '2026-06-15'
+  description: 'ORDER granting 184 Motion for Pro Hac Vice for attorney Tessa Placa. Signed by Judge Rita F. Lin on 6/15/2026. (afm, COURT STAFF) (Filed on 6/15/2026) (Entered: 06/15/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '197'
+  date: '2026-06-16'
+  description: 'NOTICE of Appearance filed by Ashley Hyun-Jeong Kim on behalf of Taxpayers Protection Alliance Foundation (Kim, Ashley Hyun-Jeong) (Filed on 6/16/2026) (Entered: 06/16/2026)'
+  importance: low
+- entry: '200'
+  date: '2026-06-16'
+  description: MOTION for leave to appear in Pro Hac Vice of Jessica L. Limbaugh ( Filing fee $ 328, receipt number ACANDC-22106526.) filed by Taxpayers Protection Alliance Foundation. (Limbaugh, Jessica)
+    (Filed on 6/16/2026) (Entered…
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '199'
+  date: '2026-06-16'
+  description: 'MOTION for leave to appear in Pro Hac Vice of Barbara Smith Tyson ( Filing fee $ 328, receipt number ACANDC-22106465.) filed by Taxpayers Protection Alliance Foundation. (Tyson, Barbara)
+    (Filed on 6/16/2026) (Entered: 0…'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '198'
+  date: '2026-06-16'
+  description: MOTION to File Amicus Curiae Brief in support of Plaintiff's Motion for Summary Judgment filed by Taxpayers Protection Alliance Foundation. Motion Hearing set for 7/30/2026 10:00 AM in San
+    Francisco, Courtroom 15, 18th…
+  importance: high
+  documents:
+  - title: File Amicus Curiae Brief
+- entry: '196'
+  date: '2026-06-16'
+  description: 'Brief OF AMICI CURIAE filed byIndustry Trade Associations. (Parker, Warrington) (Filed on 6/16/2026) (Entered: 06/16/2026)'
+  importance: medium
+  documents:
+  - title: Brief
+- entry: '202'
+  date: '2026-06-17'
+  description: '***ERRONEOUSLY E-FILED, DISREGARD SEE DOC 206 *** MOTION to File Amicus Curiae Brief in Support of Plaintiff''s Motion for Summary Judgment filed by Cato Institute, Electronic Frontier Foundation,
+    First Amendment Lawyers…'
+  importance: high
+  documents:
+  - title: File Amicus Curiae Brief
+- entry: '201'
+  date: '2026-06-17'
+  description: 'Brief of Amicus Curiae Professor Simona Grossi in Support of Plaintiff''s Motion for Summary Judgment filed bySimona Grossi. (Kingsley, Benjamin) (Filed on 6/17/2026) (Entered: 06/17/2026)'
+  importance: high
+  documents:
+  - title: Brief
+- entry: '206'
+  date: '2026-06-18'
+  description: Brief re 177 Order on Motion to File Amicus Curiae Brief,,,,, in Support of Plaintiff's Motion for Summary Judgment CORRECTION OF DOCKET 202 filed byCato Institute, Chamber of Progress, Electronic
+    Frontier Foundation, F…
+  importance: high
+  documents:
+  - title: Brief
+- entry: '203'
+  date: '2026-06-18'
+  description: 'ORDER by Judge Rita F. Lin granting 194 Motion for Pro Hac Vice for attorney Jonathan Lenzer. (afm, COURT STAFF) (Filed on 6/18/2026) (Entered: 06/18/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '204'
+  date: '2026-06-18'
+  description: 'ORDER by Judge Rita F. Lin granting 199 Motion for Pro Hac Vice for Attorney Barbara Smith Tyson. (afm, COURT STAFF) (Filed on 6/18/2026) (Entered: 06/18/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '205'
+  date: '2026-06-18'
+  description: 'ORDER by Judge Rita F. Lin granting 200 Motion for Pro Hac Vice for Attorney Jessica Limbaugh. (afm, COURT STAFF) (Filed on 6/18/2026) (Entered: 06/18/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '207'
+  date: '2026-06-22'
+  description: 'Brief of Amicus Curiae Alan Z. Rozenshtein in Support of Plaintiff''s Motion for Summary Judgment filed byAlan Z Rozenshtein. (Myers, Allyson) (Filed on 6/22/2026) (Entered: 06/22/2026)'
+  importance: high
+  documents:
+  - title: Brief
+- entry: '210'
+  date: '2026-06-23'
+  description: NOTICE of Filing Updated, Certified Index of Administrative Record by Paul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President,
+    Federal Housing Finance Ag…
+  importance: medium
+  documents:
+  - title: Notice (Other)
+  - title: Exhibit Certified Index of Administrative Record (Updated)
+- entry: '208'
+  date: '2026-06-23'
+  description: 'NOTICE of Appearance filed by Martie P. Kutscher on behalf of Democracy Defenders Fund (Kutscher, Martie) (Filed on 6/23/2026) (Entered: 06/23/2026)'
+  importance: low
+- entry: '209'
+  date: '2026-06-23'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22131058.) filed by Democracy Defenders Fund. (Costa, Gregg) (Filed on 6/23/2026) (Entered: 06/23/2026)'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '211'
+  date: '2026-06-23'
+  description: 'ORDER GRANTING APPLICATION FOR ADMISSION ATTORNEY PRO HAC VICE by Judge Rita F. Lin granting 209 Motion for Pro Hac Vice for Gregg J. Costa.(tl, COURT STAFF) (Filed on 6/23/2026) (Entered:
+    06/23/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '213'
+  date: '2026-06-24'
+  description: OPPOSITION/RESPONSE (re 169 MOTION to Complete the Administrative Record and to Consider Evidence Outside the Administrative Record ) filed byPaul S. Atkins, Scott Bessent, Frank J. Bisigano,
+    Mary Anne Carter, Douglas A…
+  importance: medium
+  documents:
+  - title: Opposition/Response to Motion
+- entry: '215'
+  date: '2026-06-24'
+  description: DEFENDANTS COMBINED CROSS-MOTION FOR SUMMARY JUDGMENT AND OPPOSITION TO PLAINTIFFS MOTION FOR SUMMARY JUDGMENT filed by Paul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter,
+    Douglas A. Collins, Executive O…
+  importance: high
+  documents:
+  - title: Summary Judgment
+- entry: '216'
+  date: '2026-06-24'
+  description: 'Amicus Curiae APPEARANCE entered by Meetali Jain on behalf of Tech Justice Law Project. (Jain, Meetali) (Filed on 6/24/2026) (Entered: 06/24/2026)'
+  importance: medium
+  documents:
+  - title: Amicus Curiae Appearance
+- entry: '214'
+  date: '2026-06-24'
+  description: OPPOSITION/RESPONSE (re 166 MOTION for Summary Judgment ) filed byPaul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President,
+    Federal Housing Finance Agency…
+  importance: high
+  documents:
+  - title: Opposition/Response to Motion
+- entry: '212'
+  date: '2026-06-24'
+  description: Brief of Amici Curiae ACLU, ACLU of Northern California, and the Center for Democracy and Technology in Support of Plaintiff's Motion for Summary Judgment filed byAmerican Civil Liberties
+    Union, American Civil Liberties…
+  importance: high
+  documents:
+  - title: Brief
+- entry: '219'
+  date: '2026-06-25'
+  description: Brief of Amicus Curiae American Federation of Government Employees in Support of Plaintiffs Motion for Summary Judgment filed byAmerican Federation of Government Employees. (Leyton, Stacey)
+    (Filed on 6/25/2026) (Entered…
+  importance: high
+  documents:
+  - title: Brief
+- entry: '218'
+  date: '2026-06-25'
+  description: 'NOTICE of Appearance filed by Stephen A. Jonas on behalf of Former Judges (Jonas, Stephen) (Filed on 6/25/2026) (Entered: 06/25/2026)'
+  importance: low
+- entry: '217'
+  date: '2026-06-25'
+  description: Brief re 166 MOTION for Summary Judgment [Brief of Amici Curiae Catholic Moral Theologians and Ethicists in Support of Anthropic's Motion for Summary Judgment] filed byCatholic Moral Theologians
+    and Ethicists. (Related…
+  importance: high
+  documents:
+  - title: Brief
+- entry: '227'
+  date: '2026-06-26'
+  description: 'NOTICE of Appearance filed by Todd C. Toral on behalf of Leon Panetta, The Institute for Security and Technology (Toral, Todd) (Filed on 6/26/2026) (Entered: 06/26/2026)'
+  importance: low
+- entry: '222'
+  date: '2026-06-26'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22148789.) filed by Democracy Defenders Fund. (Eisen, Norman) (Filed on 6/26/2026) (Entered: 06/26/2026)'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '224'
+  date: '2026-06-26'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22149317.) filed by Democracy Defenders Fund. (Goldman, Lauren) (Filed on 6/26/2026) (Entered: 06/26/2026)'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '223'
+  date: '2026-06-26'
+  description: 'ORDER Signed by Judge Rita F. Lin granting 222 Motion for Pro Hac Vice. (spp, COURT STAFF) (Filed on 6/26/2026) (Entered: 06/26/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '226'
+  date: '2026-06-26'
+  description: 'ORDER Signed by Judge Rita F. Lin granting 224 Motion for Pro Hac Vice. (spp, COURT STAFF) (Filed on 6/26/2026) (Entered: 06/26/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '225'
+  date: '2026-06-26'
+  description: 'Brief of Amici Curiae Democracy Defenders Fund and 149 Former Judges in Support of Plaintiff''s Motion for Summary Judgment filed byDemocracy Defenders Fund. (Attachments: # 1 Exhibit A)(Costa,
+    Gregg) (Filed on 6/26/2026…'
+  importance: high
+  documents:
+  - title: Brief
+  - title: Exhibit A
+- entry: '221'
+  date: '2026-06-26'
+  description: Brief of Amici Curiae Former Senior National Security Government Officials in Support of Plaintiff's Motion for Summary Judgment filed byFormer Senior National Security Government Officials.
+    (Loeb, Alexis) (Filed on 6/2…
+  importance: high
+  documents:
+  - title: Brief
+- entry: '220'
+  date: '2026-06-26'
+  description: 'CLERK''S NOTICE NOTIFYING PARTIES OF CHANGE IN COURTROOM LOCATION AS TO: 198 MOTION to File Amicus Curiae Brief in support of Plaintiff''s Motion for Summary Judgment 215 Cross MOTION for
+    Summary Judgment 166 MOTION for S…'
+  importance: low
+- entry: '228'
+  date: '2026-06-26'
+  description: 'MOTION for leave to appear in Pro Hac Vice ( Filing fee $ 328, receipt number ACANDC-22149675.) filed by Leon Panetta, The Institute for Security and Technology. (Attachments: # 1 Certificate
+    of Good Standing)(Klapper,…'
+  importance: medium
+  documents:
+  - title: Pro Hac Vice
+- entry: '229'
+  date: '2026-06-26'
+  description: BRIEF of Amicus Curiae in support of Motion for summary judgment filed by Leon Panetta, The Institute for Security and Technology. Motion Hearing set for 7/30/2026 10:00 AM in San Francisco,
+    Courtroom 15, 18th Floor bef…
+  importance: high
+  documents:
+  - title: File Amicus Curiae Brief
+- entry: '231'
+  date: '2026-06-29'
+  description: ORDER by Judge Rita F. Lin granting 176, 178, 198 Motions to File Amicus Curiae Briefs. See Dkt. No. 177 . (This is a text-only entry generated by the court. There is no document associated
+    with this entry.) (rfllc3, CO…
+  importance: medium
+- entry: '230'
+  date: '2026-06-29'
+  description: 'ORDER by Judge Rita F. Lin granting 228 Motion for Pro Hac Vice. (spp, COURT STAFF) (Filed on 6/29/2026) (Entered: 06/29/2026)'
+  importance: low
+  documents:
+  - title: Order on Motion for Pro Hac Vice
+- entry: '232'
+  date: '2026-06-30'
+  description: Appendix of Administrative Record filed byPaul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President, Federal Housing Finance
+    Agency, Federal Reserve Board…
+  importance: medium
+  documents:
+  - title: Appendix
+  - title: Appendix Part 2
+  - title: Appendix Part 3
+- entry: '233'
+  date: '2026-07-01'
+  description: NOTICE by Paul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President, Federal Housing Finance Agency, Federal Reserve Board
+    of Governors, Edward C. Forst, G…
+  importance: medium
+  documents:
+  - title: Notice (Other)
+  - title: Appendix ANT_AR-0001 to ANT_AR-0344
+  - title: Appendix ANT_AR-0345 to ANT_AR-0552
+  - title: Appendix ANT_AR-0553 to ANT_AR-1577
+- entry: '235'
+  date: '2026-07-08'
+  description: Reply to Opposition/Response
+  importance: low
+  documents:
+  - title: Reply to Opposition/Response
+- entry: '234'
+  date: '2026-07-08'
+  description: Reply to Opposition/Response
+  importance: low
+  documents:
+  - title: Reply to Opposition/Response
