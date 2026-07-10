@@ -1598,3 +1598,12 @@
   importance: low
   documents:
   - title: Reply to Opposition/Response
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-07-10 ---
+- entry: '236'
+  date: '2026-07-09'
+  description: Received Document — Envelope
+  importance: low
+  documents:
+  - title: Received Document
+  - title: Envelope

@@ -3711,6 +3711,14 @@
     "is_available_flag": true,
     "page_count": 9
   },
+  "ndcal-236": {
+    "available": true,
+    "document_number": "236",
+    "file_size": 197344,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
   "ndcal-24": {
     "available": true,
     "document_number": "24",
@@ -3992,11 +4000,11 @@
     "page_count": null
   },
   "ndcal-57": {
-    "available": false,
+    "available": true,
     "document_number": "57",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
+    "file_size": 214030,
+    "filepath_local": true,
+    "is_available_flag": true,
     "page_count": 16
   },
   "ndcal-58": {
@@ -4785,8 +4793,8 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice ( filing fee $ 328, receipt number ac": {
     "available": true,
-    "document_number": "158",
-    "file_size": 325082,
+    "document_number": "160",
+    "file_size": 324902,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
@@ -5800,11 +5808,11 @@
     "page_count": null
   },
   "ndcal-d:transcript of remote zoom video conference proceedings held on march 10, 2026, b": {
-    "available": false,
+    "available": true,
     "document_number": "57",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
+    "file_size": 214030,
+    "filepath_local": true,
+    "is_available_flag": true,
     "page_count": 16
   },
   "ndcal-d:transcript order for proceedings held on 03/10/2026 before judge rita f. lin by ": {
@@ -7063,6 +7071,14 @@
     "is_available_flag": true,
     "page_count": 9
   },
+  "ndcal-doc:236": {
+    "available": true,
+    "document_number": "236",
+    "file_size": 197344,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 3
+  },
   "ndcal-doc:24": {
     "available": true,
     "document_number": "24",
@@ -7344,11 +7360,11 @@
     "page_count": null
   },
   "ndcal-doc:57": {
-    "available": false,
+    "available": true,
     "document_number": "57",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
+    "file_size": 214030,
+    "filepath_local": true,
+    "is_available_flag": true,
     "page_count": 16
   },
   "ndcal-doc:58": {
