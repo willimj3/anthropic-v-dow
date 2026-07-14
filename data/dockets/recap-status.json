@@ -3719,6 +3719,14 @@
     "is_available_flag": true,
     "page_count": 3
   },
+  "ndcal-237": {
+    "available": false,
+    "document_number": "237",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-24": {
     "available": true,
     "document_number": "24",
@@ -4793,8 +4801,8 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice ( filing fee $ 328, receipt number ac": {
     "available": true,
-    "document_number": "160",
-    "file_size": 324902,
+    "document_number": "158",
+    "file_size": 325082,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
@@ -5194,6 +5202,14 @@
   "ndcal-d:notice of change in counsel: attorney alexander a. berengaut no longer represent": {
     "available": false,
     "document_number": "152",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:notice of change in counsel: attorney laila ujayli no longer representing former": {
+    "available": false,
+    "document_number": "237",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -7078,6 +7094,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
+  },
+  "ndcal-doc:237": {
+    "available": false,
+    "document_number": "237",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "ndcal-doc:24": {
     "available": true,

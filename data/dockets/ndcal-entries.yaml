@@ -1607,3 +1607,10 @@
   documents:
   - title: Received Document
   - title: Envelope
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-07-14 ---
+- entry: '237'
+  date: '2026-07-13'
+  description: 'NOTICE of Change in Counsel: Attorney Laila Ujayli no longer representing Former Service Secretaries and Retired Senior Military Officers in this case (Shin, Clara) (Filed on 7/13/2026)
+    (Entered: 07/13/2026)'
+  importance: medium
