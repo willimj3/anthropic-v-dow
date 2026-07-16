@@ -3727,6 +3727,14 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-238": {
+    "available": false,
+    "document_number": "238",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-24": {
     "available": true,
     "document_number": "24",
@@ -4825,8 +4833,8 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice ( filing fee $ 328, receipt number ac": {
     "available": true,
-    "document_number": "158",
-    "file_size": 325082,
+    "document_number": "160",
+    "file_size": 324902,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
@@ -7154,6 +7162,14 @@
   "ndcal-doc:237": {
     "available": false,
     "document_number": "237",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:238": {
+    "available": false,
+    "document_number": "238",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
