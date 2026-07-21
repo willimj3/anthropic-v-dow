@@ -1622,3 +1622,10 @@
   importance: low
   documents:
   - title: Reply to Opposition/Response
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-07-21 ---
+- entry: '239'
+  date: '2026-07-20'
+  description: ORDER. By July 24, 2026, Anthropic shall file a proposed order on its 166 Motion for Summary Judgment. The proposed order shall be limited to the issue of relief, and shall separately list
+    the relief Anthropic seeks for…
+  importance: high

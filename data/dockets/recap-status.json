@@ -3735,6 +3735,14 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-239": {
+    "available": false,
+    "document_number": "239",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-24": {
     "available": true,
     "document_number": "24",
@@ -4130,6 +4138,14 @@
   "ndcal-69": {
     "available": false,
     "document_number": "69",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-7": {
+    "available": false,
+    "document_number": "7",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -4833,8 +4849,8 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice ( filing fee $ 328, receipt number ac": {
     "available": true,
-    "document_number": "160",
-    "file_size": 324902,
+    "document_number": "158",
+    "file_size": 325082,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
@@ -4889,7 +4905,7 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice of stephanie crawford ( filing fee $ ": {
     "available": false,
-    "document_number": "91",
+    "document_number": "92",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -5783,6 +5799,14 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-d:order. by july 24, 2026, anthropic shall file a proposed order on its 166 motion": {
+    "available": false,
+    "document_number": "239",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-d:order. if defendants intend to submit any declarations or evidence in response t": {
     "available": false,
     "document_number": "117",
@@ -5830,6 +5854,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 9
+  },
+  "ndcal-d:reply (re 215 cross motion for summary judgment ) filed bypaul s. atkins, scott ": {
+    "available": false,
+    "document_number": "238",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "ndcal-d:reply (re 6 motion for temporary restraining order motion for preliminary injunc": {
     "available": true,
@@ -7175,6 +7207,14 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-doc:239": {
+    "available": false,
+    "document_number": "239",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-doc:24": {
     "available": true,
     "document_number": "24",
@@ -7570,6 +7610,14 @@
   "ndcal-doc:69": {
     "available": false,
     "document_number": "69",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:7": {
+    "available": false,
+    "document_number": "7",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
