@@ -873,11 +873,11 @@
   },
   "dccir-d:motion to participate as amicus curiae [disclosure listing: not applicable to th": {
     "available": true,
-    "document_number": "01208831087",
-    "file_size": 109071,
+    "document_number": "01208829854",
+    "file_size": 175526,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 6
+    "page_count": 5
   },
   "dccir-d:motion to participate as amicus curiae [disclosure listing: not attached] lodged": {
     "available": true,
@@ -3751,6 +3751,14 @@
     "is_available_flag": true,
     "page_count": 3
   },
+  "ndcal-240": {
+    "available": true,
+    "document_number": "240",
+    "file_size": 189174,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
   "ndcal-25": {
     "available": false,
     "document_number": "25",
@@ -4849,8 +4857,8 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice ( filing fee $ 328, receipt number ac": {
     "available": true,
-    "document_number": "158",
-    "file_size": 325082,
+    "document_number": "160",
+    "file_size": 324902,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
@@ -5822,6 +5830,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
+  },
+  "ndcal-d:proposed order re 166 motion for summary judgment by anthropic pbc. (mongan, mic": {
+    "available": true,
+    "document_number": "240",
+    "file_size": 189174,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
   },
   "ndcal-d:proposed summons. (mongan, michael) (filed on 3/9/2026) (entered: 03/09/2026)": {
     "available": true,
@@ -7222,6 +7238,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
+  },
+  "ndcal-doc:240": {
+    "available": true,
+    "document_number": "240",
+    "file_size": 189174,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
   },
   "ndcal-doc:25": {
     "available": false,

@@ -1629,3 +1629,11 @@
   description: ORDER. By July 24, 2026, Anthropic shall file a proposed order on its 166 Motion for Summary Judgment. The proposed order shall be limited to the issue of relief, and shall separately list
     the relief Anthropic seeks for…
   importance: high
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-07-24 ---
+- entry: '240'
+  date: '2026-07-23'
+  description: 'Proposed Order re 166 MOTION for Summary Judgment by Anthropic PBC. (Mongan, Michael) (Filed on 7/23/2026) (Entered: 07/23/2026)'
+  importance: high
+  documents:
+  - title: Proposed Order
