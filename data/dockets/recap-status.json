@@ -1073,11 +1073,11 @@
   },
   "dccir-d:respondent supplemental brief filed by peter b. hegseth and united states depart": {
     "available": true,
-    "document_number": "01208856765",
-    "file_size": 1770599,
+    "document_number": "01208872811",
+    "file_size": 139054,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 22
+    "page_count": 20
   },
   "dccir-d:response in opposition to motion filed by peter b. hegseth and united states dep": {
     "available": true,
@@ -1807,6 +1807,14 @@
     "is_available_flag": true,
     "page_count": 20
   },
+  "dccir-doc:01208872811": {
+    "available": true,
+    "document_number": "01208872811",
+    "file_size": 139054,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 20
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -2499,6 +2507,14 @@
     "available": true,
     "document_number": "01208866494",
     "file_size": 254787,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 20
+  },
+  "dccir-doc:1208872811": {
+    "available": true,
+    "document_number": "01208872811",
+    "file_size": 139054,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 20
@@ -3728,11 +3744,11 @@
     "page_count": null
   },
   "ndcal-238": {
-    "available": false,
+    "available": true,
     "document_number": "238",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
+    "file_size": 613464,
+    "filepath_local": true,
+    "is_available_flag": true,
     "page_count": 21
   },
   "ndcal-239": {
@@ -3758,6 +3774,22 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 5
+  },
+  "ndcal-241": {
+    "available": false,
+    "document_number": "241",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-242": {
+    "available": true,
+    "document_number": "242",
+    "file_size": 163899,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
   },
   "ndcal-25": {
     "available": false,
@@ -4687,6 +4719,14 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-d:clerk's notice re: zoom access re: motion hearing re: 166 motion for summary jud": {
+    "available": false,
+    "document_number": "241",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-d:clerk's notice re: zoom access re: motion hearing re: preliminary injunction for": {
     "available": false,
     "document_number": "112",
@@ -5319,6 +5359,14 @@
     "is_available_flag": true,
     "page_count": 4
   },
+  "ndcal-d:notice of questions for hearing. signed by judge rita f. lin on july 27, 2026. (": {
+    "available": true,
+    "document_number": "242",
+    "file_size": 163899,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
   "ndcal-d:notice of withdrawal filed by sopen b. shah, no longer appearing on behalf of ca": {
     "available": false,
     "document_number": "151",
@@ -5872,11 +5920,11 @@
     "page_count": 9
   },
   "ndcal-d:reply (re 215 cross motion for summary judgment ) filed bypaul s. atkins, scott ": {
-    "available": false,
+    "available": true,
     "document_number": "238",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
+    "file_size": 613464,
+    "filepath_local": true,
+    "is_available_flag": true,
     "page_count": 21
   },
   "ndcal-d:reply (re 6 motion for temporary restraining order motion for preliminary injunc": {
@@ -7216,11 +7264,11 @@
     "page_count": null
   },
   "ndcal-doc:238": {
-    "available": false,
+    "available": true,
     "document_number": "238",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
+    "file_size": 613464,
+    "filepath_local": true,
+    "is_available_flag": true,
     "page_count": 21
   },
   "ndcal-doc:239": {
@@ -7246,6 +7294,22 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 5
+  },
+  "ndcal-doc:241": {
+    "available": false,
+    "document_number": "241",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:242": {
+    "available": true,
+    "document_number": "242",
+    "file_size": 163899,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
   },
   "ndcal-doc:25": {
     "available": false,

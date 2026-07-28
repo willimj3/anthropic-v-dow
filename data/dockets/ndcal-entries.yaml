@@ -1637,3 +1637,16 @@
   importance: high
   documents:
   - title: Proposed Order
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-07-28 ---
+- entry: '241'
+  date: '2026-07-27'
+  description: 'CLERK''S NOTICE RE: ZOOM ACCESS RE: MOTION HEARING RE: 166 MOTION for Summary Judgment, 169 MOTION to Complete the Administrative Record and to Consider Evidence Outside the Administrative
+    Record, 215 DEFENDANTS COMBINED…'
+  importance: low
+- entry: '242'
+  date: '2026-07-27'
+  description: 'Notice of Questions for Hearing. Signed by Judge Rita F. Lin on July 27, 2026. (rfllc3, COURT STAFF) (Filed on 7/27/2026) (Entered: 07/27/2026)'
+  importance: medium
+  documents:
+  - title: Order
