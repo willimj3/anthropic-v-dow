@@ -1650,3 +1650,22 @@
   importance: medium
   documents:
   - title: Order
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-07-31 ---
+- entry: '245'
+  date: '2026-07-30'
+  description: Transcript Order
+  importance: low
+  documents:
+  - title: Transcript Order
+- entry: '243'
+  date: '2026-07-30'
+  description: 'Minute Entry for proceedings held before Judge Rita F. Lin: Motion Hearing held on 7/30/2026 re 166 MOTION for Summary Judgment, 169 MOTION to Complete the Administrative Record and to Consider
+    Evidence Outside the Admi…'
+  importance: high
+- entry: '244'
+  date: '2026-07-30'
+  description: 'TRANSCRIPT ORDER for proceedings held on 7/30/2026 before Judge Rita F. Lin by Anthropic PBC, for Court Reporter Kelly Shainline. (Mongan, Michael) (Filed on 7/30/2026) (Entered: 07/30/2026)'
+  importance: low
+  documents:
+  - title: Transcript Order

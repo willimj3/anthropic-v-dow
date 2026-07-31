@@ -3791,6 +3791,30 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "ndcal-243": {
+    "available": false,
+    "document_number": "243",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-244": {
+    "available": false,
+    "document_number": "244",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-245": {
+    "available": false,
+    "document_number": "245",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-25": {
     "available": false,
     "document_number": "25",
@@ -4878,6 +4902,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 10
+  },
+  "ndcal-d:minute entry for proceedings held before judge rita f. lin: motion hearing held ": {
+    "available": false,
+    "document_number": "243",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "ndcal-d:minute entry for proceedings held before judge rita f. lin: status conference re": {
     "available": false,
@@ -6018,6 +6050,14 @@
   "ndcal-d:transcript order for proceedings held on 3/24/2026 before judge rita f. lin by c": {
     "available": false,
     "document_number": "144",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:transcript order for proceedings held on 7/30/2026 before judge rita f. lin by a": {
+    "available": false,
+    "document_number": "244",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -7310,6 +7350,30 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
+  },
+  "ndcal-doc:243": {
+    "available": false,
+    "document_number": "243",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:244": {
+    "available": false,
+    "document_number": "244",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:245": {
+    "available": false,
+    "document_number": "245",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "ndcal-doc:25": {
     "available": false,
