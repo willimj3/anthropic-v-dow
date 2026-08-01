@@ -1669,3 +1669,11 @@
   importance: low
   documents:
   - title: Transcript Order
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-08-01 ---
+- entry: '246'
+  date: '2026-07-31'
+  description: Transcript
+  importance: low
+  documents:
+  - title: Transcript
