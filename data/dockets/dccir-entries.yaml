@@ -491,3 +491,12 @@
   importance: high
   documents:
   - title: Appellant/Petitioner Supplemental Brief Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-08-04 ---
+- entry: '01208875270'
+  date: '2026-08-03'
+  description: 'PETITIONER SUPPLEMENTAL REPLY BRIEF [2186378] filed by Anthropic PBC in 26-1049, 26-1162 [Service Date: 08/03/2026 ] Length of Brief: 998 Words. [26-1049, 26-1162] (Dunbar, Kelly) [Entered:
+    08/03/2026 04:50 PM]'
+  importance: medium
+  documents:
+  - title: Appellant/Petitioner Reply Supplemental Brief Filed
