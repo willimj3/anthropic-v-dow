@@ -3855,6 +3855,14 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-248": {
+    "available": false,
+    "document_number": "248",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-25": {
     "available": false,
     "document_number": "25",
@@ -4586,6 +4594,14 @@
   "ndcal-d:amended motion for leave to appear in pro hac vice katherine gallagher ( filing ": {
     "available": false,
     "document_number": "99",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-d:amended transcript of proceedings held on 7/30/2026, before judge rita f. lin. c": {
+    "available": false,
+    "document_number": "247",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -7442,6 +7458,14 @@
   "ndcal-doc:247": {
     "available": false,
     "document_number": "247",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "ndcal-doc:248": {
+    "available": false,
+    "document_number": "248",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
