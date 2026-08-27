@@ -500,3 +500,12 @@
   importance: medium
   documents:
   - title: Appellant/Petitioner Reply Supplemental Brief Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-08-27 ---
+- entry: '01208882311'
+  date: '2026-08-26'
+  description: 'RESPONSE [2190087] to letter [2189046-2], letter [2189046-3] filed by Peter B. Hegseth and United States Department of War in 26-1049, 26-1162 [Service Date: 08/26/2026 by CM/ECF NDA] Length
+    Certification: 295 words. [2…'
+  importance: low
+  documents:
+  - title: Response to Letter Filed

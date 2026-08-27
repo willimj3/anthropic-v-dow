@@ -1095,6 +1095,14 @@
     "is_available_flag": true,
     "page_count": 90
   },
+  "dccir-d:response to letter , letter filed by peter b. hegseth and united states departme": {
+    "available": true,
+    "document_number": "01208882311",
+    "file_size": 49005,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
   "dccir-d:statement of intent regarding appendix deferral filed by anthropic pbc [service ": {
     "available": true,
     "document_number": "01208838622",
@@ -1839,6 +1847,14 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-doc:01208882311": {
+    "available": true,
+    "document_number": "01208882311",
+    "file_size": 49005,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -2555,6 +2571,14 @@
     "available": true,
     "document_number": "01208880333",
     "file_size": 195146,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
+  "dccir-doc:1208882311": {
+    "available": true,
+    "document_number": "01208882311",
+    "file_size": 49005,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
