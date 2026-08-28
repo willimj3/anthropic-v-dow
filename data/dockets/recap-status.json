@@ -817,11 +817,11 @@
   },
   "dccir-d:letter pursuant to frap 28j advising of additional authorities filed by anthropi": {
     "available": true,
-    "document_number": "01208880333",
-    "file_size": 195146,
+    "document_number": "1208883171",
+    "file_size": 1035995,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 2
+    "page_count": 69
   },
   "dccir-d:letter regarding petitioner's receipt of the government's decision regarding rec": {
     "available": true,
@@ -873,11 +873,11 @@
   },
   "dccir-d:motion to participate as amicus curiae [disclosure listing: not applicable to th": {
     "available": true,
-    "document_number": "01208829854",
-    "file_size": 175526,
+    "document_number": "01208831087",
+    "file_size": 109071,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 5
+    "page_count": 6
   },
   "dccir-d:motion to participate as amicus curiae [disclosure listing: not attached] lodged": {
     "available": true,
@@ -2583,6 +2583,14 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-doc:1208883171": {
+    "available": true,
+    "document_number": "1208883171",
+    "file_size": 1035995,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 69
+  },
   "ndcal-1": {
     "available": true,
     "document_number": "1",
@@ -3919,6 +3927,30 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-250": {
+    "available": true,
+    "document_number": "250",
+    "file_size": 564134,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 59
+  },
+  "ndcal-251": {
+    "available": true,
+    "document_number": "251",
+    "file_size": 196963,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-252": {
+    "available": true,
+    "document_number": "252",
+    "file_size": 98868,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
   "ndcal-26": {
     "available": true,
     "document_number": "26",
@@ -4567,6 +4599,14 @@
     "is_available_flag": false,
     "page_count": null
   },
+  "ndcal-d:***civil case terminated. (dhm, court staff) (filed on 8/27/2026)": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "ndcal-d:***erroneously e-filed, disregard see doc 206 *** motion to file amicus curiae b": {
     "available": true,
     "document_number": "202",
@@ -5007,6 +5047,14 @@
     "is_available_flag": true,
     "page_count": 10
   },
+  "ndcal-d:judgment. signed by judge rita f. lin on august 27, 2026. (rfllc3, court staff) ": {
+    "available": true,
+    "document_number": "252",
+    "file_size": 98868,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
   "ndcal-d:minute entry for proceedings held before judge rita f. lin: motion hearing held ": {
     "available": false,
     "document_number": "243",
@@ -5057,7 +5105,7 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice of alexandra barbee-garrett ( filing ": {
     "available": false,
-    "document_number": "89",
+    "document_number": "90",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -5089,7 +5137,7 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice of stephanie crawford ( filing fee $ ": {
     "available": false,
-    "document_number": "92",
+    "document_number": "91",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -5926,6 +5974,22 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 43
+  },
+  "ndcal-d:order of final relief. signed by judge rita f. lin on august 27, 2026. (rfllc3, ": {
+    "available": true,
+    "document_number": "251",
+    "file_size": 196963,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-d:order on 166 215 cross motions for summary judgment; granting 169 motion to supp": {
+    "available": true,
+    "document_number": "250",
+    "file_size": 564134,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 59
   },
   "ndcal-d:order re 149 stipulation. signed by judge rita f. lin on 4/23/2026. the followin": {
     "available": true,
@@ -7542,6 +7606,30 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "ndcal-doc:250": {
+    "available": true,
+    "document_number": "250",
+    "file_size": 564134,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 59
+  },
+  "ndcal-doc:251": {
+    "available": true,
+    "document_number": "251",
+    "file_size": 196963,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 4
+  },
+  "ndcal-doc:252": {
+    "available": true,
+    "document_number": "252",
+    "file_size": 98868,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
   },
   "ndcal-doc:26": {
     "available": true,

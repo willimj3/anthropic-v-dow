@@ -1701,3 +1701,23 @@
   importance: low
   documents:
   - title: Transcript Order
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-08-28 ---
+- entry: '252'
+  date: '2026-08-27'
+  description: 'JUDGMENT. Signed by Judge Rita F. Lin on August 27, 2026. (rfllc3, COURT STAFF) (Filed on 8/27/2026) (Main Document 252 replaced on 8/27/2026) (rfllc3, COURT STAFF). (Entered: 08/27/2026)'
+  importance: high
+  documents:
+  - title: Judgment
+- entry: '251'
+  date: '2026-08-27'
+  description: 'ORDER OF FINAL RELIEF. Signed by Judge Rita F. Lin on August 27, 2026. (rfllc3, COURT STAFF) (Filed on 8/27/2026) (Entered: 08/27/2026)'
+  importance: medium
+  documents:
+  - title: Order
+- entry: '250'
+  date: '2026-08-27'
+  description: 'ORDER ON 166 215 CROSS MOTIONS FOR SUMMARY JUDGMENT; GRANTING 169 MOTION TO SUPPLEMENT THE ADMINISTRATIVE RECORD. (rfllc3, COURT STAFF) (Filed on 8/27/2026) (Entered: 08/27/2026)'
+  importance: high
+  documents:
+  - title: Order on Motion for Summary Judgment
