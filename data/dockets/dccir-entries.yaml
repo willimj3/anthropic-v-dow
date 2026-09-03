@@ -509,3 +509,12 @@
   importance: low
   documents:
   - title: Response to Letter Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-09-03 ---
+- entry: '1208884647'
+  date: '2026-09-03'
+  description: 'RESPONSE [2191274] to letter Rule 28j authorities [2190510-2], letter [2190510-3] filed by Peter B. Hegseth and United States Department of War in 26-1049, 26-1162 [Service Date: 09/03/2026
+    by CM/ECF NDA] Length Certifi…'
+  importance: low
+  documents:
+  - title: Response to Letter Filed

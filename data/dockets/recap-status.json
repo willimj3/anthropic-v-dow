@@ -1103,6 +1103,14 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-d:response to letter rule 28j authorities , letter filed by peter b. hegseth and u": {
+    "available": true,
+    "document_number": "1208884647",
+    "file_size": 44290,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
   "dccir-d:statement of intent regarding appendix deferral filed by anthropic pbc [service ": {
     "available": true,
     "document_number": "01208838622",
@@ -2590,6 +2598,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 69
+  },
+  "dccir-doc:1208884647": {
+    "available": true,
+    "document_number": "1208884647",
+    "file_size": 44290,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
   },
   "ndcal-1": {
     "available": true,
