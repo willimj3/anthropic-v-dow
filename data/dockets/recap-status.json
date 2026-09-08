@@ -817,7 +817,7 @@
   },
   "dccir-d:letter pursuant to frap 28j advising of additional authorities filed by anthropi": {
     "available": true,
-    "document_number": "1208883171",
+    "document_number": "01208883171",
     "file_size": 1035995,
     "filepath_local": true,
     "is_available_flag": true,
@@ -1105,7 +1105,7 @@
   },
   "dccir-d:response to letter rule 28j authorities , letter filed by peter b. hegseth and u": {
     "available": true,
-    "document_number": "1208884647",
+    "document_number": "01208884647",
     "file_size": 44290,
     "filepath_local": true,
     "is_available_flag": true,
@@ -1863,6 +1863,22 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-doc:01208883171": {
+    "available": true,
+    "document_number": "01208883171",
+    "file_size": 1035995,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 69
+  },
+  "dccir-doc:01208884647": {
+    "available": true,
+    "document_number": "01208884647",
+    "file_size": 44290,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -2593,7 +2609,7 @@
   },
   "dccir-doc:1208883171": {
     "available": true,
-    "document_number": "1208883171",
+    "document_number": "01208883171",
     "file_size": 1035995,
     "filepath_local": true,
     "is_available_flag": true,
@@ -2601,7 +2617,7 @@
   },
   "dccir-doc:1208884647": {
     "available": true,
-    "document_number": "1208884647",
+    "document_number": "01208884647",
     "file_size": 44290,
     "filepath_local": true,
     "is_available_flag": true,
