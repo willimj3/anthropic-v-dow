@@ -639,6 +639,14 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-d:clerk's order filed withholding issuance of the mandate. [26-1049, 26-1162] [ent": {
+    "available": true,
+    "document_number": "01208891915",
+    "file_size": 45195,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
   "dccir-d:consent amicus for petitioner brief filed by alan z. rozenshtein [service date: ": {
     "available": true,
     "document_number": "01208843469",
@@ -919,6 +927,22 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-d:opinion 2194984 filed (pages: 43) for the court by judge katsas, dissenting opin": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:opinion filed (pages: 43) for the court by judge katsas, dissenting opinion (pag": {
+    "available": false,
+    "document_number": "01208891909",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "dccir-d:oral argument held before judges henderson, katsas and rao. [entered: 05/19/2026": {
     "available": true,
     "document_number": "01208851556",
@@ -934,6 +958,14 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "dccir-d:per curiam judgment filed that the petitions for review be denied, for the reaso": {
+    "available": true,
+    "document_number": "01208891903",
+    "file_size": 55091,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
   },
   "dccir-d:per curiam order (with per curiam statement attached) filed granting motions to ": {
     "available": true,
@@ -1879,6 +1911,30 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "dccir-doc:01208891903": {
+    "available": true,
+    "document_number": "01208891903",
+    "file_size": 55091,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:01208891909": {
+    "available": false,
+    "document_number": "01208891909",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:01208891915": {
+    "available": true,
+    "document_number": "01208891915",
+    "file_size": 45195,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -2622,6 +2678,30 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
+  },
+  "dccir-doc:1208891903": {
+    "available": true,
+    "document_number": "01208891903",
+    "file_size": 55091,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
+  "dccir-doc:1208891909": {
+    "available": false,
+    "document_number": "01208891909",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208891915": {
+    "available": true,
+    "document_number": "01208891915",
+    "file_size": 45195,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
   },
   "ndcal-1": {
     "available": true,
