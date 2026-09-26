@@ -936,12 +936,12 @@
     "page_count": null
   },
   "dccir-d:opinion filed (pages: 43) for the court by judge katsas, dissenting opinion (pag": {
-    "available": false,
+    "available": true,
     "document_number": "01208891909",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 616334,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 51
   },
   "dccir-d:oral argument held before judges henderson, katsas and rao. [entered: 05/19/2026": {
     "available": true,
@@ -1920,12 +1920,12 @@
     "page_count": 1
   },
   "dccir-doc:01208891909": {
-    "available": false,
+    "available": true,
     "document_number": "01208891909",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 616334,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 51
   },
   "dccir-doc:01208891915": {
     "available": true,
@@ -2688,12 +2688,12 @@
     "page_count": 1
   },
   "dccir-doc:1208891909": {
-    "available": false,
+    "available": true,
     "document_number": "01208891909",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 616334,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 51
   },
   "dccir-doc:1208891915": {
     "available": true,
