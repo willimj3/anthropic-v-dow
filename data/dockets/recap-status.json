@@ -1159,6 +1159,14 @@
     "is_available_flag": true,
     "page_count": 4
   },
+  "dccir-d:transcript 2196052 of oral argument (for internal use only: transcript is only a": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "dccir-d:underlying decision in case submitted by anthropic pbc [service date: 04/08/2026": {
     "available": true,
     "document_number": "01208838616",

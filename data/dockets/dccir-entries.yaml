@@ -545,3 +545,11 @@
   importance: medium
   documents:
   - title: Order Filed (CLERK)
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-03 ---
+- entry: ''
+  date: '2026-10-02'
+  description: 'TRANSCRIPT 2196052 of oral argument (For Internal Use Only: Transcript is only available to court staff). [26-1049, 26-1162]'
+  importance: high
+  documents:
+  - title: Oral Argument Transcript
