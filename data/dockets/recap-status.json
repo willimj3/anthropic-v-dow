@@ -1039,6 +1039,14 @@
     "is_available_flag": true,
     "page_count": 1
   },
+  "dccir-d:petition for rehearing en banc filed by petitioner anthropic pbc in 26-1049, 26-": {
+    "available": true,
+    "document_number": "01208897389",
+    "file_size": 1844561,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 83
+  },
   "dccir-d:petition for review case docketed. [entered: 03/09/2026 12:26 pm]": {
     "available": false,
     "document_number": "",
@@ -1943,6 +1951,14 @@
     "is_available_flag": true,
     "page_count": 1
   },
+  "dccir-doc:01208897389": {
+    "available": true,
+    "document_number": "01208897389",
+    "file_size": 1844561,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 83
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -2710,6 +2726,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 1
+  },
+  "dccir-doc:1208897389": {
+    "available": true,
+    "document_number": "01208897389",
+    "file_size": 1844561,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 83
   },
   "ndcal-1": {
     "available": true,

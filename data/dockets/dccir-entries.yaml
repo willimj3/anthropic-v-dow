@@ -553,3 +553,12 @@
   importance: high
   documents:
   - title: Oral Argument Transcript
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-14 ---
+- entry: '01208897389'
+  date: '2026-10-13'
+  description: 'PETITION [2197902] for rehearing en banc filed by Petitioner Anthropic PBC in 26-1049, 26-1162 [Service Date: 10/13/2026 by CM/ECF NDA] Length Certification: 3,894 words. [26-1049, 26-1162]
+    (Dunbar, Kelly) [Entered: 10/…'
+  importance: low
+  documents:
+  - title: Petition for Panel Rehearing or Rehearing En Banc
