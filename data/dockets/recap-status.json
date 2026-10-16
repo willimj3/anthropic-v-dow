@@ -631,6 +631,14 @@
     "is_available_flag": true,
     "page_count": 5
   },
+  "dccir-d:clerk's order filed directing respondents' response to petitioner's petition for": {
+    "available": true,
+    "document_number": "01208898343",
+    "file_size": 44886,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
   "dccir-d:clerk's order filed directing the parties to file initial submissions: petitione": {
     "available": true,
     "document_number": "01208828702",
@@ -1038,6 +1046,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 1
+  },
+  "dccir-d:petition for panel rehearing and for rehearing en banc filed by petitioner anthr": {
+    "available": true,
+    "document_number": "01208897389",
+    "file_size": 1844561,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 83
   },
   "dccir-d:petition for rehearing en banc filed by petitioner anthropic pbc in 26-1049, 26-": {
     "available": true,
@@ -1959,6 +1975,14 @@
     "is_available_flag": true,
     "page_count": 83
   },
+  "dccir-doc:01208898343": {
+    "available": true,
+    "document_number": "01208898343",
+    "file_size": 44886,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -2734,6 +2758,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 83
+  },
+  "dccir-doc:1208898343": {
+    "available": true,
+    "document_number": "01208898343",
+    "file_size": 44886,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
   },
   "ndcal-1": {
     "available": true,

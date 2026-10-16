@@ -562,3 +562,12 @@
   importance: low
   documents:
   - title: Petition for Panel Rehearing or Rehearing En Banc
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-16 ---
+- entry: '01208898343'
+  date: '2026-10-15'
+  description: CLERK'S ORDER [2198350] filed directing respondents' response to petitioner's petition for panel rehearing [2197902-3]. Response to petition for panel rehearing due 10/30/2026. The response
+    may not exceed 3,900 words. A…
+  importance: medium
+  documents:
+  - title: Order Filed (CLERK)
