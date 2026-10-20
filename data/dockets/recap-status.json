@@ -585,11 +585,11 @@
   },
   "dccir-d:amicus for petitioner final brief filed by catholic moral theologians and ethici": {
     "available": true,
-    "document_number": "01208843262",
-    "file_size": 237595,
+    "document_number": "1208899823",
+    "file_size": 205142,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 21
+    "page_count": 22
   },
   "dccir-d:amicus for respondent brief filed by joel thayer, senior fellow at the america f": {
     "available": true,
@@ -854,6 +854,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 7
+  },
+  "dccir-d:motion to extend time to file response to 11/13/2026 filed by united states depa": {
+    "available": true,
+    "document_number": "1208899691",
+    "file_size": 69609,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
   },
   "dccir-d:motion to participate as amicus curiae [disclosure listing: attached] filed by 1": {
     "available": true,
@@ -2766,6 +2774,22 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 1
+  },
+  "dccir-doc:1208899691": {
+    "available": true,
+    "document_number": "1208899691",
+    "file_size": 69609,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 6
+  },
+  "dccir-doc:1208899823": {
+    "available": true,
+    "document_number": "1208899823",
+    "file_size": 205142,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 22
   },
   "ndcal-1": {
     "available": true,

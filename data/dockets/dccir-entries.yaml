@@ -571,3 +571,12 @@
   importance: medium
   documents:
   - title: Order Filed (CLERK)
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-20 ---
+- entry: '1208899691'
+  date: '2026-10-19'
+  description: 'MOTION [2199042] to extend time to file response to 11/13/2026 filed by United States Department of War and Peter B. Hegseth in 26-1049, 26-1162 (Service Date: 10/19/2026 by CM/ECF NDA)
+    Length Certification: 475 words.…'
+  importance: medium
+  documents:
+  - title: Motion Filed
