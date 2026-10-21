@@ -580,3 +580,89 @@
   importance: medium
   documents:
   - title: Motion Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-21 ---
+- entry: '1208900300'
+  date: '2026-10-20'
+  description: 'CONSENT MOTION [2199309] to participate as amicus curiae [Disclosure Listing: Attached] filed by Freedom Economy Business Association and Values-Led Investors [Service Date: 10/20/2026 ]
+    [26-1049] (Petrick, Josephine)'
+  importance: medium
+  documents:
+  - title: Motion to Participate as Amicus Curiae Filed
+- entry: '1208900307'
+  date: '2026-10-20'
+  description: 'CONSENT MOTION [2199311] to participate as amicus curiae [Disclosure Listing: Attached] filed by TechNet, Software & Information Industry Association, Computer & Communications Industry
+    Association, and Information Tech…'
+  importance: medium
+  documents:
+  - title: Motion to Participate as Amicus Curiae Filed
+- entry: '01208900258'
+  date: '2026-10-20'
+  description: CONSENT MOTION [2199291] for Invitation to File Amici Curiae Brief in Support of Petition for Rehearing Pursuant to D.C. Circuit Rule 40(f) filed by Employees of OpenAI and Google in their
+    personal capacities (Service D…
+  importance: medium
+  documents:
+  - title: Motion Filed
+  - title: Proposed Amicus Brief
+- entry: '1208900318'
+  date: '2026-10-20'
+  description: 'NOTICE [2199315] of intention to participate as amicus curiae [Disclosure Listing: Not Applicable to this Party] filed by Kevin Frazier [Service Date: 10/20/2026 ] [26-1049] (Davies, Mark)'
+  importance: medium
+  documents:
+  - title: Notice of Intention to Participate as Amicus Curiae Filed
+- entry: '1208900334'
+  date: '2026-10-20'
+  description: 'AMICUS FOR PETITIONER BRIEF [2199320] filed by Professor Kevin Frazier [Service Date: 10/20/2026 ] Length of Brief: 2,405 words. [26-1049] (Davies, Mark)'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '1208900293'
+  date: '2026-10-20'
+  description: 'CONSENT MOTION [2199307] to participate as amicus curiae [Disclosure Listing: Attached] filed by Faith Family Technology Network [Service Date: 10/20/2026 ] [26-1049, 26-1162] (Kilaru, Rakesh)'
+  importance: medium
+  documents:
+  - title: Motion to Participate as Amicus Curiae Filed
+- entry: '1208900303'
+  date: '2026-10-20'
+  description: 'CONSENT UNOPPOSED MOTION [2199310] to participate as amicus curiae filed by Democracy Defenders Fund in 26-1049 [Service Date: 10/20/2026 ] Length Certification: 2,599. [26-1049, 26-1162]
+    (Costa, Gregg)'
+  importance: medium
+  documents:
+  - title: Motion Filed (Unopposed)
+- entry: '01208900205'
+  date: '2026-10-20'
+  description: 'CONSENT MOTION [2199270] to participate as amicus curiae [Disclosure Listing: Attached] filed by Center for AI and Digital Policy (CAIDP), International Association for Safe and Ethical
+    AI (IASEAI), Daron Acemoglu, Gill…'
+  importance: medium
+  documents:
+  - title: Proposed Brief of Amici Curiae
+  - title: Motion to Participate as Amicus Curiae Filed
+- entry: '01208899958'
+  date: '2026-10-20'
+  description: 'CONSENT MOTION [2199160] to participate as amicus curiae [Disclosure Listing: Not Applicable to this Party] filed by Former Service Secretaries and Retired Senior Military Officers [Service
+    Date: 10/20/2026 ] [26-1049,…'
+  importance: medium
+  documents:
+  - title: Motion to Participate as Amicus Curiae Filed
+  - title: Brief of Amici Curiae In Support of Petition For Rehearing En Banc
+- entry: '1208900311'
+  date: '2026-10-20'
+  description: 'CONSENT MOTION [2199312] to participate as amicus curiae [Disclosure Listing: Attached] filed by Foundation for Individual Rights and Expression, Electronic Frontier Foundation, Cato Institute,
+    Chamber of Progress, Firs…'
+  importance: medium
+  documents:
+  - title: Consent Motion to Participate as Amicus Curiae
+- entry: '01208900143'
+  date: '2026-10-20'
+  description: 'CONSENT MOTION [2199244] to participate as amicus curiae [Disclosure Listing: Previously Filed] filed by Leon Panetta and the Institute for Security and Technology [Service Date: 10/20/2026
+    ] [26-1049, 26-1162] (Klapper…'
+  importance: medium
+  documents:
+  - title: Motion of Former Secretary of Defense Leon Panetta and the Institute for Securit
+- entry: '01208900147'
+  date: '2026-10-20'
+  description: 'CONSENT MOTION [2199246] to participate as amicus curiae filed by Former Senior National Security Government Officials in 26-1049 (Service Date: 10/20/2026 by CM/ECF NDA) Length Certification:
+    477 words. [26-1049, 26-11…'
+  importance: medium
+  documents:
+  - title: Consent Motion Filed
