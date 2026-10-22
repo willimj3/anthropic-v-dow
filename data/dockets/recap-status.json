@@ -447,6 +447,14 @@
     "is_available_flag": true,
     "page_count": 13
   },
+  "dccir-d:amicus for petitioner brief 2199396 lodged by former senior national security go": {
+    "available": false,
+    "document_number": "",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "dccir-d:amicus for petitioner brief filed by 149 former judges and democracy defenders f": {
     "available": true,
     "document_number": "01208843421",
@@ -529,11 +537,11 @@
   },
   "dccir-d:amicus for petitioner brief lodged by 149 former judges and democracy defenders ": {
     "available": true,
-    "document_number": "01208831569",
-    "file_size": 261921,
+    "document_number": "1208900496",
+    "file_size": 278156,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 43
+    "page_count": 37
   },
   "dccir-d:amicus for petitioner brief lodged by act | the app association [service date: 0": {
     "available": true,
@@ -559,6 +567,30 @@
     "is_available_flag": true,
     "page_count": 21
   },
+  "dccir-d:amicus for petitioner brief lodged by cato institute, chamber of progress, elect": {
+    "available": true,
+    "document_number": "1208900502",
+    "file_size": 280457,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "dccir-d:amicus for petitioner brief lodged by center for ai and digital policy, interdis": {
+    "available": true,
+    "document_number": "1208900484",
+    "file_size": 97469,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-d:amicus for petitioner brief lodged by computer & communications industry associa": {
+    "available": true,
+    "document_number": "1208900499",
+    "file_size": 209553,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
   "dccir-d:amicus for petitioner brief lodged by dean ball, chinatalk, martin chorzempa, fa": {
     "available": true,
     "document_number": "01208829735",
@@ -566,6 +598,22 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 31
+  },
+  "dccir-d:amicus for petitioner brief lodged by employees of openai and google in their pe": {
+    "available": false,
+    "document_number": "1208900487",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:amicus for petitioner brief lodged by faith family technology network in 26-1049": {
+    "available": false,
+    "document_number": "1208900490",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "dccir-d:amicus for petitioner brief lodged by former senior national security government": {
     "available": true,
@@ -582,6 +630,22 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 35
+  },
+  "dccir-d:amicus for petitioner brief lodged by howard fischer, freedom economy business a": {
+    "available": false,
+    "document_number": "1208900493",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:amicus for petitioner brief lodged by institute for security and technology and ": {
+    "available": true,
+    "document_number": "1208900432",
+    "file_size": 245250,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 24
   },
   "dccir-d:amicus for petitioner brief lodged by technet, software & information industry a": {
     "available": true,
@@ -753,27 +817,27 @@
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: not applicab": {
     "available": true,
-    "document_number": "01208899958",
-    "file_size": 149451,
+    "document_number": "01208900533",
+    "file_size": 108991,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 4
+    "page_count": 5
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: previously f": {
-    "available": false,
+    "available": true,
     "document_number": "01208900143",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 177330,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-d:consent motion to participate as amicus curiae filed by former senior national s": {
-    "available": false,
+    "available": true,
     "document_number": "01208900147",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 39286,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-d:consent notice of intention to participate as amicus curiae [disclosure listing:": {
     "available": true,
@@ -814,6 +878,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 42
+  },
+  "dccir-d:corrected motion to participate as amicus curiae [disclosure listing: not applic": {
+    "available": true,
+    "document_number": "01208900739",
+    "file_size": 143378,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-d:docketing statement filed by anthropic pbc [service date: 04/08/2026 ] (dunbar, ": {
     "available": true,
@@ -2080,20 +2152,20 @@
     "page_count": 4
   },
   "dccir-doc:01208900143": {
-    "available": false,
+    "available": true,
     "document_number": "01208900143",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 177330,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-doc:01208900147": {
-    "available": false,
+    "available": true,
     "document_number": "01208900147",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 39286,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-doc:01208900150": {
     "available": true,
@@ -2118,6 +2190,22 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 5
+  },
+  "dccir-doc:01208900533": {
+    "available": true,
+    "document_number": "01208900533",
+    "file_size": 108991,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:01208900739": {
+    "available": true,
+    "document_number": "01208900739",
+    "file_size": 143378,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-doc:1208828684": {
     "available": true,
@@ -2928,20 +3016,20 @@
     "page_count": 4
   },
   "dccir-doc:1208900143": {
-    "available": false,
+    "available": true,
     "document_number": "01208900143",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 177330,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-doc:1208900147": {
-    "available": false,
+    "available": true,
     "document_number": "01208900147",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 39286,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "dccir-doc:1208900150": {
     "available": true,
@@ -3022,6 +3110,94 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 21
+  },
+  "dccir-doc:1208900429": {
+    "available": false,
+    "document_number": "1208900429",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208900432": {
+    "available": true,
+    "document_number": "1208900432",
+    "file_size": 245250,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 24
+  },
+  "dccir-doc:1208900484": {
+    "available": true,
+    "document_number": "1208900484",
+    "file_size": 97469,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 19
+  },
+  "dccir-doc:1208900487": {
+    "available": false,
+    "document_number": "1208900487",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208900490": {
+    "available": false,
+    "document_number": "1208900490",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208900493": {
+    "available": false,
+    "document_number": "1208900493",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208900496": {
+    "available": true,
+    "document_number": "1208900496",
+    "file_size": 278156,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 37
+  },
+  "dccir-doc:1208900499": {
+    "available": true,
+    "document_number": "1208900499",
+    "file_size": 209553,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 23
+  },
+  "dccir-doc:1208900502": {
+    "available": true,
+    "document_number": "1208900502",
+    "file_size": 280457,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 21
+  },
+  "dccir-doc:1208900533": {
+    "available": true,
+    "document_number": "01208900533",
+    "file_size": 108991,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 5
+  },
+  "dccir-doc:1208900739": {
+    "available": true,
+    "document_number": "01208900739",
+    "file_size": 143378,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 7
   },
   "ndcal-1": {
     "available": true,

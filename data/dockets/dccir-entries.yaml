@@ -666,3 +666,66 @@
   importance: medium
   documents:
   - title: Consent Motion Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-22 ---
+- entry: '1208900499'
+  date: '2026-10-20'
+  description: AMICUS FOR PETITIONER BRIEF [2199418] lodged by Computer & Communications Industry Association, Information Technology Industry Council, Software & Information Industry Association and TechNet
+    in 26-1049 [Service Date:…
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '1208900484'
+  date: '2026-10-20'
+  description: AMICUS FOR PETITIONER BRIEF [2199412] lodged by Center for AI and Digital Policy, Interdisciplinary Scholars of AI, Law, Economics, and Governance and International Association for Safe and
+    Ethical AI in 26-1162 [Servic…
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '1208900487'
+  date: '2026-10-20'
+  description: 'AMICUS FOR PETITIONER BRIEF [2199413] lodged by Employees of OpenAI and Google in their personal capacities in 26-1049 [Service Date: 10/20/2026 ] Length of Brief: 2564 words. [26-1049,
+    26-1162]'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '1208900490'
+  date: '2026-10-20'
+  description: 'AMICUS FOR PETITIONER BRIEF [2199414] lodged by Faith Family Technology Network in 26-1049 [Service Date: 10/20/2026 ] Length of Brief: 2584 words. [26-1049, 26-1162]'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: ''
+  date: '2026-10-20'
+  description: 'AMICUS FOR PETITIONER BRIEF 2199396 lodged by Former Senior National Security Government Officials [Service Date: 10/20/2026 ] Length of Brief: 2297 words. [26-1049, 26-1162]'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '1208900432'
+  date: '2026-10-20'
+  description: 'AMICUS FOR PETITIONER BRIEF [2199394] lodged by Institute for Security and Technology and Leon E. Panetta [Service Date: 10/20/2026 ] Length of Brief: 2582 words. [26-1049, 26-1162]'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '1208900502'
+  date: '2026-10-20'
+  description: AMICUS FOR PETITIONER BRIEF [2199419] lodged by Cato Institute, Chamber of Progress, Electronic Frontier Foundation, First Amendment Lawyers Association and Foundation for Individual Rights
+    and Expression in 26-1049 [Se…
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '1208900493'
+  date: '2026-10-20'
+  description: 'AMICUS FOR PETITIONER BRIEF [2199415] lodged by Howard Fischer, Freedom Economy Business Association, Thomas Haslett and John O''Farrell in 26-1049 [Service Date: 10/20/2026 ] Length of
+    Brief: 2419 words. [26-1049, 26-11…'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '01208900739'
+  date: '2026-10-21'
+  description: 'CORRECTED MOTION [2199521] to participate as amicus curiae [Disclosure Listing: Not Applicable to this Party] filed by Catholic Moral Theologians and Ethicists [Service Date: 10/21/2026
+    ] [26-1049, 26-1162] (Klubes, Ben…'
+  importance: medium
+  documents:
+  - title: Motion to Participate as Amicus Curiae Filed
+  - title: Amicus for Appellant/Petitioner Brief Filed
