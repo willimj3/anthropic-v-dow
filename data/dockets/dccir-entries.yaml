@@ -729,3 +729,26 @@
   documents:
   - title: Motion to Participate as Amicus Curiae Filed
   - title: Amicus for Appellant/Petitioner Brief Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-23 ---
+- entry: '01208899823'
+  date: '2026-10-20'
+  description: 'AMICUS FOR PETITIONER FINAL BRIEF [2199081] lodged by Catholic Moral Theologians and Ethicists in 26-1049 [Service Date: 10/20/2026 ] Length of Brief: 3061 words. [26-1049, 26-1162]--[Edited
+    10/22/2026 by KMC -- MODIFIE…'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner FINAL Brief Filed
+- entry: '01208900915'
+  date: '2026-10-21'
+  description: 'AMICUS FOR PETITIONER BRIEF [2199610] lodged by Catholic Moral Theologians and Ethicists in 26-1049 [Service Date: 10/21/2026 ] Length of Brief: 2166 words. [26-1049, 26-1162] [Entered:
+    10/22/2026 12:23 PM]'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
+- entry: '01208901294'
+  date: '2026-10-23'
+  description: 'PER CURIAM ORDER [2199814] filed granting respondents'' motion to extend time to file a response to the petition for panel rehearing [2199042-2]. The response is now due no later than November
+    13, 2026. Before Judges: He…'
+  importance: high
+  documents:
+  - title: Per Curiam Order Filed (Merits Panel)
