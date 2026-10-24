@@ -447,6 +447,14 @@
     "is_available_flag": true,
     "page_count": 13
   },
+  "dccir-d:amicus brief lodged by human flag association in 26-1049 [service date: 10/19/20": {
+    "available": false,
+    "document_number": "01208901584",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "dccir-d:amicus for petitioner brief 2199396 lodged by former senior national security go": {
     "available": false,
     "document_number": "",
@@ -1066,6 +1074,14 @@
   "dccir-d:motion to participate as amicus curiae combined with amicus for petitioner brief": {
     "available": false,
     "document_number": "01208839342",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-d:motion to participate as amicus curiae filed by human flag association (service ": {
+    "available": false,
+    "document_number": "01208901555",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -2383,6 +2399,22 @@
     "is_available_flag": true,
     "page_count": 1
   },
+  "dccir-doc:01208901555": {
+    "available": false,
+    "document_number": "01208901555",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:01208901584": {
+    "available": false,
+    "document_number": "01208901584",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "dccir-doc:1208828684": {
     "available": true,
     "document_number": "01208828684",
@@ -3390,6 +3422,22 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 1
+  },
+  "dccir-doc:1208901555": {
+    "available": false,
+    "document_number": "01208901555",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
+  "dccir-doc:1208901584": {
+    "available": false,
+    "document_number": "01208901584",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "ndcal-1": {
     "available": true,

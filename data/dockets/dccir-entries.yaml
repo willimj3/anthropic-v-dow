@@ -752,3 +752,18 @@
   importance: high
   documents:
   - title: Per Curiam Order Filed (Merits Panel)
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-24 ---
+- entry: '01208901555'
+  date: '2026-10-21'
+  description: 'MOTION [2199973] to participate as amicus curiae filed by Human Flag Association (Service Date: 10/19/2026 by Email) Length Certification: 748 words. [26-1049, 26-1162] [Entered: 10/23/2026
+    02:22 PM]'
+  importance: medium
+  documents:
+  - title: Motion Filed
+- entry: '01208901584'
+  date: '2026-10-21'
+  description: 'AMICUS BRIEF [2199984] lodged by Human Flag Association in 26-1049 [Service Date: 10/19/2026 ] Length of Brief: 2144 words. [26-1049, 26-1162] [Entered: 10/23/2026 02:40 PM]'
+  importance: medium
+  documents:
+  - title: Amicus for Appellant/Petitioner Brief Filed
