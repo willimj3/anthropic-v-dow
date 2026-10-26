@@ -1721,3 +1721,12 @@
   importance: high
   documents:
   - title: Order on Motion for Summary Judgment
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-10-26 ---
+- entry: '253'
+  date: '2026-10-26'
+  description: NOTICE OF APPEAL to the 9th Circuit Court of Appeals filed by Paul S. Atkins, Scott Bessent, Frank J. Bisigano, Mary Anne Carter, Douglas A. Collins, Executive Office of the President, Federal
+    Housing Finance Agency, Fe…
+  importance: high
+  documents:
+  - title: Notice of Appeal to the Ninth Circuit

@@ -4799,6 +4799,14 @@
     "is_available_flag": true,
     "page_count": 1
   },
+  "ndcal-253": {
+    "available": true,
+    "document_number": "253",
+    "file_size": 130141,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
+  },
   "ndcal-26": {
     "available": true,
     "document_number": "26",
@@ -5929,8 +5937,8 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice ( filing fee $ 328, receipt number ac": {
     "available": true,
-    "document_number": "158",
-    "file_size": 325082,
+    "document_number": "160",
+    "file_size": 324902,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 3
@@ -5953,7 +5961,7 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice of alexandra barbee-garrett ( filing ": {
     "available": false,
-    "document_number": "89",
+    "document_number": "90",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -5985,7 +5993,7 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice of stephanie crawford ( filing fee $ ": {
     "available": false,
-    "document_number": "91",
+    "document_number": "92",
     "file_size": null,
     "filepath_local": false,
     "is_available_flag": false,
@@ -6129,8 +6137,8 @@
   },
   "ndcal-d:notice of appeal to the 9th circuit court of appeals filed by paul s. atkins, sc": {
     "available": true,
-    "document_number": "141",
-    "file_size": 98947,
+    "document_number": "253",
+    "file_size": 130141,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
@@ -8478,6 +8486,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 1
+  },
+  "ndcal-doc:253": {
+    "available": true,
+    "document_number": "253",
+    "file_size": 130141,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 2
   },
   "ndcal-doc:26": {
     "available": true,
