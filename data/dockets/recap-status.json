@@ -665,8 +665,8 @@
   },
   "dccir-d:amicus for petitioner brief lodged by professor kevin frazier [service date: 10/": {
     "available": true,
-    "document_number": "01208900334",
-    "file_size": 265868,
+    "document_number": "1208900334",
+    "file_size": 591421,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 21
@@ -841,11 +841,11 @@
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: attached] fi": {
     "available": true,
-    "document_number": "01208900293",
-    "file_size": 185125,
+    "document_number": "01208900300",
+    "file_size": 428536,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 8
+    "page_count": 38
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: not applicab": {
     "available": true,
@@ -1057,11 +1057,11 @@
   },
   "dccir-d:motion to participate as amicus curiae [disclosure listing: not applicable to th": {
     "available": true,
-    "document_number": "01208831087",
-    "file_size": 109071,
+    "document_number": "01208900739",
+    "file_size": 143378,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 6
+    "page_count": 7
   },
   "dccir-d:motion to participate as amicus curiae [disclosure listing: not attached] lodged": {
     "available": true,
@@ -3313,8 +3313,8 @@
   },
   "dccir-doc:1208900334": {
     "available": true,
-    "document_number": "01208900334",
-    "file_size": 265868,
+    "document_number": "1208900334",
+    "file_size": 591421,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 21
