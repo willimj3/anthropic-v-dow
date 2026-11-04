@@ -1730,3 +1730,11 @@
   importance: high
   documents:
   - title: Notice of Appeal to the Ninth Circuit
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-11-04 ---
+- entry: '254'
+  date: '2026-11-03'
+  description: USCA Notice of Docketing ROA
+  importance: medium
+  documents:
+  - title: USCA Notice of Docketing ROA

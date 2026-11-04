@@ -665,7 +665,7 @@
   },
   "dccir-d:amicus for petitioner brief lodged by professor kevin frazier [service date: 10/": {
     "available": true,
-    "document_number": "1208900334",
+    "document_number": "01208900334",
     "file_size": 591421,
     "filepath_local": true,
     "is_available_flag": true,
@@ -750,6 +750,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
+  },
+  "dccir-d:clerk's order filed vacating the court\u2019s order filed october 23, 2026 . it is fu": {
+    "available": true,
+    "document_number": "01208904826",
+    "file_size": 40127,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
   },
   "dccir-d:clerk's order filed withholding issuance of the mandate. [26-1049, 26-1162] [ent": {
     "available": true,
@@ -841,11 +849,11 @@
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: attached] fi": {
     "available": true,
-    "document_number": "01208900300",
-    "file_size": 428536,
+    "document_number": "01208900205",
+    "file_size": 85461,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 38
+    "page_count": 9
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: not applicab": {
     "available": true,
@@ -873,8 +881,8 @@
   },
   "dccir-d:consent notice of intention to participate as amicus curiae [disclosure listing:": {
     "available": true,
-    "document_number": "01208843319",
-    "file_size": 118186,
+    "document_number": "01208830023",
+    "file_size": 111154,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 4
@@ -2290,7 +2298,7 @@
   "dccir-doc:01208900334": {
     "available": true,
     "document_number": "01208900334",
-    "file_size": 265868,
+    "file_size": 591421,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 21
@@ -2414,6 +2422,14 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "dccir-doc:01208904826": {
+    "available": true,
+    "document_number": "01208904826",
+    "file_size": 40127,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
   },
   "dccir-doc:1208828684": {
     "available": true,
@@ -3313,7 +3329,7 @@
   },
   "dccir-doc:1208900334": {
     "available": true,
-    "document_number": "1208900334",
+    "document_number": "01208900334",
     "file_size": 591421,
     "filepath_local": true,
     "is_available_flag": true,
@@ -3438,6 +3454,14 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "dccir-doc:1208904826": {
+    "available": true,
+    "document_number": "01208904826",
+    "file_size": 40127,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 1
   },
   "ndcal-1": {
     "available": true,
@@ -4807,6 +4831,14 @@
     "is_available_flag": true,
     "page_count": 2
   },
+  "ndcal-254": {
+    "available": true,
+    "document_number": "254",
+    "file_size": 225157,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
+  },
   "ndcal-26": {
     "available": true,
     "document_number": "26",
@@ -5625,19 +5657,19 @@
   },
   "ndcal-d:brief of amici curiae filed byformer service secretaries and retired senior mili": {
     "available": true,
-    "document_number": "58",
-    "file_size": 262421,
+    "document_number": "186",
+    "file_size": 336119,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 23
   },
   "ndcal-d:brief of amici curiae filed byindustry trade associations. (parker, warrington) ": {
     "available": true,
-    "document_number": "72",
-    "file_size": 276551,
+    "document_number": "196",
+    "file_size": 357986,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 14
+    "page_count": 22
   },
   "ndcal-d:brief of amici curiae former senior national security government officials in su": {
     "available": true,
@@ -5937,11 +5969,11 @@
   },
   "ndcal-d:motion for leave to appear in pro hac vice ( filing fee $ 328, receipt number ac": {
     "available": true,
-    "document_number": "85",
-    "file_size": 71812,
+    "document_number": "160",
+    "file_size": 324902,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 2
+    "page_count": 3
   },
   "ndcal-d:motion for leave to appear in pro hac vice for todd hinnen ( filing fee $ 328, r": {
     "available": false,
@@ -6137,8 +6169,8 @@
   },
   "ndcal-d:notice of appeal to the 9th circuit court of appeals filed by paul s. atkins, sc": {
     "available": true,
-    "document_number": "141",
-    "file_size": 98947,
+    "document_number": "253",
+    "file_size": 130141,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
@@ -8494,6 +8526,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
+  },
+  "ndcal-doc:254": {
+    "available": true,
+    "document_number": "254",
+    "file_size": 225157,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 9
   },
   "ndcal-doc:26": {
     "available": true,

@@ -767,3 +767,12 @@
   importance: medium
   documents:
   - title: Amicus for Appellant/Petitioner Brief Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-11-04 ---
+- entry: '01208904826'
+  date: '2026-11-03'
+  description: CLERK'S ORDER [2201653] filed vacating the court’s order filed October 23, 2026 [2199814-3]. It is FURTHER ORDERED, on the court's own motion, that within 15 days of the date of this order,
+    respondents file a response t…
+  importance: medium
+  documents:
+  - title: Order Filed (CLERK)
