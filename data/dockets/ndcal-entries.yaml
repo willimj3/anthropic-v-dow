@@ -1738,3 +1738,9 @@
   importance: medium
   documents:
   - title: USCA Notice of Docketing ROA
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-11-07 ---
+- entry: '255'
+  date: '2026-11-06'
+  description: 'NOTICE of Withdrawal filed by Susan J Hennessey, no longer appearing on behalf of Anthropic PBC in this case (Hennessey, Susan) (Filed on 11/6/2026) (Entered: 11/06/2026)'
+  importance: medium
