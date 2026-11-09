@@ -776,3 +776,12 @@
   importance: medium
   documents:
   - title: Order Filed (CLERK)
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-11-09 ---
+- entry: '1208906640'
+  date: '2026-11-09'
+  description: 'AMICUS FOR RESPONDENT BRIEF [2202576] filed by Mr. Joel Thayer in Support of Respondents in Opposition of Petition for Rehearing en banc [Service Date: 11/09/2026 ] Length of Brief: 3,388
+    words. [26-1049] (Thayer, Joel)'
+  importance: medium
+  documents:
+  - title: Amicus for Appellee/Respondent Brief Filed

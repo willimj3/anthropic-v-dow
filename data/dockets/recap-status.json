@@ -711,6 +711,14 @@
     "is_available_flag": true,
     "page_count": 23
   },
+  "dccir-d:amicus for respondent brief filed by mr. joel thayer in support of respondents i": {
+    "available": false,
+    "document_number": "1208906640",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
+  },
   "dccir-d:appendix filed by anthropic pbc [volumes: 4] [service date: 04/22/2026 ] (dunbar": {
     "available": true,
     "document_number": "01208843409",
@@ -793,8 +801,8 @@
   },
   "dccir-d:consent amicus for petitioner brief filed by employees of openai and google in t": {
     "available": true,
-    "document_number": "01208830127",
-    "file_size": 228696,
+    "document_number": "01208843334",
+    "file_size": 232939,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 26
@@ -857,11 +865,11 @@
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: attached] fi": {
     "available": true,
-    "document_number": "01208900205",
-    "file_size": 85461,
+    "document_number": "01208900311",
+    "file_size": 101140,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 9
+    "page_count": 5
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: not applicab": {
     "available": true,
@@ -889,8 +897,8 @@
   },
   "dccir-d:consent notice of intention to participate as amicus curiae [disclosure listing:": {
     "available": true,
-    "document_number": "01208843319",
-    "file_size": 118186,
+    "document_number": "01208830023",
+    "file_size": 111154,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 4
@@ -3470,6 +3478,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 1
+  },
+  "dccir-doc:1208906640": {
+    "available": false,
+    "document_number": "1208906640",
+    "file_size": null,
+    "filepath_local": false,
+    "is_available_flag": false,
+    "page_count": null
   },
   "ndcal-1": {
     "available": true,
