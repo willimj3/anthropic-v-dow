@@ -712,12 +712,12 @@
     "page_count": 23
   },
   "dccir-d:amicus for respondent brief filed by mr. joel thayer in support of respondents i": {
-    "available": false,
+    "available": true,
     "document_number": "1208906640",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 415995,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 28
   },
   "dccir-d:appendix filed by anthropic pbc [volumes: 4] [service date: 04/22/2026 ] (dunbar": {
     "available": true,
@@ -3480,12 +3480,12 @@
     "page_count": 1
   },
   "dccir-doc:1208906640": {
-    "available": false,
+    "available": true,
     "document_number": "1208906640",
-    "file_size": null,
-    "filepath_local": false,
-    "is_available_flag": false,
-    "page_count": null
+    "file_size": 415995,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 28
   },
   "ndcal-1": {
     "available": true,
