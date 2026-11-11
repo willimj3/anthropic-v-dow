@@ -785,3 +785,12 @@
   importance: medium
   documents:
   - title: Amicus for Appellee/Respondent Brief Filed
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-11-11 ---
+- entry: '1208907058'
+  date: '2026-11-10'
+  description: 'UNOPPOSED MOTION [2202778] For Leave to File a Brief as Amicus Curiae Opposing Petitioner''s Petition for Rehearing En Banc filed by Mr. Joel Thayer [Service Date: 11/10/2026 ] Length Certification:
+    646 words. [26-1049]…'
+  importance: medium
+  documents:
+  - title: Motion Filed (Unopposed)
