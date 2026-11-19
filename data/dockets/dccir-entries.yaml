@@ -794,3 +794,12 @@
   importance: medium
   documents:
   - title: Motion Filed (Unopposed)
+
+# --- Auto-appended below by scripts/sync_dockets.py on 2026-11-19 ---
+- entry: '1208909414'
+  date: '2026-11-18'
+  description: 'RESPONSE [2204024] to petition for rehearing en banc [2197902-2], petition for rehearing [2197902-3] filed by Peter B. Hegseth and United States Department of War in 26-1049, 26-1162 [Service
+    Date: 11/18/2026 by CM/ECF…'
+  importance: low
+  documents:
+  - title: Response to Petition Filed

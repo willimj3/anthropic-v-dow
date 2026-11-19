@@ -873,11 +873,11 @@
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: attached] fi": {
     "available": true,
-    "document_number": "01208900300",
-    "file_size": 428536,
+    "document_number": "01208900205",
+    "file_size": 85461,
     "filepath_local": true,
     "is_available_flag": true,
-    "page_count": 38
+    "page_count": 9
   },
   "dccir-d:consent motion to participate as amicus curiae [disclosure listing: not applicab": {
     "available": true,
@@ -905,8 +905,8 @@
   },
   "dccir-d:consent notice of intention to participate as amicus curiae [disclosure listing:": {
     "available": true,
-    "document_number": "01208830023",
-    "file_size": 111154,
+    "document_number": "01208843319",
+    "file_size": 118186,
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 4
@@ -1390,6 +1390,14 @@
     "filepath_local": true,
     "is_available_flag": true,
     "page_count": 2
+  },
+  "dccir-d:response to petition for rehearing en banc , petition for rehearing filed by pet": {
+    "available": true,
+    "document_number": "1208909414",
+    "file_size": 144984,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 26
   },
   "dccir-d:statement of intent regarding appendix deferral filed by anthropic pbc [service ": {
     "available": true,
@@ -3526,6 +3534,14 @@
     "filepath_local": false,
     "is_available_flag": false,
     "page_count": null
+  },
+  "dccir-doc:1208909414": {
+    "available": true,
+    "document_number": "1208909414",
+    "file_size": 144984,
+    "filepath_local": true,
+    "is_available_flag": true,
+    "page_count": 26
   },
   "ndcal-1": {
     "available": true,
